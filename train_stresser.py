@@ -1,4 +1,8 @@
 import argparse
+import numpy as np
+
+import Levenshtein
+
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from keras.utils import to_categorical
@@ -8,6 +12,48 @@ from keras.models import load_model
 from stresser.data import load_word_stresses
 from stresser.vectorization import SequenceVectorizer
 from stresser.modeling import build_model
+
+def eval_syll(gold, silver, syllab_only=False):
+    # legend: 1 = begin stressed, 2 = begin unstressed, 3 = inside syllab
+    results = []
+
+    if not syllab_only:
+        # unrelaxed evaluation
+        for g, s in zip(gold, silver):
+            for g_, s_ in zip(g, s):
+                if g_ == s_:
+                    results.append(1) 
+                else:
+                    results.append(0)
+    else:
+        # only look at token boundaries:
+        for g, s in zip(gold, silver):
+            for g_, s_ in zip(g, s):
+                if g_ in (1, 2) or s_ in (1, 2):
+                    if g_ in (1, 2) and s_ in (1, 2):
+                        results.append(1) 
+                    else:
+                        results.append(0)
+    
+    return np.sum(results) / len(results)
+
+def eval_word(gold, silver):
+    return accuracy_score([str(s) for s in gold], 
+                          [str(s) for s in silver])
+
+def eval_levenshtein(gold, silver, norm=True):
+    results = []
+    for g, s in zip(gold, silver):
+        g = ''.join([str(c) for c in g])
+        s = ''.join([str(c) for c in s])
+        if norm:
+            results.append(Levenshtein.distance(g, s) / len(g))
+        else:
+            results.append(Levenshtein.distance(g, s))
+        
+    
+    return np.mean(results)
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -76,7 +122,7 @@ def main():
                                      verbose=1, save_best_only=True)
         
         reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.3,
-                                      patience=1, min_lr=0.0001,
+                                      patience=1, min_lr=0.00001,
                                       verbose=1, min_delta=0.001)
 
         try:
@@ -92,7 +138,7 @@ def main():
     model = load_model(args.model_prefix + '.model')
 
     # calculate test accuracy
-    test_loss, test_acc_syll = model.evaluate(test_X, test_Y)
+    test_loss, _= model.evaluate(test_X, test_Y)
     test_predictions = model.predict(test_X)
 
     print(test_Y.argmax(axis=-1)[0])
@@ -143,14 +189,21 @@ def main():
 
         syllables.append(sylls)
         stresses.append(stress)
-
-    test_acc_token = accuracy_score([str(s) for s in gold_decoded], 
-                                    [str(s) for s in silver_decoded])
-
+    
     print('test loss:', test_loss)
-    print('test acc (char):', test_acc_syll)
-    print('test acc (token):', test_acc_token)
+    test_acc_token = eval_word(gold_decoded, silver_decoded)
+    print('test acc (full token):', test_acc_token)
 
+    test_acc_syll = eval_syll(gold_decoded, silver_decoded)
+    print('test acc (syll-level):', test_acc_syll)
+
+    test_acc_syll = eval_syll(gold_decoded, silver_decoded, syllab_only=True)
+    print('test acc (syll, syllab only):', test_acc_syll)
+
+    test_lev_acc = eval_levenshtein(gold_decoded, silver_decoded, norm=False)
+    print('test acc (syll, levenshtein):', test_lev_acc)
+
+    # wave list of errors for error analysis!
 
 if __name__ == '__main__':
     main()
