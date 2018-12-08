@@ -57,7 +57,7 @@ def eval_levenshtein(gold, silver, norm=True):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_file', type=str, default='assets/stress_reviewed_WOUTER.json')
+    parser.add_argument('--input_file', type=str, default='assets/stress_manually_reviewed.json')
     parser.add_argument('--train_size', default=0.9, type=float)
     parser.add_argument('--lr', default=0.001, type=float)
     parser.add_argument('--rnd_state', default=23456, type=int)
