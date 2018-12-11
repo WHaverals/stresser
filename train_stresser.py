@@ -105,7 +105,7 @@ def main():
             pass
     
     v.dump(v_path)
-    model = u.load_keras_model(m_path)
+    model = u.load_keras_model(m_path, no_crf=args.no_crf)
     
     # evaluate on test:
     test_silver = u.pred_to_classes(model.predict(test_X))

@@ -138,6 +138,9 @@ def create_custom_objects():
         return method(*args)
     return {"ClassWrapper": ClassWrapper ,"CRF": ClassWrapper, "loss": loss, "accuracy":accuracy}
 
-def load_keras_model(path):
-    model = load_model(path, custom_objects=create_custom_objects())
+def load_keras_model(path, no_crf):
+    if not no_crf:
+        model = load_model(path, custom_objects=create_custom_objects())
+    else:
+        model = load_model(path)
     return model
