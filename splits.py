@@ -2,6 +2,7 @@ import argparse
 import shutil
 import os
 import json
+from collections import Counter
 
 from sklearn.model_selection import train_test_split as split
 
@@ -32,6 +33,10 @@ def main():
         items = json.loads(f.read())
     
     num_sylls = [items[w]['syllabified'].count('-') + 1 for w in sorted(items)]
+    cnt = Counter(num_sylls)
+    exclude = set([k for k, v in cnt.most_common() if v < 3])
+    items = {k:v for k, v in items.items() if ['syllabified'].count('-') not in exclude}
+    num_sylls = [w.count('-') for w in sorted(items)]
 
     print(f'-> loaded {len(items)} items in total')
 
