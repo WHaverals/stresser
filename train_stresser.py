@@ -12,6 +12,7 @@ from stresser.modelling import build_model
 import stresser.utils as u
 
 
+
 def main():
     parser = argparse.ArgumentParser(description='Trains a syllabifier')
     parser.add_argument('--input_dir', type=str,
@@ -37,7 +38,7 @@ def main():
     parser.add_argument('--no_crf', default=False, action='store_true',
                         help='Exclude the CRF from the model')
     parser.add_argument('--recurrent_dim', type=int,
-                        default=30,
+                        default=256,
                         help='Number of recurrent dims')
     parser.add_argument('--emb_dim', type=int,
                         default=64,
