@@ -5,6 +5,8 @@ import json
 import numpy as np
 from sklearn.metrics import accuracy_score
 from keras_contrib.layers import CRF
+from keras_contrib.losses import crf_loss
+from keras_contrib.metrics import crf_viterbi_accuracy
 from keras.models import load_model
 
 def x_and_y(data):
@@ -124,23 +126,9 @@ def jsonify(tokens, predictions, rm_symbols=True):
     
     return json.dumps(l, indent=4)
 
-def create_custom_objects():
-    instanceHolder = {"instance": None}
-    class ClassWrapper(CRF):
-        def __init__(self, *args, **kwargs):
-            instanceHolder["instance"] = self
-            super(ClassWrapper, self).__init__(*args, **kwargs)
-    def loss(*args):
-        method = getattr(instanceHolder["instance"], "loss_function")
-        return method(*args)
-    def accuracy(*args):
-        method = getattr(instanceHolder["instance"], "accuracy")
-        return method(*args)
-    return {"ClassWrapper": ClassWrapper ,"CRF": ClassWrapper, "loss": loss, "accuracy":accuracy}
 
 def load_keras_model(path, no_crf):
-    if not no_crf:
-        model = load_model(path, custom_objects=create_custom_objects())
-    else:
-        model = load_model(path)
-    return model
+    custom_objects={'CRF': CRF,
+                    'crf_loss': crf_loss,
+                    'crf_viterbi_accuracy': crf_viterbi_accuracy}
+    return load_model(path, custom_objects=custom_objects)

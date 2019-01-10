@@ -3,6 +3,8 @@ from keras.optimizers import Adam
 from keras.layers import *
 
 from keras_contrib.layers import CRF
+from keras_contrib.losses import crf_loss
+from keras_contrib.metrics import crf_viterbi_accuracy
 
 def build_model(vectorizer, embed_dim, num_layers, recurrent_dim,
                 lr, dropout, no_crf=False, num_classes=3):
@@ -34,7 +36,7 @@ def build_model(vectorizer, embed_dim, num_layers, recurrent_dim,
         crf = CRF(num_classes)
         output_ = crf(dense)
         model = Model(inputs=input_, outputs=output_)
-        model.compile(optimizer=optim, loss=crf.loss_function, metrics=[crf.accuracy])
+        model.compile(optimizer=optim, loss=crf_loss, metrics=[crf_viterbi_accuracy])
     else:
         output_ = Activation('softmax', name='out')(dense)
         model = Model(inputs=input_, outputs=output_)
