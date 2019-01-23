@@ -5,8 +5,10 @@ import html
 import shutil
 import json
 
+from tqdm import tqdm
 from unidecode import unidecode
 from bs4 import BeautifulSoup
+import numpy as np
 
 from keras.models import load_model
 from keras_contrib.utils import save_load_utils
@@ -14,132 +16,107 @@ from stresser.vectorization import SequenceVectorizer
 from stresser.modelling import build_model
 import stresser.utils as u
 
-
-def main():
-
-    parser = argparse.ArgumentParser(description='Pollysyllable verse line stresser')
-    
-    parser.add_argument('--model_dir', type=str,
-                        default='model_s')
-    parser.add_argument('--no_crf', default=False, action='store_true',
-                        help='Exclude the CRF from the model')
-
-    args = parser.parse_args()
-
-    m_path = os.sep.join((args.model_dir, 'syllab.model'))
-
-    vec_prefix = 'model_s/vectorizer'
-    input_dir = 'data/xml_mnl'
-    output_dir = 'stressed_file'
-
-    try:
-        shutil.rmtree(output_dir)
-    except:
-        pass
-
-    os.mkdir(output_dir)
-
-## LOAD MODELS ##
-    
-    vectorizer = SequenceVectorizer.load(vec_prefix + '.json')
-    model = u.load_keras_model(m_path, no_crf=args.no_crf)
-    print("MODEL LOADED")
-    
-## CLEANING XML DATA ##
-
+def load_lines(fn):
     LACUNA = re.compile(r'\.\.+')
 
-    for entry in os.scandir(input_dir):
-        if not entry.path.endswith(".xml"):
+    with open(fn, 'r') as f:
+        xml_text = f.read()
+
+    xml_text = xml_text.replace('&oudpond;', '')
+    xml_text = xml_text.replace('&supm;', 'm')
+    xml_text = xml_text.replace('&supM;', 'm')
+    xml_text = xml_text.replace('&supc;', 'c')
+    xml_text = xml_text.replace('&supt;', 't')
+    xml_text = xml_text.replace('&supn;', 'n')
+    xml_text = xml_text.replace('&sups;', 's')
+    xml_text = xml_text.replace('&supd;', 'd')
+    xml_text = xml_text.replace('&supc;', 'c')
+    xml_text = xml_text.replace('&uring;', 'u')
+    xml_text = xml_text.replace('&lt;', '')
+    xml_text = xml_text.replace('&gt;', '')
+    xml_text = html.unescape(xml_text)
+
+    soup = BeautifulSoup(xml_text, 'html.parser')
+    lines = []
+    for line in soup.find_all('l'):
+        if line.has_attr('parse'):
             continue
-        print('---> parsing:', entry.path)
+        line = line.get_text().strip().lower()
+        if not line or re.search(LACUNA, line):
+            continue
+        line = ''.join(c for c in line if c.isalpha() or c.isspace())
+        line = ' '.join(line.split()).strip()
+        if line:
+            lines.append(line)
+    return lines
 
-        with open(entry.path, 'r') as f:
-            xml_text = f.read()
+def main():
+    parser = argparse.ArgumentParser(description='Pollysyllable verse line stresser')
+    parser.add_argument('--model_dir', type=str, default='model_s')
+    parser.add_argument('--no_crf', default=False, action='store_true',
+                        help='Exclude the CRF from the model')
+    parser.add_argument('--infile', type=str, default='data/xml_mnl/Lutgard_K.xml')
+    parser.add_argument('--outfile', type=str, default='lutgard_polysyllab.json')
+    args = parser.parse_args()
+    m_path = os.sep.join((args.model_dir, 'syllab.model'))
 
-            xml_text = xml_text.replace('&oudpond;', '')
-            xml_text = xml_text.replace('&supm;', 'm')
-            xml_text = xml_text.replace('&supM;', 'm')
-            xml_text = xml_text.replace('&supc;', 'c')
-            xml_text = xml_text.replace('&supt;', 't')
-            xml_text = xml_text.replace('&supn;', 'n')
-            xml_text = xml_text.replace('&sups;', 's')
-            xml_text = xml_text.replace('&supd;', 'd')
-            xml_text = xml_text.replace('&supc;', 'c')
-            xml_text = xml_text.replace('&uring;', 'u')
-            xml_text = xml_text.replace('&lt;', '')
-            xml_text = xml_text.replace('&gt;', '')
-            xml_text = html.unescape(xml_text)
-
-        soup = BeautifulSoup(xml_text, 'html.parser')
-
-        lines = []
-        for line in soup.find_all('l'):
-            if line.has_attr('parse'):
-                continue
-            text = line.get_text().strip()
-            if (not text) or (re.search(LACUNA, text)):
-                continue
-            else:
-                lines.append(text)
+    vec_prefix = f'{args.model_dir}/vectorizer'
+    vectorizer = SequenceVectorizer.load(vec_prefix + '.json')
+    model = u.load_keras_model(m_path, no_crf=args.no_crf)    
+    lines = load_lines(args.infile)
+      
+    syllabified = []
+    for line in tqdm(lines):
+        syll_words, stress_words = [], []
+        words = line.split()
+        if len(words) < 2:
+            continue
         
-        clean_lines = []
-        for line in lines:
-            line = line.lower()
-            clean_line = ''
-            for char in line:
-                if char.isalpha() or char.isspace():
-                    clean_line += char
-            clean_line = clean_line.strip()
-            if clean_line:
-                clean_lines.append(clean_line)
+        monosyllab = False
+        for word in words:
+            if len(word) < 2:
+                monosyllab = True
+                break
+            
+            word_v = vectorizer.transform([word])
+            prediction = model.predict(word_v)
+            prediction = prediction.argmax(axis=-1)[0]
 
-        raw_lines = [line.split() for line in clean_lines]
+            token = list(word)
+            prediction = prediction[1 : len(token) + 1]
+            syll_str, stress = '', []
+            curr_syll = -1
+            for p in prediction[::-1]:
+                if p == 2:
+                    syll_str += token.pop()
+                else:
+                    if p == 0:
+                        stress.append(curr_syll)
+                    curr_syll -= 1
+                    syll_str += token.pop()
+                    if token:
+                        syll_str += '-'
+            
+            syll_str = ''.join(syll_str[::-1])
+            sylls = syll_str.split('-')
+            if len(sylls) < 2:
+                monosyllab = True
+                break
 
-## SYLLABIFYING AND STRESSING VERSE LINES ##
+            int_stress = np.zeros(len(sylls), dtype=np.int32)
+            for idx in stress[::-1]:
+                int_stress[idx] = 1
+            int_stress = [int(i) for i in int_stress]
+            
+            syll_words.append(sylls)
+            stress_words.append(int_stress)
         
-        syllabified_lut = []
-        for line in raw_lines:
-            syll_line, stress_line = [], []
-            for word in line:
-                word_v = vectorizer.transform([word])
-                predictions = model.predict(word_v)
-                predictions = predictions.argmax(axis=-1)[0]
-
-                sylls, stress, curr_syll = [], [], []
-
-                for char, label in zip(word, predictions):
-                    if label == 3:
-                        curr_syll.append(char)
-                    else:
-                        if label == 1:
-                            stress.append(1)
-                        elif label == 2:
-                            stress.append(0)
-
-                        if curr_syll:
-                            sylls.append(curr_syll)
-                            curr_syll = []
-                        curr_syll.append(char)
-
-                if curr_syll:
-                    sylls.append(curr_syll)
-
-                sylls = [''.join(sy) for sy in sylls]
-
-                syll_line.append(sylls)
-                stress_line.append(stress)
-
-
-## APPENDING RESULTS TO LIST OF ONLY POLLYSYLLABLE VERSE LINES ##
-            include = True
-            for word in syll_line:
-                if len(word) == 1:
-                    include = False
-            if include:
-                syllabified_lut.append(syll_line)
-               # print(syll_line)
-               # print(stress_line)
+        if not monosyllab:
+            syllabified.append({'syllables': syll_words,
+                                'stresses': stress_words})
+    print(f'-> {len(syllabified)} purely polysyllabic verses')
+    with open(args.outfile, 'w') as f:
+        f.write(json.dumps(syllabified, indent=4))
 
 if __name__ == '__main__':
     main()
