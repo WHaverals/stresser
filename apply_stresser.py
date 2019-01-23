@@ -5,7 +5,7 @@ import glob
 from lxml import etree
 from keras.models import load_model
 from stresser.vectorization import SequenceVectorizer
-from stresser.modeling import build_model
+from stresser.modelling import build_model
 
 def enrich_word_node(w, vectorizer, model):
     syllables = []
