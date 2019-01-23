@@ -32,7 +32,6 @@ def main():
     input_dir = 'data/xml_mnl'
     output_dir = 'stressed_file'
 
-
     try:
         shutil.rmtree(output_dir)
     except:
@@ -103,7 +102,7 @@ def main():
         for line in raw_lines:
             syll_line, stress_line = [], []
             for word in line:
-                word_v = vectorizer.transform([word]) 
+                word_v = vectorizer.transform([word])
                 predictions = model.predict(word_v)
                 predictions = predictions.argmax(axis=-1)[0]
 
@@ -131,6 +130,7 @@ def main():
                 syll_line.append(sylls)
                 stress_line.append(stress)
 
+
 ## APPENDING RESULTS TO LIST OF ONLY POLLYSYLLABLE VERSE LINES ##
             include = True
             for word in syll_line:
@@ -138,8 +138,8 @@ def main():
                     include = False
             if include:
                 syllabified_lut.append(syll_line)
-                print(syll_line)
-                print(stress_line)
+               # print(syll_line)
+               # print(stress_line)
 
 if __name__ == '__main__':
     main()
