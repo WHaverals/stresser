@@ -1,0 +1,223 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i383"><teiHeader><fileDesc><titleStmt><title>Karel ende Elegast</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1486"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1486"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1488"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1488"/></interpGrp>
+<TITEL>Karel ende Elegast</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K44">'s-Gravenhage, Koninklijke Bibliotheek, Oude druk 169 G 63</BRON>
+<DATUM>1486-1488</DATUM>
+<OMVANG>1364 verzen</OMVANG>
+<BRON.OPM>26 bladen; per bladzijde 1 kolom en per kolom 28 regels. Van het laatste blad is 3/5 deel afgescheurd, waardoor de verzen 1356-1372 ontbreken (oorspronkelijk 1381 verzen). Er is ruimte uitgespaard voor 26 lombarden van twee regels hoog (geen representanten); 11 hiervan werden door de rubricator overgeslagen en zijn later door een jongere hand alsnog aangebracht. In de druk ontbreekt een impressum, een opgave van de plaats en het jaar van verschijnen en van de naam van de drukker. Het lettertype waarin de incunabel is gezet, werd gebruikt in drukken die, voorzover bekend, tussen 29 november 1486 en 26 juni 1488 verschenen bij Jacob Jacobsz. van der Meer en bij Christiaen Snellaert. Het is daarom waarschijnlijk dat deze incunabel, waar in de literatuur naar verwezen wordt met 'A', in 1486, 1487 of 1488 van de pers is gekomen. Incunabel A is niet alleen de oudste volledige druk waarover we beschikken, maar ook de minst gemoderniseerde. De afwijkingen t.o.v. de overgeleverde codexfragmenten zijn vrij gering, zodat A, al is het een jonge bron, niet minder betrouwbaar lijkt dan de 100 jaar oudere handschriften. Opvallend in redactie A is het grote aantal onvolkomen rijmen (zie voor deze gegevens behalve de editie A.M. Duinhoven: Bijdragen tot reconstructie van de "Karel ende Elegast". Dl. 1. Assen, 1975. Diss. Utrecht, 61-65)</BRON.OPM>
+<EDITIE>A.M. Duinhoven (ed.): Karel ende Elegast. Diplomatische uitgave van de Middelnederlandse teksten en de tekst uit de Karlmeinet-compilatie. Dl. 1. Zwolle, 1969. (Zwolse drukken en herdrukken voor de Maatschappij der Nederlandse Letterkunde te Leiden, nr. 62), 16-70.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>172.B.1 (andere editie)</BRONMNW>
+<EDITIE.OPM>Duinhoven heeft gekozen voor een zogenaamde synoptische uitgave in twee delen, waarin de Middelnederlandse teksten van alle bronnen naast elkaar, concorderend, zijn afgedrukt (tezamen met het ripuarisch afschrift uit de Karlmeinetcodex). Behalve een nummering per tekst heeft hij in de buitenmarges een tweede nummering aangebracht ten behoeve van de "concordantie van tekstuitgaven", welke na de teksten in deel 1 is afgedrukt; deze laatste nummering is hier niet overgenomen. Verder zijn de principes die ten grondslag liggen aan de editie Duinhoven hier zoveel mogelijk gerespecteerd. Dat heeft onder andere tot gevolg dat de 11 lombarden die door een jongere hand zijn aangebracht (zie hiervoor) niet zijn overgenomen; ze zijn vervangen door rechthoekige haken met daartussen een punt (vet weergegeven: "[.]"). Voorts werden de schrijf- en drukfouten binnen de tekst niet gecorrigeerd.</EDITIE.OPM>
+<BRONNEN>'s-Gravenhage, Koninklijke Bibliotheek, Oude druk 169 G 63</BRONNEN>
+<HSDRUK>N.v.t.</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb/><milestone unit="fol" n="1r"/> die historie van coninck karel ende van elegast</head>
+<l><milestone unit="fol" n="2r"/> <b>F</b>Raeye historie ende al waer</l>
+<l>Mach ic v tellen hoort naer</l>
+<l>Het was op enen auontstont</l>
+<l>Dat karel slapen begonde</l>
+<l>Tengelem op den rijn</l>
+<l>Dlant was alle gader sijn.</l>
+<l>Hi was keyser ende coninc mede.</l>
+<l>Hoort hier wonder ende waerhede</l>
+<l>Wat den coninc daer gheuel</l>
+<l>Dat weten noch die menige wel</l>
+<l>Tenghelem al daer hi lach</l>
+<l>Ende waende op den anderen dach</l>
+<l>Crone draghen ende houden hof</l>
+<l>Om te meerderen sinen lof</l>
+<l>Daer die coninc lach ende sliep</l>
+<l>Een heilich engel aen hem riep</l>
+<l>So dat die coninc ontbrac</l>
+<l>Biden woerden die dengel sprac</l>
+<l>Ende seyde staet op edel man.</l>
+<l>Doet haestelic v cleeder an</l>
+<l>Wapent v ende vaert stelen.</l>
+<l>God die hiet mi v beuelen</l>
+<l>Die in hemelrike is here</l>
+<l>Of ghi verliest lijf ende eere</l>
+<l>En steeldi in deser nacht niet</l>
+<l>So is v euel gheschiet.</l>
+<l>Ghi sulter omme steruen</l>
+<l>Ende uwes leuens deruen</l>
+<l><milestone unit="fol" n="2v"/> Eer emmermeer scheit dit hof</l>
+<l>Nv verwacht v daer of</l>
+<l>Vaert stelen of ghi wilt.</l>
+<l>Neemt uwen speere ende uwen schilt</l>
+<l>Wapent v sit op v paert</l>
+<l>Haestelic ende niet en spaert</l>
+<l><b>D</b>It verhoorde die coninc</l>
+<l>Het docht hem een vreemde dinc.</l>
+<l>Want hi daer niemant en sach</l>
+<l>Wat dat roepen bedieden mach</l>
+<l>Hi waendet slapende hebben gehoort</l>
+<l>Ende hilt hem niet an dat woert</l>
+<l>Dengel die van gode quam.</l>
+<l>Sprac den coninc als die was gram</l>
+<l>Staet op karel ende vaert stelen</l>
+<l><edition/>God hiet my v beuelen</l>
+<l>Ende ontbiedet v te voren</l>
+<l>Anders hebdi v lijf verloren</l>
+<l><b>H</b>Et dien woerde sweech hi</l>
+<l>Ende die coninc riep ay mi</l>
+<l>Als die seere was vereent</l>
+<l>Wat ist dat dit wonder meent</l>
+<l>Ist alfs ghedroch dat mi quelt.</l>
+<l>Ende dit grote wonder telt</l>
+<l>Ay hemelsche drochtijn</l>
+<l>Wat node soude mij sijn</l>
+<l>Te stelen ic ben so rike</l>
+<l>En is man in aertrijcke.</l>
+<l><milestone unit="fol" n="3r"/> Weder coninc noch grauen:</l>
+<l>Die so rijc sijn van hauen</l>
+<l>Si moeten mi sijn onderdaen</l>
+<l>Ende te minen diensten staen</l>
+<l>Mijn lant is so groot</l>
+<l>Men vint nyewers sijns ghenoot.</l>
+<l>Dlant is algader mijn</l>
+<l>Tot colene opten rijn</l>
+<l>Ende tot romen voort</l>
+<l>Alst den keyser toe behoort</l>
+<l><b>[.]</b>C ben here mijn wijf is vrouwe</l>
+<l>Oest totter wilder denouwe</l>
+<l>Ende west totter wilder see</l>
+<l>Nochtans heb ic goets veel meer</l>
+<l>Galissien ende spandien lant</l>
+<l>Dat ic selue wan mitter hant</l>
+<l>Ende ic die heydene verdreef</l>
+<l>Dat mi tlant alleene bleef</l>
+<l>Wat node soude mi sijn dan</l>
+<l>Te stelen ellendich man</l>
+<l>Waer om ontbiedet mi dit god</l>
+<l>Node brekic sijn ghebot</l>
+<l>Wistic dat hijt mi ontbode</l>
+<l>En mochs niet ghelouen node</l>
+<l>Dat mi god die lachter onste</l>
+<l>Dat ic te stelen begonste:</l>
+<l>Daer hi lach in dit ghepeyns.</l>
+<l>Hare tale weder ende gheyns</l>
+<l><milestone unit="fol" n="3v"/> So vaecte hi een luttelkijn</l>
+<l>So datti looc die oghen sijn</l>
+<l>Doe seide dingel van te voren.</l>
+<l>Wildi gods ghebot verhoren:</l>
+<l>Heer coninc so sidi ontdaen</l>
+<l>Het sel v an v leuen gaen:</l>
+<l>Dengel vanden paradise.</l>
+<l>Sprac coninc doet als die wise</l>
+<l>Vaert stelen ende wert dief</l>
+<l>Al hebdijs nv groot ongerief</l>
+<l parse="ignore">Het sal v namaels wesen lief</l>
+<l><b>[.]</b>Et deser talen voer dengel dan</l>
+<l>Ende karel hem tseynen began</l>
+<l><edition/>Vanden wonder dat hi hoorde</l>
+<l>Gods ghebot sine woerde</l>
+<l>En wil ic niet laten achter.</l>
+<l>Ic sel dief wesen al ist lachter</l>
+<l>Al soudic hanghen bider kelen</l>
+<l>Nochtan haddic lieuer vele</l>
+<l>Dat mi god name ghemeene</l>
+<l>Dat ic van hem houde te leene</l>
+<l>Beyde borch ende lant</l>
+<l>Sonder mijns ridders ghewant</l>
+<l>Ende ic mi moeste gheneeren</l>
+<l>Mitten schilde ende metten speere</l>
+<l>Als een die niet en heeft</l>
+<l>Ende op die auenture leeft:</l>
+<l>Dat ware mijn wille bet</l>
+<l><milestone unit="fol" n="4r"/> Dan ic gheuanghen ben int net</l>
+<l>Ende ic nv moet stelen varen:</l>
+<l>Sonder eenich sparen</l>
+<l>Varen stelen oft god verwercken</l>
+<l>Nv so moetti mi gestercken</l>
+<l><b>I</b>C woude ic ware vuter sale</l>
+<l>Sonder nieumare ende tale</l>
+<l>Ende mi waer ghecost opten rijn</l>
+<l>Seuen borghen van steenen fijn</l>
+<l>Wat sel ic segghen van oneeren</l>
+<l>Den ridderen ende den heeren.</l>
+<l>Die hier liggen in die sale</l>
+<l>Wat sal wesen mine tale</l>
+<l>Dat ic in deser duyster nacht</l>
+<l>Alleene sonder yemants cracht</l>
+<l>Moet varen in een lant</l>
+<l>Dat mi is vremde ende onbecant</l>
+<l>Mit deser talen ghinc hem gereyden</l>
+<l>Die coninc karel ende cleyden.</l>
+<l>Mit sinen dieren gewaden</l>
+<l>Als die te stelen was beraden</l>
+<l>Het was altoes sine seden</l>
+<l>Datmen sine wapene deden</l>
+<l>Ten bedde daer hi lach</l>
+<l>Het waren die beste die ye man sach.</l>
+<l>Als hi aldus ghewapent was</l>
+<l>Ghinc hi doer dat palas</l>
+<l>Daer en was slot noch dore so goet:</l>
+<l><milestone unit="fol" n="4v"/> Noch poerte diene wederstoet.</l>
+<l>Sine waren tegen hem ontdaen</l>
+<l>Daer hi wilde mocht hi gaen</l>
+<l>Daer en was niemant dien sach</l>
+<l>Want dat volc algader lach</l>
+<l>In vasten slape als god woude.</l>
+<l>Dat dedi al door des conincs houde</l>
+<l>Sine hulpe was hem bereet</l>
+<l>Als hi die borch brugghe leet</l>
+<l><pb/> Ghinc die coninc mit liste</l>
+<l>Totten stalle al daer hi wiste.</l>
+<l>Sijn ors ende sijn ghesmiden</l>
+<l>Sonder eenich langher beyden</l>
+<l>Hi sadelet ende satter bouen</l>
+<l>Opt ors datmen mochte louen</l>
+<l><b>[.]</b>Oen hi ter poorten ghereden quam</l>
+<l>Sach hi daer ende vernam</l>
+<l>Den wachter ende den poortiere</l>
+<l>Die luttel wisten dat hoer heere</l>
+<l>So na hem was mitten schilde</l>
+<l>Si sliepen vaste alst god wilde</l>
+<l>Die coninc beette ende ontdoet</l>
+<l>Die poorte die besloten stoet</l>
+<l>Ende leyde sijn ors vut</l>
+<l>Sonder niemare ende gheluyt</l>
+<l>Doen sat hi in sijn ghereyde</l>
+<l>Die coninc karel ende seyde</l>
+<l>God also ghewaerlijcke:</l>
+<l><milestone unit="fol" n="5r"/> Als ghi quaemt in aertrike</l>
+<l>Ende wort sone ende vader:</l>
+<l>Om ons te verlossen alle gader</l>
+<l>Dat adam hadde verloren</l>
+<l>Ende dat na hem wert gheboren</l>
+<l>Ghi liet v aenden cruce slaen</l>
+<l>Doen v die ioden hadden gheuaen.</l>
+<l>Si staken v met eenen speere.</l>
+<l>Si sloegen v dies haddi geere</l>
+<l>Dese bitterlike doot</l>
+<l>Ontfincdi here door onsen noot:</l>
+<l parse="ignore">Also waerlic alst was waer</l>
+<l>Ende ghi here lasaruse.</l>
+<l>Daer hi lach in sine cluse</l>
+<l>Verwecket heere vander doot</l>
+<l>Ende vanden steenen maket broot</l>
+<l>Ende vanden water wijn</l>
+<l>So moeti in mijn gheleyde sijn</l>
+<l>In desen duemsteren nacht</l>
+<l>Ende verbaert aen mij v cracht</l>
+<l>Oetmoedich god ende vader</l>
+<l>Aen v keer ic mi alle gader</l>
+<l>Hi was in vele gedochten</l>
+<l>Waer hi best henen varen mochte.</l>
+<l>Daer hi stelens soude beghinnen.</l>
+<l>Doe quam hi in een wout binnen.</l>
+<l>Karel den edelen man</l>
+<l>Dat niet verre stont van daen</l>
+<l parse="ignore">EINDE FRAGMENT</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>
