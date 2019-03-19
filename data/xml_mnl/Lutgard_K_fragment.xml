@@ -1,0 +1,1080 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i98"><teiHeader><fileDesc><titleStmt><title>Leven van Sinte Lutgart</title>
+</titleStmt>
+<TITEL>Kopenhaagse Lutgart</TITEL>
+<author>Willem van Aflighem</author>
+<AARD>Rijm</AARD>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore">i Tprologo</l>
+<l parse="ignore">ii Hir begint dander partie van den boke uandindat</l>
+<l parse="ignore">mense abdisse maken woude. ende vandindat si te gode</l>
+<l parse="ignore">bat dat his hare verdroge. ende vandindat onse vrowe te</l>
+<l parse="ignore">hare quam ende sise troeste mettindat si hare benam dat</l>
+<l parse="ignore">walch te leerne.</l>
+<l parse="ignore">iii Uandindat se onse vrowe hit vasten seuen ijar om te</l>
+<l parse="ignore">verweerne die gods wrake.</l>
+<l parse="ignore">iiii Hoedat si mester iacope van vitri verloste van den bande</l>
+<l parse="ignore">van cranker minnen.</l>
+<l parse="ignore">v Uandindat si dis abts simoens sile van foinni verloste</l>
+<l parse="ignore">uan den vegeuire.</l>
+<l parse="ignore">vi Hoe si begerde wesen versekert uan haren leuene ende</l>
+<l parse="ignore">hoe si daraf versekert wart.</l>
+<l parse="ignore">vii Uandindat si steruen begerde ende hoedat geverstet was</l>
+<l parse="ignore">ende uan den roepene der wonden gods.</l>
+<l parse="ignore">viii Uan den paus innocentiuse die te hare quam tirewilendat</l>
+<l parse="ignore">hi uerschit.</l>
+<l parse="ignore">ix Uan mester ijanne die te hare quam tirewilendat hi</l>
+<l parse="ignore">verscheeden was.</l>
+<l parse="ignore">x Vandindat hare anderwerf uan gods haluen beuolen</l>
+<l parse="ignore">was te vastene seuen ijar.</l>
+<l parse="ignore">xi Uandindat si met beden verloescede ene nonne die di</l>
+<l parse="ignore">uiant bedroeg met valchen visionen.</l>
+<l parse="ignore">xii Vandindat si uerledegde ene nonne die mettin viant</l>
+<l parse="ignore">beseten was. ende ene andre die die alf bedrogen hadde.</l>
+<l parse="ignore">xiii Uandindat si yolenden bekirde ende vandiendat sise te</l>
+<l parse="ignore">hare weder hit comen na hare doet.</l>
+<l parse="ignore">xiiii Vandindat hars selues suster te hare quam na hare doet.</l>
+<l parse="ignore">xv Uandindat hare uerboden was dat sacrament tontfane</l>
+<l parse="ignore">ende hoe dat gewroken was.</l>
+<l parse="ignore">xvi Uandindat se die uiant rampenerde ende uandindat</l>
+<l parse="ignore">si die uiande alle sere ontsagen</l>
+<l parse="ignore">xvii Uandindat se onse here verledegde uan ongedoude uan</l>
+<l parse="ignore">herten met enen scapere die uan ouer .xiii. milen</l>
+<l parse="ignore">quam.</l>
+<l parse="ignore">xviii Uandindat ene nonne sach ene vlamme uirs ut harre</l>
+<l parse="ignore">kelen varen.</l>
+<l parse="ignore">xix Uandindatsi onsen here bat dat hi hare name sine</l>
+<l parse="ignore">gratie uan sutheiden ende hi se ere andre gaue.</l>
+<l parse="ignore">xx Uandindat si ysabelen genas met harre beden.</l>
+<l parse="ignore">xxi Uandindat hare onse here gaf martilie te doegene.</l>
+<l parse="ignore">xxii Vandindat si genas ene vrowe uan harre doefheit.</l>
+<l parse="ignore">xxiii Vandindat si al bloetroet wart alse pensede om die</l>
+<l parse="ignore">passie ons heren.</l>
+<l parse="ignore">xxiiii Vandindat se en bruder uan haffelgem die in</l>
+<l parse="ignore">houetsonden was en conste niet angesien.</l>
+<l parse="ignore">xxv Uandindat si bekirde heren thimere met harre beden.</l>
+<l parse="ignore">xxvi Vandindat si uertogt wart ere nonnen in drome die si</l>
+<l parse="ignore">sider genas met beden van coringen ende van</l>
+<l parse="ignore">sicheiden.</l>
+<l parse="ignore">xxvii Uandindat si resplenden vorseide dat si uan haren</l>
+<l parse="ignore">coringen genesen soude in goeden uriendage.</l>
+<l parse="ignore">xxviii Uandindat se en kint genas uan den groten euele.</l>
+<l parse="ignore">xxix Uandindat hare uertogt wart ene schare uan heilegen in</l>
+<l parse="ignore">visione.</l>
+<l parse="ignore">xxx Vandindat ver sibilie uan Gaijs berespt wart in drome</l>
+<l parse="ignore">om haren wille.</l>
+<l parse="ignore">xxxi Uandindat en sondere die sprac ijegen hare sach enen</l>
+<l parse="ignore">groten schijn blaken bouen hare.</l>
+<l parse="ignore">xxxij Vandindat hare onse vrowe oppenbarde ende dankde</l>
+<l parse="ignore">hare.</l>
+<l parse="ignore">xxxiii Uandindat hare onse here leerde hoe hare hars</l>
+<l parse="ignore">euenkerstens ontfarmen soude.</l>
+<l parse="ignore">xxxiiii Uandindat si enen elijt uan gods haluen troeste te uarne</l>
+<l parse="ignore">dar hi abt gekoren was.</l>
+<l parse="ignore">xxxv Uandindat hare ene heilege ijoncvrowe oppenbarde</l>
+<l parse="ignore">ende seide hare horen name.</l>
+<l parse="ignore">xxxvi Uandindat si uorseide uan enen die uter ordinen</l>
+<l parse="ignore">geronnen was dat hi wedercomen soude.</l>
+<l parse="ignore">xxxvii Uandindat si der hertoginnen uorseide dat si steruen</l>
+<l parse="ignore">soude.</l>
+<l parse="ignore">xxxviij Uan ere die si uan coringen genas ende seide wat hare</l>
+<l parse="ignore">derde.</l>
+<l parse="ignore">xxxix Uandindat si bruder damase uerloesde uan</l>
+<l parse="ignore">koringen.</l>
+<l parse="ignore">xl Uandindat si tue ingle leidden ten outare.</l>
+<l parse="ignore">xli Uandindat si en wijf versekerde die onthopt was ende</l>
+<l parse="ignore">dat se walsch sprac.</l>
+<l parse="ignore">xlii Uandindat onse here vegde de trane van haren ogen.</l>
+<l parse="ignore">xliii Uandindat se die heilegen ende dingle plagen te</l>
+<l parse="ignore">visiteerne.</l>
+<l parse="ignore">de inhoudstafel is van hand G. Op de halve bladzijde daaronder, f'ho 3r'ho van andere hand en weer uitgekrabd: Alle die nu willen w onzeker en abcdef</l>
+<l>Nu hebbic v met waren warden</l>
+<l>En deel der uiten uan lutgarden</l>
+<l>Uerclart gi heren ende vrowen</l>
+<l>Daer ic in mi te goeder trowen</l>
+<l>Gepinet hebbe al sonder wanc</l>
+<l>Tehoudene al den seluen ganc</l>
+<l>Jn didsche. ende in den seluen wegen</l>
+<l>Te gane. die ic vant geslegen</l>
+<l>Jn din latine uore mi.;</l>
+<l>Nu hebbic uan der maget uri</l>
+<l>Geseget hoe si wart geboren</l>
+<l>Ende oc uan gode sent uercoren</l>
+<l>Te sire graciliker minnen</l>
+<l>Oc hebbic v wel doen bekinnen</l>
+<l>Hoe si te milen wart begeuen;</l>
+<l>Ende hare welgerakde leuen</l>
+<l>Dat si daer leidde hebdi gehoert</l>
+<l>Nu salic v uertrekken uoert</l>
+<l>So ic dat cortelingest mach</l>
+<l>Volbrengen. wis si sider plach</l>
+<l>Taiwires daer si lange sent</l>
+<l>Wel uirtech ijar och daeromtrent</l>
+<l>Met groten eeren droch abijt</l>
+<l>Nu bidt gi alle die hir sijt</l>
+<l>Wat vwer es grote ende clene</l>
+<l>Te gode. dat hi mi uerleene</l>
+<l>So claren sin met schonre spraken</l>
+<l>Dat ic v moge cont gemaken</l>
+<l>Wel menech schone exempelkin</l>
+<l>Dat staet noch daer in dat latijn</l>
+<l>Bescreuen van der vrowen viten</l>
+<l>War bi dat ic mi moge quiten</l>
+<l>Van din geloue dat ic dede</l>
+<l>Ende daer ic bant mi seluen mede</l>
+<l>Jn dat begin uan desen werke</l>
+<l>Mar wonder sie ic ende merke</l>
+<l>An selke liede die ic weet</l>
+<l>Jc sie se comen so gereet</l>
+<l>Daer men uan ouden ijeesten singet</l>
+<l>Oc daer men voert die sagen bringet</l>
+<l>Van wigen och uan tauelronden</l>
+<l>Daer wileneer hen onderwonden</l>
+<l>Te dichtene af die menestrele</l>
+<l parse="ignore">gracililiker sic waarin liker evenals het volgende minnen van hand C</l>
+<l>Die consten wel met selken spele</l>
+<l>Die riese lokken ende tenen</l>
+<l>Sodat si wars hen daden waenen</l>
+<l>Mar wonder heuet mi uan desen</l>
+<l>Warumme si so gerne lesen</l>
+<l>Van ouden sagen dat gedichte</l>
+<l>Ende oc geloeuen also lichte</l>
+<l>Din logeneren die se tellen</l>
+<l>Daer si hen gerne met gesellen</l>
+<l>Ende andre goede exempelkine</l>
+<l>Jn didsch. in walsch. ende in latine</l>
+<l>Bescreuen. achter laten bliuen</l>
+<l>Mar die die oude bourden scriuen</l>
+<l>Si suegen bat dat seggic hen</l>
+<l>Want ic dis wale seker ben</l>
+<l>Dat si mesdoen sere utermaten</l>
+<l>Jndindat si den lieden laten</l>
+<l>Die loegene horen ouerwaer</l>
+<l>Van dingen die si tellen daer;</l>
+<l>Ene andre pine hen uan minnen</l>
+<l>Te telne. die wel lettel kinnen</l>
+<l>Och weten wat die minne si</l>
+<l>Den genen seggic weder spi</l>
+<l>Dat si uan minnen dorren spreken</l>
+<l>Die loes baraet ende arge treken</l>
+<l>Bedekken metter minnen name</l>
+<l>Daer beide lachter ende blame</l>
+<l>Af comet ende menech leet</l>
+<l>Den genen die dat ommecleet</l>
+<l>Van derre minnen willen dragen</l>
+<l>Nochtan sie ic so welbehagen</l>
+<l>Van derre truffen selken doeren</l>
+<l>Dat rimen dat sijt gerne horen;</l>
+<l>Die hiraf spreken sonder waen</l>
+<l>En hebben noch nit wel uerstaen</l>
+<l>Noch in hen seluen nit ne kinnen</l>
+<l>De uriheit uan gerechter minnen</l>
+<l>Want gode minnen dats allene</l>
+<l>Gerakde minne. ende el negeene</l>
+<l>Die gode minnet sonder wanc</l>
+<l>Met goeder herten ende stranc</l>
+<l>Hem pinet houden goede seden</l>
+<l>Getrowelic in allen steden</l>
+<l>Dat es degene die so leuet</l>
+<l>Dat hi den prijs uan minnen heuet;</l>
+<l>Ene andre sijn die achemeren</l>
+<l>Die loegene. ende so pareren</l>
+<l>Die si uan wonderliken saken</l>
+<l>Na haren wille selue maken</l>
+<l>Dat si kaitiuen ende riesen</l>
+<l>Doen haren tijt darmet uerliesen</l>
+<l>Daer doen si stomme beesten spreken</l>
+<l>Daer doen si simmen speren breken</l>
+<l>Daer doen si rammen messen singen</l>
+<l>Din esel dansen ende springen</l>
+<l>Dat hem wel qualic uugen soude</l>
+<l>Wart dat hi dis it plegen woude</l>
+<l>Nadat sijn wesen ons betoeget</l>
+<l>Mar die din esel meer uerhoeget</l>
+<l>Och die hem meer ambachtes geuet</l>
+<l>Na die nature die hi heuet</l>
+<l>Dan eenen sac ter moelen dragen</l>
+<l>Met rechte mach hijs hem beclagen;</l>
+<l>Mar bi din esel die nit el</l>
+<l>En can gedoen. noch ander spel</l>
+<l>Betogen dan nature hem leeret</l>
+<l>Die alle dinc te pointe keeret</l>
+<l>Ende allewege en esel bliuet</l>
+<l>Sowatdat men uan heme scriuet</l>
+<l>Ende oc bi andren beesten mede</l>
+<l>Die altoes houden haren sede</l>
+<l>Din hen uerleenet die nature</l>
+<l>So prouic v dat creature</l>
+<l>En was gemaket nieengeene</l>
+<l>So doer alse es die mensche allene</l>
+<l>Want hi sijn wesen meer onschonet</l>
+<l>Met quaden werken die hi tonet</l>
+<l>Dan andre dire ende andre beesten</l>
+<l>Die der naturen bat geleesten</l>
+<l>Na haren wesene hare werke</l>
+<l>Dan selke menschen. alsic merke</l>
+<l>An harre wisen. doen de hare</l>
+<l>Dit togt hem seluen oppenbare;</l>
+<l>Die dan uan beesten scriuen woude</l>
+<l>Hem seluen tirst hi noemen soude</l>
+<l>Nadat mi dunkt in minen wane</l>
+<l>Want die hem rimen pijnt te slane</l>
+<l>Van stommen diren. ende trachten</l>
+<l>Van hen dis si wel lettel achten</l>
+<l>Och die hem pijnt met schonen warden</l>
+<l>Te dichtene it uan din luparden</l>
+<l>Van simmen ende cokatrisen</l>
+<l>Ende andren beesten die daer bisen</l>
+<l>Beide achter bosche ende achter heiden</l>
+<l>Ende andre goede besechheiden</l>
+<l>Verroekelosen al die wile</l>
+<l>Dullic. om sosgedane ghile</l>
+<l>Mi dunke dat hem wel betaemt</l>
+<l>Dat hi oc beeste si genaemt</l>
+<l>Mi dunket hi wel een cornut</l>
+<l>Want alse hi heft gesegt alut</l>
+<l>Soe nes mar scheren ende schop</l>
+<l>Al daer hi heft gemuset op;</l>
+<l>Mar die daer sagen uan den diren</l>
+<l>En roeket nit. welt hi bekiren</l>
+<l>An een gedichte sinen moet</l>
+<l>Dat uromelic es ende goet</l>
+<l>So come sitten hir bi mi</l>
+<l>Die vite uan der maget uri</l>
+<l>Lutgarden. welt hi hem gesellen</l>
+<l>Met mi. die salic hem uoltellen</l>
+<l>Daer sal hi mogen uinden in</l>
+<l>Opdat hi willet sinen sin</l>
+<l>Daertoe bekiren. die bispele</l>
+<l>Van prise goet. ende dire vele</l>
+<l>Opdat hi urudt. die selen comen</l>
+<l>Te baten hem ende oc te uromen</l>
+<l>Jc seggu wel in wat maniren</l>
+<l>welt hi den sin daertoe bekiren</l>
+<l>Sodat hi moge alut uerstaen</l>
+<l>Mijn dicht. hi mages bate ontfaen</l>
+<l>En can hi dis gedoen nit wel</l>
+<l>So radic hem dat hi it el</l>
+<l>Ga suken dat hi moge lesen</l>
+<l>Want ouer eene lesse wesen</l>
+<l>Ende nit onthouden dat men seit</l>
+<l>Dat es uerloren arbeit;</l>
+<l>Ware imen oc die nit ne rochte</l>
+<l>Mijns rimens. och nit goet en dochte</l>
+<l>Mijn dicht dat ic hir nu bedide</l>
+<l>Dengenen badic ende riede</l>
+<l>Deen van den tueen. och dat hi suege</l>
+<l>Alstille. och dat hi ginge enwege</l>
+<l>Al sonder beiden sire uerde</l>
+<l>Daer hi dengenen nit ne derde</l>
+<l>Met sire nosen die hir sijn</l>
+<l>Versament. om die tale mijn</l>
+<l>Te horne die ic seggen sal</l>
+<l>Nu motu geuen got geual</l>
+<l>Dat gise motet so uolhoren</l>
+<l>Van buten alle metten oren</l>
+<l>Dat si int herte binnen bliue</l>
+<l>Ende ewelic daerin becliue</l>
+<l>Sodat si drage urocht daerbinnen;</l>
+<l>Nu salic moten saen beginnen</l>
+<l>Dat ander deel uan desen werke</l>
+<l>Bidt gode dat hi mi gesterke</l>
+<l>Ende oc gewege in dese vart</l>
+<l>Daertoe so mote mi lutgart</l>
+<l>Die maget edel ende goet</l>
+<l>Verleenen gracie ende spoet</l>
+<l>Dat ic met eeren ende uromen</l>
+<l>Des werkes mote al ouer comen. amen.</l>
+<l parse="ignore">Hir begint dander partie uan den boke uandindat</l>
+<l parse="ignore">mense abdisse maken woude ende uandindat si te</l>
+<l parse="ignore">gode bat dat his hare verdroge. ende uandindat onse</l>
+<l parse="ignore">vrowe te hare quam ende sise trostede mettindat</l>
+<l parse="ignore">si hare benam dat walsch te leerne.</l>
+<l>Doe comen was in derre wise</l>
+<l>Lutgart die magt uan groten prise</l>
+<l>Taiwires binnen. daer si sent</l>
+<l>Hilt langen tijt in dat conuent</l>
+<l>Die ordene. ende die costumen</l>
+<l>Daer menech plegt hem an uersumen</l>
+<l>Die die ne welt uolbrengen nit</l>
+<l>Dat selden hare es sent geschit</l>
+<l>So lip wel uollic die nimare</l>
+<l>Aldaeromtrent. dat comen ware</l>
+<l>Taiwires mettin godes bruden</l>
+<l>Lutgart die goede uan sentruden</l>
+<l>Dis was wel menech harde uro</l>
+<l parse="ignore">de rode titel is van hand C</l>
+<l>Tintiden.dat die dinc also</l>
+<l>Beschikket was. want goet ende ere</l>
+<l>Dede oppenbare got die here</l>
+<l>Van Cistiaus din grawen nonnen</l>
+<l>Dat si lutgarden ie gewonnen;</l>
+<l>Dis waren blide ijonc ende out</l>
+<l>Ende alle dankden menechfout</l>
+<l>Dire eeren gode al sonder wanc</l>
+<l>Si seiden got hi hebbes danc</l>
+<l>Dat hi ons heuet toegeweget</l>
+<l>Lutgarden die den name dreget</l>
+<l>Van sonderlinger heilechheiden</l>
+<l>Aldos so spraken ende seiden</l>
+<l>Die menege an din seluen tide</l>
+<l>Want si dis alle waren blide</l>
+<l>Die dat uernamen ende sagen</l>
+<l>Lutgarden grawe cleeder dragen</l>
+<l>Die daerteuoren andre droch</l>
+<l>Te milen. daer si lange gnoch</l>
+<l>Geweset hadde in eren groet</l>
+<l>Al schiet si deenen doer die noet.</l>
+<l>Tien seluen tide dat lutgart</l>
+<l>Dos in dien lande wart uermart</l>
+<l>Ende in der goeder liede mont</l>
+<l>Was worden aldos namecont</l>
+<l>So wart gemicket altehant</l>
+<l>Van soelken lieden in dat lant.</l>
+<l>Dien haestelike was cont gemaect.</l>
+<l>Dat si so wale was geraect.</l>
+<l>Dat si wel tere abdien dochte.</l>
+<l>Sowanneerdat si hare iit mochte.</l>
+<l>Gehelpen metter walscher talen</l>
+<l>Dat sise abdesse souden maken</l>
+<l>Jn enen cloester uanden genen</l>
+<l>Die daer int lant die beste scenen.</l>
+<l>Want hen wel dogte al openbare</l>
+<l>Dat welgesciet dien cloester ware</l>
+<l>Daer si abdessen name in droege</l>
+<l>Dies dochte hen allen welgeuoege</l>
+<l>Dat si in enen worde abdesse.</l>
+<l>Met rechte en mochte niet gemesse</l>
+<l parse="ignore">die is boven de regel toegevoegd, hand A</l>
+<l parse="ignore">de verzen 229 tot 261 zijn van hand B</l>
+<l parse="ignore">lees spraken</l>
+<l>Met rechte en mochte niet meslouen</l>
+<l>Daer si abdesse worde bouen.</l>
+<l>Dies wart tien tide also geslegen</l>
+<l>Die raet. ende ouereengedregen</l>
+<l>Sowanneerdat si iet uerstuende</l>
+<l>Dis walsches. och gespreken conde</l>
+<l>Dat mense abdesse maken soude</l>
+<l>Jn welken dat si wesen woude</l>
+<l>So lange was met gueden staden</l>
+<l>Hare ende gins hirop geraden</l>
+<l>Dat dese dinc es comen voert</l>
+<l>So uerre dat wel heft uerhoert</l>
+<l>Lutgart die maget goedertiren</l>
+<l>Dat mense weder wilde stiren</l>
+<l>Tonleden uan ambachte wert</l>
+<l>Owi hoesere was ueruert</l>
+<l>Die maget doe si dat uernam</l>
+<l>Want dat si daer beschiwen quam</l>
+<l>Dor noet. ende elre moste laten</l>
+<l>Om dat gewin uan harre baten</l>
+<l>Ende al dat se Taiwires brachte</l>
+<l>Dat was dolende uan ambachte</l>
+<l>Daerbi si dikke was teuoren</l>
+<l>Jn schade comen ende in toren</l>
+<l>Ende oc gedoget hadde pine</l>
+<l>Daer noch behoerde hare in te sine</l>
+<l>Opdat si noch din graet optorde</l>
+<l>Dat si aldaer abdesse worde</l>
+<l>Ochte in dat walsche lant elwaer</l>
+<l>Mar doe die magt in sorgen suar</l>
+<l>Geuallen was in derre wise</l>
+<l>Te gode wert uan paradise</l>
+<l>Die hare altoes welstont in staden</l>
+<l>Ende oc har herte plach onladen</l>
+<l>Van sorgen ende uan meswenden</l>
+<l>So ginc si haren hope senden</l>
+<l>Met uaster trowen ende goeder</l>
+<l>Ende oc te sire suter moeder</l>
+<l>Marien wert. ende ene bede</l>
+<l>Die si met uasten hope dede</l>
+<l>Begonste si op enen dach</l>
+<l>Daer si in kniegebede lach</l>
+<l>Si seide got uan hemelrike</l>
+<l parse="ignore">hier begint opnieuw hand A</l>
+<l>Die alle dinc geweldelike</l>
+<l>Volbrengen mogt wel sute here</l>
+<l>Din groten uaer die mi so sere</l>
+<l>Verladet nu dat herte binnen</l>
+<l>Din moetti here also bekinnen</l>
+<l>Dat ikkeraf ontcommert si</l>
+<l>Wel sute got nu sendet mi</l>
+<l>Vwe gracie die mi so beuerde</l>
+<l>Dat ikkeraf ontladen werde</l>
+<l>Want uilic weder in den pas</l>
+<l>Daer ic uerlegen binnen was</l>
+<l>Te minen schaden wileneer</l>
+<l>So waric gonnert emmermeer</l>
+<l>Wat soude mijns gewerden dan</l>
+<l>Genade got. want ine can</l>
+<l>Mi seluen wel getrosten nit</l>
+<l>Opdat die dinc also geschit</l>
+<l>Alsic uersta. want sonder waen</l>
+<l>Dis motic emmer schade ontfaen</l>
+<l>Wat holpe dan dat ic te milen</l>
+<l>Om dat gemac uan mire silen</l>
+<l>Gelaten hadde. ende elre uonde</l>
+<l>Dat selue. dis ic nit ne conde</l>
+<l>Gedragen sonder schade groet</l>
+<l>Mar loesset mi ut derre noet</l>
+<l>Die vwen wille doet algader</l>
+<l>Dis biddic v wel sute uader;</l>
+<l>Oc biddic v wel sute urowe</l>
+<l>Daer ic altoes in uinde trowe</l>
+<l>Die maget ende moeder sijt</l>
+<l>Ende emmermeer gebenedijt</l>
+<l>Selt wesen in den hogen trone</l>
+<l>Daer gi met gode spannet crone</l>
+<l>Dat gi beschowet die mesquame</l>
+<l>Dar ic af boete gerne name</l>
+<l>Dat es die sorge die mi dert</l>
+<l>Daer ic af sere ben ueruert</l>
+<l>Want uilic weder in die pine</l>
+<l>Daer mi uerwasset in tesine</l>
+<l>So we mi dan dat ic hir quam</l>
+<l>Ende ic die kouele angenam</l>
+<l>Daer ic uan commere ende sorgen</l>
+<l>Altoes in waende sijn uerborgen</l>
+<l>Want moet die dinc also uolcomen</l>
+<l>Alsic hir hebbe nu uernomen</l>
+<l>So motic emmer werden suare</l>
+<l>Verladen meer dan ochtic ware</l>
+<l>Te milen bleuen. urie maget</l>
+<l>Want igewelc die sorge draget</l>
+<l>Van eere abdien. lange in pine</l>
+<l>So staet dengenen wel te sine</l>
+<l>Jn langen commer ende in leet</l>
+<l>Alsic wel bi mi seluen weet</l>
+<l>Bidindat ic so lange droch</l>
+<l>Dat prioraet dat mi uerwoch</l>
+<l>Beide alte sere ende al te suare</l>
+<l>Bidie so seggic oppenbare</l>
+<l>Dat ic en werde abdesse nit</l>
+<l>Sowatdat mi daerna geschit</l>
+<l>Noch priorinne al sonder waen</l>
+<l>Magic met eeren dis onstaen</l>
+<l>Nu hebbic v die noet geclaget</l>
+<l>Vrie edele moeder ende maget</l>
+<l>Die mi verweget nu so sere</l>
+<l>Dis biddic v ende onsen here</l>
+<l>Dats ihesus kerst v sone goet</l>
+<l>Dat gi uerleenet mi din spoet</l>
+<l>Ende vwe gracie sendet mede</l>
+<l>Dat ic in dese closterstede</l>
+<l>Daer ic in drage nu abijt</l>
+<l>Noch elre. want gi mechtech sijt</l>
+<l>Te comene alles wel teuoren</l>
+<l>En werdde nemmermeer gecoren</l>
+<l>Tabdessen noch te priorinnen</l>
+<l>Mar dat ic mote urowe hirbinnen</l>
+<l>Jn eenechheiden so geleuen</l>
+<l>Dat ic te ijoncst al sonder sneuen</l>
+<l>Te meerre baten ende uromen</l>
+<l>Te goeden inde mote comen</l>
+<l>O. moder ende maget fijn</l>
+<l>Dis moetti mi gehelpech sijn;</l>
+<l>Eer dese bede har inde nam</l>
+<l>Aldaer met groten schine quam</l>
+<l>Geuarenneder harde lise</l>
+<l>Die urowe uan din paradise</l>
+<l>Die moeder ende maget fijn</l>
+<l>Dat nimene el ne mochte sijn</l>
+<l>Bedaget noit dan hare allene</l>
+<l>Die was uan alre ulekken reene</l>
+<l>Die sprac aldos aldaer si stoet</l>
+<l>Lutgart mine utuercorne goet</l>
+<l>V. clagen hebbic wel uernomen</l>
+<l>Dis benic v nu trosten comen</l>
+<l>V. clagen hebbic wel uerstaen</l>
+<l>Oc es vwe bede wale ontfaen</l>
+<l>Dis mogdi mi wel weten danc</l>
+<l>Want icse ontfinc al sonder wanc</l>
+<l>Al clagende hebdi dis uerlijt</l>
+<l>Dat gi uerladen binnen sijt</l>
+<l>Van groten sorgen die v deren</l>
+<l>Ende v dat herte so uerueren</l>
+<l>Dat gi ne cont gehermen nit</l>
+<l>Want gi din wederual onssit</l>
+<l>Ende oc die nose uan ambachte</l>
+<l>Daer men v weder gerne in brachte</l>
+<l>Alse v wel cont gemaket es</l>
+<l>Mar wel lutgart sijt dis gewes</l>
+<l>Dat ic din raet uan derre saken</l>
+<l>Met mire macht sal wedermaken</l>
+<l>Sodat v nemermeer ne sal</l>
+<l>Tambachte wert de wederual</l>
+<l>Geschaden mogen noch geletten</l>
+<l>Want ic mi sal daeriegen setten</l>
+<l>Nu sijt in hogen ende uro</l>
+<l>Dit salic wedermaken so</l>
+<l>Dat gi ne werdet nemmermeer</l>
+<l>Verladen daer gi wileneer</l>
+<l>Te milen wart uerladen mede</l>
+<l>Nu houdt v herte in goeden urede</l>
+<l>Dit salic v begaden wale</l>
+<l>Want ic v sal die walsche tale</l>
+<l>Ontdragen sodat gi ne selt</l>
+<l>Noch macht gewinnen noch gewelt</l>
+<l>Te sprekene it met walscher tongen</l>
+<l>Dos seldi bliuen ongeduongen</l>
+<l>Van vwen mesterschape. want</l>
+<l>Sowanneerdat men it dit lant</l>
+<l>Vernemet dat v es te suaer</l>
+<l>Dat walsch te leerne. al ouerwaer</l>
+<l>So seggic v dat v uan desen</l>
+<l>En sal nemmeer begrutet wesen</l>
+<l>Dat gi onttredet nu so suare</l>
+<l>Want het welstaende nit ne ware</l>
+<l>Dat eene abdesse maget fijn</l>
+<l>Jn desen lande soude sijn</l>
+<l>Of hir of elre die ne conde</l>
+<l>Berechten nit met haren monde</l>
+<l>Din closter din si soude rekken</l>
+<l>Daeromme salic v onttrekken</l>
+<l>Ende ondergaen die walsche sprake</l>
+<l>So seldi leuen met gemake</l>
+<l>Voertanemeer in vwen tide</l>
+<l>Nu sijt in hogen ende blide</l>
+<l>Jc sal v dit so wel begaden</l>
+<l>Dat gi ne werdet meer uerladen</l>
+<l>Met besechheiden uan ambachte</l>
+<l>Noch met gewoude noch met crachte</l>
+<l>Noch met beduange uan gebode</l>
+<l>Nu bliuet dan lutgart te gode</l>
+<l>Jn mach hir sijn nit langer nu</l>
+<l>Den suten got beuelic v;</l>
+<l>Na desen warden denen schit</l>
+<l>Die godes moeder. ende lit</l>
+<l>Lutgarden liggen welgetroestt</l>
+<l>Want sise heuet al uerloestt</l>
+<l>Van harre commerliker smerten</l>
+<l>Dis dankde si met blider herten</l>
+<l>Den riken coninc uan den trone</l>
+<l>Ende oc der coninginnen schone</l>
+<l>Die bouen dingele es uerheuen</l>
+<l>Dos es lutgart getrostet bleuen</l>
+<l>Mar wildi dat ic v bediede</l>
+<l>Groet wonder datterna geschide</l>
+<l>Jc saelt v seggen of ic can</l>
+<l>sent dat lutgart din troest gewan</l>
+<l>Van onser urowen die se lise</l>
+<l>Vertrostet hadde in derre wise</l>
+<l>So seggic v al sonder waen</l>
+<l>Alse ons die uite doet uerstaen</l>
+<l>Dat si in ernste noch in spele</l>
+<l>En conste noit sent so uele</l>
+<l>Dis walschs geleeren noch uerhalen</l>
+<l>Dat si wel hadde in walscher talen</l>
+<l>Och broet genoemet ochte wijn</l>
+<l>Die lichte gnoch genoemet sijn</l>
+<l>Noch ander dinc och licht och suar</l>
+<l>Nochtan dat si wel .xl. ijar</l>
+<l>Gestadelic och daeromtrent</l>
+<l>Taiwires binnen woende sent</l>
+<l>Daer si uolleuede in groten eeren</l>
+<l>Al haren tijt. al sonder leeren</l>
+<l>Dis walsches it nochtan dat si</l>
+<l>Din walschen nonnen was so bi</l>
+<l>Dat si aldaer dis walsches gnoch</l>
+<l>Hen hoerde spreken int geuoch</l>
+<l>Wel menechwerf op elken dach</l>
+<l>Mar alse men daerbinnen sach</l>
+<l>Dat si ne conde nit ontfaen</l>
+<l>Jnt herte binnen noch uerstaen</l>
+<l>Dis walsches. noch gespreken oc</l>
+<l>Daer si wel lettel toe ontploc</l>
+<l>Har herte. alse omme dat onthouden</l>
+<l>So lit men dis al gode wouden</l>
+<l>Ende oc die maget goedertiren</l>
+<l>Die men teuoren plach uisiren</l>
+<l>Tambachte. eer men dis wart geware</l>
+<l>Dat dit gebreken was an hare</l>
+<l>Alsonder suarheit uan gebode</l>
+<l>Jn haren closter dinen gode.</l>
+<l parse="ignore">Uandindat se onse urowe hit uasten .vij. ijar om te</l>
+<l parse="ignore">verwerne der godes wrake.</l>
+<l>.iij. Tintidendat die aubeiose</l>
+<l>En uolc uerwaten ende bose</l>
+<l>Ontcirden so met bosen werken</l>
+<l>Die uriheit uan der godes kerken</l>
+<l>Dat mense moste dor die noet</l>
+<l>Van heresien. toter doet</l>
+<l>Met crachte brengen ende ontliuen</l>
+<l>Die man gemeene metten wiuen</l>
+<l>Ende oc met kinden ende met craten</l>
+<l>Dat ijammer es groet utermaten</l>
+<l>Dat enech mensche so onssint</l>
+<l>Sijn leuen. dat hi dis uerdint</l>
+<l>Dat menne also ontliuen moet;</l>
+<l>So lach lutgart die maget goet</l>
+<l>Op enen dach Taiwires binnen</l>
+<l parse="ignore">de rode titel is van hand C</l>
+<l>Ende ene bede ginc beginnen</l>
+<l>Te gode wert uan hemelrike</l>
+<l>Die si uolbrachte salechlike</l>
+<l>Te goeden inde ic seggu hoe</l>
+<l>Aldaer si was gelegen doe</l>
+<l>Op hare knin ende har gebet</l>
+<l>Begonste lise aldaer si met</l>
+<l>Onledech makde har herte fijn</l>
+<l>So quam geuaren sonder schijn</l>
+<l>Jn harde serechliker wise</l>
+<l>Die moeder gods uan paradise</l>
+<l>Aldaer die maget was gelegen;</l>
+<l>Wel harde quam si wederslegen</l>
+<l>No min no meer dan och si suare</l>
+<l>Beuaen met serechheiden ware</l>
+<l>Dat togede oc wel har abijt</l>
+<l>Din noit eer op enen tijt</l>
+<l>En sach die maget so onschoent</l>
+<l>Oc heft dat selue wel getoent</l>
+<l>Har utuercorne schone anschin</l>
+<l>Dat ongelic was worden din</l>
+<l>Dat het teuoren plach tesine</l>
+<l>Want dat teuoren so met schine</l>
+<l>Verlichtet was. dat sijt beschowen</l>
+<l>En conde nit. dat was teblowen</l>
+<l>Van serechheiden ende bleec</l>
+<l>Sodat het lettelgoet geleec</l>
+<l>Din seluen dat het was teuoren</l>
+<l>Want sine schonheit was uerloren</l>
+<l>Ende oc sijn scoen licht ende claer</l>
+<l>Dos quam die godes moeder daer;</l>
+<l>Nu hort wis daer geplogen was</l>
+<l>Aldaer lutgart lach ende las</l>
+<l>Heft si har houet opgeheuen</l>
+<l>Ende enen groten crijt gegeuen</l>
+<l>Do si die godes moeder staen</l>
+<l>Daer sach so bleec ende ongedaen</l>
+<l>Daerna so rip si lude owi</l>
+<l>Wel sute maget en si di</l>
+<l>Die godes moeder onse urowe</l>
+<l>Warumme gi dos sijt met rowe</l>
+<l>Beuaen. ende oc met groten sere</l>
+<l>Dis biddic v dor onsen here</l>
+<l>Dat gi mi segget altehant</l>
+<l>Al sonder alle beide. want</l>
+<l>Dat motic emmer weten nu</l>
+<l>Want sosgedaen en sagic v</l>
+<l>Hiruoren noit in minen dagen</l>
+<l>Noch sosgedane cleder dragen</l>
+<l>Dit dunket mi uan ongemake</l>
+<l>En teeken. want het sonder sake</l>
+<l>En es nit dat gi droeue sijt</l>
+<l>Noch dat so schir es v abijt</l>
+<l>Die wilen clarre dan die dach</l>
+<l>Van somertide schinen plach</l>
+<l>Nu segget mi dan maget rene</l>
+<l>Die bouen alle magde allene</l>
+<l>Ter godes moeder wort uercoren</l>
+<l>Gelijcdat lange daerteuoren</l>
+<l>Van v die prophecien spraken</l>
+<l>Wat v mescomt. ende om wat saken</l>
+<l>Gi schinet nu te desen tide</l>
+<l>Van serechheiden dos omblide</l>
+<l>Dat motic weten sonder beide</l>
+<l>Tehant. want vwe serechheide</l>
+<l>Oc nu tewilen minen moet</l>
+<l>Jn serechheiden wesen doet</l>
+<l>Want sonder seer ic nit ne can</l>
+<l>V. urowe mijn. beschowenan;</l>
+<l>Antwerde met gestaden sinne</l>
+<l>So gaf die hogste coninginne</l>
+<l>Lutgarden weder hastelike</l>
+<l>Lutgart al sta ic serechlike</l>
+<l>Sprac si. en hebbets wonder nit</l>
+<l>Mar selue merket ende sit</l>
+<l>Hoe men noch sleet. hoe men trainet</l>
+<l>Hoe men noch gheecelt ende pinet</l>
+<l>Din werdeliken sone mijn.</l>
+<l>En soudic dan nic droeue sijn</l>
+<l>Daer ic mijn werde kint sie bluen</l>
+<l>Dos laidangiren. dos uerspuen</l>
+<l>Ende alle dage noch met sonden</l>
+<l>Hem sie uerniwen sine wonden</l>
+<l>Wat wondre dan al hebbic rowe</l>
+<l>Alsic dese ouerdaet beschowe</l>
+<l>Mar wildi dat ic v bedide</l>
+<l>Lutgart. welc sijn die domme liede</l>
+<l parse="ignore">onder aan de bladzijde, hand D: oc nu te wilen</l>
+<l parse="ignore">lees nit</l>
+<l>Die dorren maken selke nose</l>
+<l>Dos groet. dat sijn die aubeiose</l>
+<l>Die felle menschen. die quadien</l>
+<l>Die met geproeueder heresien</l>
+<l>Der kerken uriheit so onssetten</l>
+<l>Dat si die werelt al besmetten</l>
+<l>Met haren sondeliken daden</l>
+<l>Daer si die goede met uerladen</l>
+<l>Die hare boesheit hebben leet</l>
+<l>Mar ouerwaer ic wale weet</l>
+<l>Oc seggict v al oppenbare</l>
+<l>Dat al die werelt harde suare</l>
+<l>Ontgelden sal in corten tiden</l>
+<l>Dat hen die domme nit ne miden</l>
+<l>Der boesheit. mar in sonden leuen</l>
+<l>Want die sententie es gegeuen</l>
+<l>Van din gerechten sone mijn</l>
+<l>Dat emmer moet geplaget sijn</l>
+<l>Met ere ijammerliker plagen</l>
+<l>Die werelt al in corten dagen</l>
+<l>Dat elken liggen sal te na</l>
+<l>Hensi dat mense wedersta;</l>
+<l>Mar gi die got die melde uader</l>
+<l>Die sine wille doet algader</l>
+<l>Jn hemele ende in erterike</l>
+<l>So minnet. dat hi meldelike</l>
+<l>V. geuet al dat gi begert</l>
+<l>Lutgart. bi v moet sijn uerwert</l>
+<l>Die plage suaer ende ongeroe</l>
+<l>Nu hort ic sal v seggen hoe</l>
+<l>Ghi selt gaen uasten .vij. ijar</l>
+<l>Dat sal v moten wesen suar</l>
+<l>Te brengeneouer maget goet</l>
+<l>Mar siderdat het wesen moet</l>
+<l>So onderstaedt so cloftechlike</l>
+<l>Dat het te ijoncst in hemelrike</l>
+<l>Met uromen mote v sijn uergouden</l>
+<l>Nu laett dan alles gode wouden</l>
+<l>Ende onderstaet dat ic v wise</l>
+<l>Lutgart dos seldi mogen lise</l>
+<l>Met vwer pinen wedermaken</l>
+<l>Die suarheit uan der godes wraken;</l>
+<l>Dit salic urowe doen wel gerne,</l>
+<l>Want nit nes recht dat ics it werne,</l>
+<l>Doe weder sprac die maget saen</l>
+<l>Wel gerne salic onderstaen</l>
+<l>Dit vasten dat gi mi gebiedet</l>
+<l>Want gire mi toe hebt gemiedet</l>
+<l>Wel menech werf in minen tide</l>
+<l>Mettindat gi mi dikke blide</l>
+<l>Gemaket hebt. ende oc gegeuen</l>
+<l>Daer ic ben met terasten bleuen</l>
+<l>Troest uan mesquame clene of groet</l>
+<l>Mar sent dat eischet nu die noet</l>
+<l>Dat ic moet uasten .vij. ijar</l>
+<l>Dat gi ter pinen die ic suar</l>
+<l>Sal moten doegen urowe goet</l>
+<l>Verleenet mi so goeden spoet</l>
+<l>Dis biddic v. dat gi teuromen</l>
+<l>Hen allen urowe mote comen</l>
+<l>Daer ic dit uasten ouer sal</l>
+<l>Bestaen. ende oc der werelt al;</l>
+<l>Dit salic doen. die urowe seide</l>
+<l>Dos schit si denen sonder beide</l>
+<l>Ende es te hemele wert geuaren</l>
+<l>Doe ginc lutgart al sonder sparen</l>
+<l>Dat lange uasten onderstaen</l>
+<l>Dat si te dragene hadde ontfaen</l>
+<l>Si uastede al die dage lanc</l>
+<l>Getrowelic al sonder wanc</l>
+<l>Sodat si noit dach en brac</l>
+<l>Noch dor gewin noch dor gemac</l>
+<l>Dis darr ic mi uermeten wel</l>
+<l>Nochtan en nutte si nit el</l>
+<l>Noch dranc noch aet no groet no clene</l>
+<l>Dan dunne bir met broede allene</l>
+<l>Dit was har dranc. dit was har aet</l>
+<l>Dit hilt si sonder loes baraet</l>
+<l>Die seuen ijar al toten inde</l>
+<l>Mar wildi dat ic v ontbinde</l>
+<l>Hoe si dat uasten sent uolbrachte</l>
+<l>So seggic v dat si so sachte</l>
+<l>Voluastede al die lange dage</l>
+<l>Omodelic al sonder clage</l>
+<l>Dat noit binnen .vij. ijaren</l>
+<l>Die urowen die daerbinnen waren</l>
+<l>En sagen nutten ander spise</l>
+<l>Van lichten noch uan diren prise</l>
+<l>Lutgarden dan allene broet</l>
+<l>Met bire. mar en wonder groet</l>
+<l>So mach men merken an die maget</l>
+<l>Sowelken tijt si was beclaget</l>
+<l>Daeraf uan haren meesterschape</l>
+<l>Och gekastijt uan haren pape</l>
+<l>Ochte oc gebot uan hen ontfinc</l>
+<l>Dat si oc ate alselke dinc</l>
+<l>Alse andre urowen nutten daer</l>
+<l>So seggic v wel ouerwaer</l>
+<l>Dat sijs gesuelgen nit ne mochte</l>
+<l>Dat men ter vigen leggen mochte</l>
+<l>Quaemt in den mont het mosterut</l>
+<l>Dos halp got uasten sire brut</l>
+<l>Mar wildi weten wat van hare</l>
+<l>Dis harde quaet uergeten ware</l>
+<l>Daer staet bescreuen in latijn</l>
+<l>Sowannerdat die maget fijn</l>
+<l>Die was geuudet metter minnen</l>
+<l>Vernam dat iwent quam daerbinnen</l>
+<l>Dis alt conuent hadde it tebat</l>
+<l>Nochtan dat sijs nit selue en at</l>
+<l>Noch nit nontfinc in haren monde</l>
+<l>Want sijs genutten nit ne conde</l>
+<l>So was har herte meer in hogen</l>
+<l>Dan och si hadde selue mogen</l>
+<l>Mettin ijonfrowen int geuoch</l>
+<l>Dis selues oc ontbiten gnoch</l>
+<l>Want menechwerf te goeder trowen</l>
+<l>Plach si uerlien din ijonfrowen</l>
+<l>Die int conuent daerbinnen waren</l>
+<l>Dat sijs tebat oc plach geuaren</l>
+<l>Daerna wel lange. alse int conuent</l>
+<l>Pitance quam ochte een prosent</l>
+<l>Dis alle die ijonfrowen it</l>
+<l>Tebat gecregen och genit</l>
+<l>Och dis gemakes it gewonnen</l>
+<l>Gemeenlic alle dandre nonnen;</l>
+<l>Nu comt hir uoert gi papelarde</l>
+<l>Ghi metten grisen langen barde</l>
+<l>Die al uolmaket schinen willet</l>
+<l>Ende al benijdt ende al beghillet</l>
+<l>Ende al begrijpt met fellen moede</l>
+<l>Dat men dengenen doet te goede</l>
+<l>Jn karitaten dies behoeuen</l>
+<l>Hort harewert ghi loese boeuen</l>
+<l>Die ommegaet met begardien</l>
+<l>Wis plach dis godes brut uerlien</l>
+<l>Die menechwerff dis beghiede</l>
+<l>Dat si dis goedes dat geschiede</l>
+<l>Din armen godes nonnekinen</l>
+<l>Die waren allewege in pinen</l>
+<l>Was ene maent altoes te blider</l>
+<l>Daerna ende oc wel lange sider</l>
+<l>Sowelkentijt si dis gedachte</l>
+<l>Endt hare got teuorenbrachte</l>
+<l>Dit was dat recht uan karitaten</l>
+<l>Die elken goedes ende baten</l>
+<l>Wel onnet; daer si buten leuen</l>
+<l>Die godes armen nit ne geuen</l>
+<l>Dis hen behoeuet. mar met nide</l>
+<l>Begripen dat in allen tide</l>
+<l>Ende oc met harre quader spraken</l>
+<l>Din armen dat tongoede maken</l>
+<l>Dat si beijagen uan den goeden</l>
+<l>Die op die dogt hen bat beuroeden</l>
+<l parse="ignore">Hoedat si mester ijacope uan uitri verloste van den</l>
+<l parse="ignore">bande van kranker minnen</l>
+<l>.iiij. Oc was tin tiden in dat lant</l>
+<l>En man uermart en welbekant</l>
+<l>Die oc was cont der maget uri</l>
+<l>Hit meester ijacob uan uitri</l>
+<l>Die goede man was worden mare</l>
+<l>Omdat hi was goet predekare</l>
+<l>Ende hi wel conste in din sermone</l>
+<l>De kracht uan din scrifturen tonen</l>
+<l>Ende oc te rechte wel bedieden</l>
+<l>Din clerken ende oc andren lieden;</l>
+<l parse="ignore">de rode titel is van hand C</l>
+<l>Op enen tijt so was geuaren</l>
+<l>Met droeuer herten achterwaren</l>
+<l>Die here; alse op gerechte trowe</l>
+<l>Ene utuercorne schone urowe</l>
+<l>Die hem met menscheliker minnen</l>
+<l>Teuoren so plach auewinnen</l>
+<l>Sijn herte sere ende utermaten</l>
+<l>Dat hijs en conde nit gelaten</l>
+<l>Hine es geuaren dar si lach</l>
+<l>Onlostech. ende selue plach</l>
+<l>Hars met phisiken lange stonde</l>
+<l>Want hijs onsseggen nit ne conde</l>
+<l>Der cranker minnen die hem dede</l>
+<l>Dis plegen. daer hi selue mede</l>
+<l>So trege wart ende oc so lat</l>
+<l>Dat hi tin tiden al uergat</l>
+<l>Dis sermonerens. ende alstille</l>
+<l>Daer lach om harre minnen wille</l>
+<l>Want euen lanc dat hem die moet</l>
+<l>Met hare also te sine stoet</l>
+<l>Heft hi sijns selues al uergeten</l>
+<l>Wat wondre. want hi was beseten</l>
+<l>Van harre minnen dine duanc</l>
+<l>Sodat hi wart ten dogden cranc;</l>
+<l>Mar godes brut die heft uernomen</l>
+<l>Dat hi aldos was auecomen</l>
+<l>Dis predekens. ende omme wat saken</l>
+<l>Ende oc hoe hi began mesraken</l>
+<l>Si hadde int herte groten toren</l>
+<l>Dat hi so dullic heft uerloren</l>
+<l>Die gracie die hem was uerleent</l>
+<l>Van rowe groet heft si geweent</l>
+<l>Ende oc gebeden dis te gode</l>
+<l>Dat hi din mensche och hijt gebode</l>
+<l>Verloestte uan der cranker minnen</l>
+<l>Ende har baraet hem dade kinnen</l>
+<l>Mar got die alle dinge sit</l>
+<l>Ende wilde dis noch horen nit</l>
+<l>Want hi der baten nit ne gherde</l>
+<l>Noch uan der crankheit die hem derde</l>
+<l>Der loessenessen nit ne rochte</l>
+<l>So lostelic hem wesen dochte</l>
+<l>Met kranker minnen sijn beuaen</l>
+<l>Dat heft die uiant al gedaen</l>
+<l>Die hem met sinen losen treken</l>
+<l>Die doget dos waende auebreken;</l>
+<l>Dis hadde int herte groten rowe</l>
+<l>Do sijt uernam. lutgart die urowe</l>
+<l>Dis ginc si so har lijf karinen</l>
+<l>Met eiseliken disciplinen</l>
+<l>Ende oc met groten slagen blowen</l>
+<l>Dat hare har leuen mochte rowen</l>
+<l>Aldos so bat si tonsen here</l>
+<l>Al suchtende met groten sere</l>
+<l>Dat hi din mensche wilde ontladen</l>
+<l>Van sire commerliker schaden</l>
+<l>Ende oc uerlenen sonder beide</l>
+<l>Kinnesse ende onderschedechheide</l>
+<l>Waerbidat hi din uiant wreet</l>
+<l>Die hem te derne was gereet</l>
+<l>Mochte onderbrengen. ende it saen</l>
+<l>Der kranker minnen auestaen</l>
+<l>Mar got die coninc uan den trone</l>
+<l>Die al te horne was gewone</l>
+<l>Dat hem die maget utuercoren</l>
+<l>Lutgart plach bidden darteuoren</l>
+<l>Doe hi uernam dat si soe suare</l>
+<l>Verloet met disciplinen hare</l>
+<l>Ende oc met haren beden lanc</l>
+<l>Din man die worden was so cranc</l>
+<l>Ten dogden; wilde wederbringen</l>
+<l>Te gheesteliker vfeningen</l>
+<l>So heuet hi op enen dach</l>
+<l>Aldaer in knigebede lach</l>
+<l>Die maget edel ende fijn</l>
+<l>Gesendet enen bode sijn</l>
+<l>Die sprac te hare in derre wise</l>
+<l>Die coninc uan den paradise</l>
+<l>Lutgart hi grutet v met mi</l>
+<l>Ende v ontbidt. warumme gi</l>
+<l>V. so uerpijnt om enen man</l>
+<l>Die nit so uele goeds en an</l>
+<l>Hem seluen. dat hi achtte dis</l>
+<l>Dat got uersage sijn uerlis</l>
+<l>Noch dat hi hem die gracie gaue</l>
+<l>Dat hi der besechheit quameaue</l>
+<l>Van cranker minnen die hem dert</l>
+<l>Och hi dan selue nit ne ghert</l>
+<l>Noch nit ne ruket sire baten</l>
+<l>So mogdi v wel oc gematen</l>
+<l>Van meer te biddene ouer hem</l>
+<l>Dit heuet v dis bode ic bem</l>
+<l>Met mi ontboden maget goet</l>
+<l>Nu houdt in rasten vwen moet</l>
+<l>Dit moet in uersten sijn geleget</l>
+<l>Owi doe weder heft geseget</l>
+<l>Die fine godesbrut lutgart</l>
+<l>Wel sute got die oit wart</l>
+<l>Ontfarmech ende uol genaden</l>
+<l>Och dese mensche es so uerladen</l>
+<l>Van cranker minnen. dat hi nit</l>
+<l>Te rechte en merket noch en sit</l>
+<l>Wat hem mescomt noch wat hem lettet</l>
+<l>Moet hi dan werden so onssettet</l>
+<l>Van vwer helpen. dat hem al</l>
+<l>Ontgeuen werde sijn geual</l>
+<l>Dat hi teuoren ie gewan</l>
+<l>Wel sute got wat selen dan</l>
+<l>Die arme silen uan dengenen</l>
+<l>Die hen te quaden dingen wenen</l>
+<l>Dire in die werelt menech es</l>
+<l>Want wale benic dis gewes</l>
+<l>Dat se die uiant sal uerleiden</l>
+<l>Met sire boser lustechheiden</l>
+<l>Ende oc met hem ter hellen uuren</l>
+<l>Dor al dat si v so tesuren</l>
+<l>Sijn worden; die in sonden leuen</l>
+<l>Hensi dat gi hen willet geuen</l>
+<l>Die gracie weder. dat si binnen</l>
+<l>Hen seluen mogen bat bekinnen</l>
+<l>Ende oc der sonden auestaen</l>
+<l>Mar dat gi desen mensche saen</l>
+<l>Tewege brenget here goet</l>
+<l>sent dat ic al uolseggen moet</l>
+<l>Dat ic int herte binnen pense</l>
+<l>Daer ic mi seluen nit ne uense</l>
+<l>Dis biddic v wel sute here</l>
+<l>Van alle mire herten sere</l>
+<l>Sodat hi wel tesinen uromen</l>
+<l>Der krankheit moge al auecomen</l>
+<l>Die hem int herte leget stille</l>
+<l>Weder hi wille so ne wille</l>
+<l>Och doet mi seluen uten boeke</l>
+<l>Sodat ic vwes nit ne roeke</l>
+<l>Daer gi mi selue in hebt gescreuen</l>
+<l>Ende al dat gi mi hebt gegeuen</l>
+<l>Dat nemet hir op. weder nu</l>
+<l>Ende oc mi seluen scheedt uan v</l>
+<l>Hort hir noch wonder uan lutgarden</l>
+<l>Hoe si met dosgedanen warden</l>
+<l>Din groten here heft onderbrachtt</l>
+<l>Die alles dinges heuet macht</l>
+<l>Want doe die bede was uolcomen</l>
+<l>So heft die goede man uernomen</l>
+<l>Dat hem die godes cracht was bi</l>
+<l>Want hem dat herte wart so uri</l>
+<l>Van alre krankheit die hem derde</l>
+<l>Dat hi sent nemmermeer ne gherde</l>
+<l>Der metsamheiden uan der urowen</l>
+<l>Want hi began uan binnen schowen</l>
+<l>Die urese die daeran gelach</l>
+<l>Dire hi teuoren nit ne sach;</l>
+<l>Nu merket wel dis biddic v</l>
+<l>Ghi ijonge liede die hir nu</l>
+<l>Hebt dit exempel horen tellen</l>
+<l>Hoe si mesraken die hen quellen</l>
+<l>Met kranker minnen. ende laten</l>
+<l>Den rechten wech uan karitaten</l>
+<l>Warumme en willen si nit kinnen</l>
+<l>Die ommegaen met ualscher minnen</l>
+<l>Hoe dommelic si hen uerbouden</l>
+<l>Si laten dat si minnen souden</l>
+<l>Si minnen dat si souden laten</l>
+<l>Wart dat si rochten harre baten</l>
+<l>Mar merket wonder uan din riesen</l>
+<l>Hoedat si willens al uerlisen</l>
+<l>Der minnen goet dat si wel can</l>
+<l>Den genen geuen din sijs an</l>
+<l>Ende toegewegen ende bringen</l>
+<l>Van allen graciliken dingen</l>
+<l>Die rikheit migel ende groet</l>
+<l>Ende willens uallen in die noet</l>
+<l>Jn groten commer ende in pine</l>
+<l>Daer si begeren in tesine</l>
+<l>Si sijn noch dommer dan dat dir</l>
+<l>Dat selue lopet in dat uir</l>
+<l>Ende willens hem uerbernet daer</l>
+<l>Dos dogen dese pine suar</l>
+<l>Wel groten commer ende quale</l>
+<l>Dat si uerlisen altemale</l>
+<l>Want dat si doegen selc uerdrit</l>
+<l>En mach der sielen vromen nit</l>
+<l>Dis soude hem igewelc uersin</l>
+<l>Hoe hi betide mochte ontflin</l>
+<l>Der cranker minnen ende ontstaen</l>
+<l>Eer hire bleue bi geuaen</l>
+<l>Want bliuet hi daraf gebonden</l>
+<l>So werdet hem die sin ontfonden</l>
+<l>Ende oc dat herte so ontkirt</l>
+<l>Dat hem die doget oc faillirt</l>
+<l>Wille of en wille an sinen danc</l>
+<l>Want sent dat hi in dat beduanc</l>
+<l>Hem werpet uan der boser ghilen</l>
+<l>So moet hi doen bi some wilen</l>
+<l>Dat hem ten besten nit ne staet</l>
+<l>Daeromme souden dit baraet</l>
+<l>Beschiwen alle ijonge liede</l>
+<l>Ende oc met haren scharpen niede</l>
+<l>Bekiren hen ter godes minnen</l>
+<l>Daer souden si meer ane winnen</l>
+<l>Dat seggic hen wel ouerwaer</l>
+<l>Want die uan godes minnen claer</l>
+<l>Verlichtet sijn. si hebben al</l>
+<l>Geluc. ende eere. ende oc geual</l>
+<l>Oc selen si te haren uromen</l>
+<l>Hirna te goeden inde comen</l>
+<l>So mote wi. oc allegader</l>
+<l>Dis onne ons got die melde uader.</l>
+<l parse="ignore">EINDE FRAGMENT.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>
