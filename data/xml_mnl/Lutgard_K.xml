@@ -1,99 +1,95 @@
-<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i98"><teiHeader><fileDesc><titleStmt><title>Dietsche Lucidarius</title>
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i98"><teiHeader><fileDesc><titleStmt><title>Leven van Sinte Lutgart</title>
 </titleStmt>
-<interpGrp type="pubYear_from"><interp value="1400"/></interpGrp>
-<interpGrp type="witnessYear_from"><interp value="1400"/></interpGrp>
-<interpGrp type="pubYear_to"><interp value="1420"/></interpGrp>
-<interpGrp type="witnessYear_to"><interp value="1420"/></interpGrp>
 <TITEL>Kopenhaagse Lutgart</TITEL>
 <author>Willem van Aflighem</author>
 <AARD>Rijm</AARD>
 </fileDesc>
 </teiHeader>
 --><text>
-<l>i Tprologo</l>
-<l>ii Hir begint dander partie van den boke uandindat</l>
-<l>mense abdisse maken woude. ende vandindat si te gode</l>
-<l>bat dat his hare verdroge. ende vandindat onse vrowe te</l>
-<l>hare quam ende sise troeste mettindat si hare benam dat</l>
-<l>walch te leerne.</l>
-<l>iii Uandindat se onse vrowe hit vasten seuen ijar om te</l>
-<l>verweerne die gods wrake.</l>
-<l>iiii Hoedat si mester iacope van vitri verloste van den bande</l>
-<l>van cranker minnen.</l>
-<l>v Uandindat si dis abts simoens sile van foinni verloste</l>
-<l>uan den vegeuire.</l>
-<l>vi Hoe si begerde wesen versekert uan haren leuene ende</l>
-<l>hoe si daraf versekert wart.</l>
-<l>vii Uandindat si steruen begerde ende hoedat geverstet was</l>
-<l>ende uan den roepene der wonden gods.</l>
-<l>viii Uan den paus innocentiuse die te hare quam tirewilendat</l>
-<l>hi uerschit.</l>
-<l>ix Uan mester ijanne die te hare quam tirewilendat hi</l>
-<l>verscheeden was.</l>
-<l>x Vandindat hare anderwerf uan gods haluen beuolen</l>
-<l>was te vastene seuen ijar.</l>
-<l>xi Uandindat si met beden verloescede ene nonne die di</l>
-<l>uiant bedroeg met valchen visionen.</l>
-<l>xii Vandindat si uerledegde ene nonne die mettin viant</l>
-<l>beseten was. ende ene andre die die alf bedrogen hadde.</l>
-<l>xiii Uandindat si yolenden bekirde ende vandiendat sise te</l>
-<l>hare weder hit comen na hare doet.</l>
-<l>xiiii Vandindat hars selues suster te hare quam na hare doet.</l>
-<l>xv Uandindat hare uerboden was dat sacrament tontfane</l>
-<l>ende hoe dat gewroken was.</l>
-<l>xvi Uandindat se die uiant rampenerde ende uandindat</l>
-<l>si die uiande alle sere ontsagen</l>
-<l>xvii Uandindat se onse here verledegde uan ongedoude uan</l>
-<l>herten met enen scapere die uan ouer .xiii. milen</l>
-<l>quam.</l>
-<l>xviii Uandindat ene nonne sach ene vlamme uirs ut harre</l>
-<l>kelen varen.</l>
-<l>xix Uandindatsi onsen here bat dat hi hare name sine</l>
-<l>gratie uan sutheiden ende hi se ere andre gaue.</l>
-<l>xx Uandindat si ysabelen genas met harre beden.</l>
-<l>xxi Uandindat hare onse here gaf martilie te doegene.</l>
-<l>xxii Vandindat si genas ene vrowe uan harre doefheit.</l>
-<l>xxiii Vandindat si al bloetroet wart alse pensede om die</l>
-<l>passie ons heren.</l>
-<l>xxiiii Vandindat se en bruder uan haffelgem die in</l>
-<l>houetsonden was en conste niet angesien.</l>
-<l>xxv Uandindat si bekirde heren thimere met harre beden.</l>
-<l>xxvi Vandindat si uertogt wart ere nonnen in drome die si</l>
-<l>sider genas met beden van coringen ende van</l>
-<l>sicheiden.</l>
-<l>xxvii Uandindat si resplenden vorseide dat si uan haren</l>
-<l>coringen genesen soude in goeden uriendage.</l>
-<l>xxviii Uandindat se en kint genas uan den groten euele.</l>
-<l>xxix Uandindat hare uertogt wart ene schare uan heilegen in</l>
-<l>visione.</l>
-<l>xxx Vandindat ver sibilie uan Gaijs berespt wart in drome</l>
-<l>om haren wille.</l>
-<l>xxxi Uandindat en sondere die sprac ijegen hare sach enen</l>
-<l>groten schijn blaken bouen hare.</l>
-<l>xxxij Vandindat hare onse vrowe oppenbarde ende dankde</l>
-<l>hare.</l>
-<l>xxxiii Uandindat hare onse here leerde hoe hare hars</l>
-<l>euenkerstens ontfarmen soude.</l>
-<l>xxxiiii Uandindat si enen elijt uan gods haluen troeste te uarne</l>
-<l>dar hi abt gekoren was.</l>
-<l>xxxv Uandindat hare ene heilege ijoncvrowe oppenbarde</l>
-<l>ende seide hare horen name.</l>
-<l>xxxvi Uandindat si uorseide uan enen die uter ordinen</l>
-<l>geronnen was dat hi wedercomen soude.</l>
-<l>xxxvii Uandindat si der hertoginnen uorseide dat si steruen</l>
-<l>soude.</l>
-<l>xxxviij Uan ere die si uan coringen genas ende seide wat hare</l>
-<l>derde.</l>
-<l>xxxix Uandindat si bruder damase uerloesde uan</l>
-<l>koringen.</l>
-<l>xl Uandindat si tue ingle leidden ten outare.</l>
-<l>xli Uandindat si en wijf versekerde die onthopt was ende</l>
-<l>dat se walsch sprac.</l>
-<l>xlii Uandindat onse here vegde de trane van haren ogen.</l>
-<l>xliii Uandindat se die heilegen ende dingle plagen te</l>
-<l>visiteerne.</l>
-<l>de inhoudstafel is van hand G. Op de halve bladzijde daaronder, f'ho 3r'ho van andere hand en weer uitgekrabd: Alle die nu willen w onzeker en abcdef</l>
-<l>.j. Nu hebbic v met waren warden</l>
+<l parse="ignore">i Tprologo</l>
+<l parse="ignore">ii Hir begint dander partie van den boke uandindat</l>
+<l parse="ignore">mense abdisse maken woude. ende vandindat si te gode</l>
+<l parse="ignore">bat dat his hare verdroge. ende vandindat onse vrowe te</l>
+<l parse="ignore">hare quam ende sise troeste mettindat si hare benam dat</l>
+<l parse="ignore">walch te leerne.</l>
+<l parse="ignore">iii Uandindat se onse vrowe hit vasten seuen ijar om te</l>
+<l parse="ignore">verweerne die gods wrake.</l>
+<l parse="ignore">iiii Hoedat si mester iacope van vitri verloste van den bande</l>
+<l parse="ignore">van cranker minnen.</l>
+<l parse="ignore">v Uandindat si dis abts simoens sile van foinni verloste</l>
+<l parse="ignore">uan den vegeuire.</l>
+<l parse="ignore">vi Hoe si begerde wesen versekert uan haren leuene ende</l>
+<l parse="ignore">hoe si daraf versekert wart.</l>
+<l parse="ignore">vii Uandindat si steruen begerde ende hoedat geverstet was</l>
+<l parse="ignore">ende uan den roepene der wonden gods.</l>
+<l parse="ignore">viii Uan den paus innocentiuse die te hare quam tirewilendat</l>
+<l parse="ignore">hi uerschit.</l>
+<l parse="ignore">ix Uan mester ijanne die te hare quam tirewilendat hi</l>
+<l parse="ignore">verscheeden was.</l>
+<l parse="ignore">x Vandindat hare anderwerf uan gods haluen beuolen</l>
+<l parse="ignore">was te vastene seuen ijar.</l>
+<l parse="ignore">xi Uandindat si met beden verloescede ene nonne die di</l>
+<l parse="ignore">uiant bedroeg met valchen visionen.</l>
+<l parse="ignore">xii Vandindat si uerledegde ene nonne die mettin viant</l>
+<l parse="ignore">beseten was. ende ene andre die die alf bedrogen hadde.</l>
+<l parse="ignore">xiii Uandindat si yolenden bekirde ende vandiendat sise te</l>
+<l parse="ignore">hare weder hit comen na hare doet.</l>
+<l parse="ignore">xiiii Vandindat hars selues suster te hare quam na hare doet.</l>
+<l parse="ignore">xv Uandindat hare uerboden was dat sacrament tontfane</l>
+<l parse="ignore">ende hoe dat gewroken was.</l>
+<l parse="ignore">xvi Uandindat se die uiant rampenerde ende uandindat</l>
+<l parse="ignore">si die uiande alle sere ontsagen</l>
+<l parse="ignore">xvii Uandindat se onse here verledegde uan ongedoude uan</l>
+<l parse="ignore">herten met enen scapere die uan ouer .xiii. milen</l>
+<l parse="ignore">quam.</l>
+<l parse="ignore">xviii Uandindat ene nonne sach ene vlamme uirs ut harre</l>
+<l parse="ignore">kelen varen.</l>
+<l parse="ignore">xix Uandindatsi onsen here bat dat hi hare name sine</l>
+<l parse="ignore">gratie uan sutheiden ende hi se ere andre gaue.</l>
+<l parse="ignore">xx Uandindat si ysabelen genas met harre beden.</l>
+<l parse="ignore">xxi Uandindat hare onse here gaf martilie te doegene.</l>
+<l parse="ignore">xxii Vandindat si genas ene vrowe uan harre doefheit.</l>
+<l parse="ignore">xxiii Vandindat si al bloetroet wart alse pensede om die</l>
+<l parse="ignore">passie ons heren.</l>
+<l parse="ignore">xxiiii Vandindat se en bruder uan haffelgem die in</l>
+<l parse="ignore">houetsonden was en conste niet angesien.</l>
+<l parse="ignore">xxv Uandindat si bekirde heren thimere met harre beden.</l>
+<l parse="ignore">xxvi Vandindat si uertogt wart ere nonnen in drome die si</l>
+<l parse="ignore">sider genas met beden van coringen ende van</l>
+<l parse="ignore">sicheiden.</l>
+<l parse="ignore">xxvii Uandindat si resplenden vorseide dat si uan haren</l>
+<l parse="ignore">coringen genesen soude in goeden uriendage.</l>
+<l parse="ignore">xxviii Uandindat se en kint genas uan den groten euele.</l>
+<l parse="ignore">xxix Uandindat hare uertogt wart ene schare uan heilegen in</l>
+<l parse="ignore">visione.</l>
+<l parse="ignore">xxx Vandindat ver sibilie uan Gaijs berespt wart in drome</l>
+<l parse="ignore">om haren wille.</l>
+<l parse="ignore">xxxi Uandindat en sondere die sprac ijegen hare sach enen</l>
+<l parse="ignore">groten schijn blaken bouen hare.</l>
+<l parse="ignore">xxxij Vandindat hare onse vrowe oppenbarde ende dankde</l>
+<l parse="ignore">hare.</l>
+<l parse="ignore">xxxiii Uandindat hare onse here leerde hoe hare hars</l>
+<l parse="ignore">euenkerstens ontfarmen soude.</l>
+<l parse="ignore">xxxiiii Uandindat si enen elijt uan gods haluen troeste te uarne</l>
+<l parse="ignore">dar hi abt gekoren was.</l>
+<l parse="ignore">xxxv Uandindat hare ene heilege ijoncvrowe oppenbarde</l>
+<l parse="ignore">ende seide hare horen name.</l>
+<l parse="ignore">xxxvi Uandindat si uorseide uan enen die uter ordinen</l>
+<l parse="ignore">geronnen was dat hi wedercomen soude.</l>
+<l parse="ignore">xxxvii Uandindat si der hertoginnen uorseide dat si steruen</l>
+<l parse="ignore">soude.</l>
+<l parse="ignore">xxxviij Uan ere die si uan coringen genas ende seide wat hare</l>
+<l parse="ignore">derde.</l>
+<l parse="ignore">xxxix Uandindat si bruder damase uerloesde uan</l>
+<l parse="ignore">koringen.</l>
+<l parse="ignore">xl Uandindat si tue ingle leidden ten outare.</l>
+<l parse="ignore">xli Uandindat si en wijf versekerde die onthopt was ende</l>
+<l parse="ignore">dat se walsch sprac.</l>
+<l parse="ignore">xlii Uandindat onse here vegde de trane van haren ogen.</l>
+<l parse="ignore">xliii Uandindat se die heilegen ende dingle plagen te</l>
+<l parse="ignore">visiteerne.</l>
+<l parse="ignore">de inhoudstafel is van hand G. Op de halve bladzijde daaronder, f'ho 3r'ho van andere hand en weer uitgekrabd: Alle die nu willen w onzeker en abcdef</l>
+<l>Nu hebbic v met waren warden</l>
 <l>En deel der uiten uan lutgarden</l>
 <l>Uerclart gi heren ende vrowen</l>
 <l>Daer ic in mi te goeder trowen</l>
@@ -124,7 +120,7 @@
 <l>Wel menech schone exempelkin</l>
 <l>Dat staet noch daer in dat latijn</l>
 <l>Bescreuen van der vrowen viten</l>
-<l>Warbidat ic mi moge quiten</l>
+<l>War bi dat ic mi moge quiten</l>
 <l>Van din geloue dat ic dede</l>
 <l>Ende daer ic bant mi seluen mede</l>
 <l>Jn dat begin uan desen werke</l>
@@ -136,7 +132,7 @@
 <l>Van wigen och uan tauelronden</l>
 <l>Daer wileneer hen onderwonden</l>
 <l>Te dichtene af die menestrele</l>
-<l>gracililiker sic waarin liker evenals het volgende minnen van hand C</l>
+<l parse="ignore">gracililiker sic waarin liker evenals het volgende minnen van hand C</l>
 <l>Die consten wel met selken spele</l>
 <l>Die riese lokken ende tenen</l>
 <l>Sodat si wars hen daden waenen</l>
@@ -290,12 +286,12 @@
 <l>Verleenen gracie ende spoet</l>
 <l>Dat ic met eeren ende uromen</l>
 <l>Des werkes mote al ouer comen. amen.</l>
-<l>Hir begint dander partie uan den boke uandindat</l>
-<l>mense abdisse maken woude ende uandindat si te</l>
-<l>gode bat dat his hare verdroge. ende uandindat onse</l>
-<l>vrowe te hare quam ende sise trostede mettindat</l>
-<l>si hare benam dat walsch te leerne.</l>
-<l>.ij. DOe comen was in derre wise</l>
+<l parse="ignore">Hir begint dander partie uan den boke uandindat</l>
+<l parse="ignore">mense abdisse maken woude ende uandindat si te</l>
+<l parse="ignore">gode bat dat his hare verdroge. ende uandindat onse</l>
+<l parse="ignore">vrowe te hare quam ende sise trostede mettindat</l>
+<l parse="ignore">si hare benam dat walsch te leerne.</l>
+<l>Doe comen was in derre wise</l>
 <l>Lutgart die magt uan groten prise</l>
 <l>Taiwires binnen. daer si sent</l>
 <l>Hilt langen tijt in dat conuent</l>
@@ -308,7 +304,7 @@
 <l>Taiwires mettin godes bruden</l>
 <l>Lutgart die goede uan sentruden</l>
 <l>Dis was wel menech harde uro</l>
-<l>de rode titel is van hand C</l>
+<l parse="ignore">de rode titel is van hand C</l>
 <l>Tintiden.dat die dinc also</l>
 <l>Beschikket was. want goet ende ere</l>
 <l>Dede oppenbare got die here</l>
@@ -350,9 +346,9 @@
 <l>Dies dochte hen allen welgeuoege</l>
 <l>Dat si in enen worde abdesse.</l>
 <l>Met rechte en mochte niet gemesse</l>
-<l>die is boven de regel toegevoegd, hand A</l>
-<l>de verzen 229 tot 261 zijn van hand B</l>
-<l>lees spraken</l>
+<l parse="ignore">die is boven de regel toegevoegd, hand A</l>
+<l parse="ignore">de verzen 229 tot 261 zijn van hand B</l>
+<l parse="ignore">lees spraken</l>
 <l>Met rechte en mochte niet meslouen</l>
 <l>Daer si abdesse worde bouen.</l>
 <l>Dies wart tien tide also geslegen</l>
@@ -396,7 +392,7 @@
 <l>Begonste si op enen dach</l>
 <l>Daer si in kniegebede lach</l>
 <l>Si seide got uan hemelrike</l>
-<l>hier begint opnieuw hand A</l>
+<l parse="ignore">hier begint opnieuw hand A</l>
 <l>Die alle dinc geweldelike</l>
 <l>Volbrengen mogt wel sute here</l>
 <l>Din groten uaer die mi so sere</l>
@@ -459,7 +455,7 @@
 <l>Noch priorinne al sonder waen</l>
 <l>Magic met eeren dis onstaen</l>
 <l>Nu hebbic v die noet geclaget</l>
-<l>Vrieedele moeder ende maget</l>
+<l>Vrie edele moeder ende maget</l>
 <l>Die mi verweget nu so sere</l>
 <l>Dis biddic v ende onsen here</l>
 <l>Dats ihesus kerst v sone goet</l>
@@ -473,7 +469,7 @@
 <l>Tabdessen noch te priorinnen</l>
 <l>Mar dat ic mote urowe hirbinnen</l>
 <l>Jn eenechheiden so geleuen</l>
-<l>Dat ic teijoncst al sonder sneuen</l>
+<l>Dat ic te ijoncst al sonder sneuen</l>
 <l>Te meerre baten ende uromen</l>
 <l>Te goeden inde mote comen</l>
 <l>O. moder ende maget fijn</l>
@@ -511,8 +507,8 @@
 <l>Geschaden mogen noch geletten</l>
 <l>Want ic mi sal daeriegen setten</l>
 <l>Nu sijt in hogen ende uro</l>
-<l>Dit salic wedermaken soDat</l>
-<l>gi ne werdet nemmermeer</l>
+<l>Dit salic wedermaken so</l>
+<l>Dat gi ne werdet nemmermeer</l>
 <l>Verladen daer gi wileneer</l>
 <l>Te milen wart uerladen mede</l>
 <l>Nu houdt v herte in goeden urede</l>
@@ -561,7 +557,7 @@
 <l>Mar wildi dat ic v bediede</l>
 <l>Groet wonder datterna geschide</l>
 <l>Jc saelt v seggen of ic can</l>
-<l>Sentdat lutgart din troest gewan</l>
+<l>sent dat lutgart din troest gewan</l>
 <l>Van onser urowen die se lise</l>
 <l>Vertrostet hadde in derre wise</l>
 <l>So seggic v al sonder waen</l>
@@ -573,12 +569,12 @@
 <l>Och broet genoemet ochte wijn</l>
 <l>Die lichte gnoch genoemet sijn</l>
 <l>Noch ander dinc och licht och suar</l>
-<l>Nochtandat si wel .xl. ijar</l>
+<l>Nochtan dat si wel .xl. ijar</l>
 <l>Gestadelic och daeromtrent</l>
 <l>Taiwires binnen woende sent</l>
 <l>Daer si uolleuede in groten eeren</l>
 <l>Al haren tijt. al sonder leeren</l>
-<l>Dis walsches it nochtandat si</l>
+<l>Dis walsches it nochtan dat si</l>
 <l>Din walschen nonnen was so bi</l>
 <l>Dat si aldaer dis walsches gnoch</l>
 <l>Hen hoerde spreken int geuoch</l>
@@ -596,8 +592,8 @@
 <l>Dat dit gebreken was an hare</l>
 <l>Alsonder suarheit uan gebode</l>
 <l>Jn haren closter dinen gode.</l>
-<l>Uandindat se onse urowe hit uasten .vij. ijar om te</l>
-<l>verwerne der godes wrake.</l>
+<l parse="ignore">Uandindat se onse urowe hit uasten .vij. ijar om te</l>
+<l parse="ignore">verwerne der godes wrake.</l>
 <l>.iij. Tintidendat die aubeiose</l>
 <l>En uolc uerwaten ende bose</l>
 <l>Ontcirden so met bosen werken</l>
@@ -613,7 +609,7 @@
 <l>Dat menne also ontliuen moet;</l>
 <l>So lach lutgart die maget goet</l>
 <l>Op enen dach Taiwires binnen</l>
-<l>de rode titel is van hand C</l>
+<l parse="ignore">de rode titel is van hand C</l>
 <l>Ende ene bede ginc beginnen</l>
 <l>Te gode wert uan hemelrike</l>
 <l>Die si uolbrachte salechlike</l>
@@ -701,8 +697,8 @@
 <l>Alsic dese ouerdaet beschowe</l>
 <l>Mar wildi dat ic v bedide</l>
 <l>Lutgart. welc sijn die domme liede</l>
-<l>onder aan de bladzijde, hand D: oc nu te wilen</l>
-<l>lees nit</l>
+<l parse="ignore">onder aan de bladzijde, hand D: oc nu te wilen</l>
+<l parse="ignore">lees nit</l>
 <l>Die dorren maken selke nose</l>
 <l>Dos groet. dat sijn die aubeiose</l>
 <l>Die felle menschen. die quadien</l>
@@ -738,7 +734,7 @@
 <l>Te brengeneouer maget goet</l>
 <l>Mar siderdat het wesen moet</l>
 <l>So onderstaedt so cloftechlike</l>
-<l>Dat het teijoncst in hemelrike</l>
+<l>Dat het te ijoncst in hemelrike</l>
 <l>Met uromen mote v sijn uergouden</l>
 <l>Nu laett dan alles gode wouden</l>
 <l>Ende onderstaet dat ic v wise</l>
@@ -756,7 +752,7 @@
 <l>Gemaket hebt. ende oc gegeuen</l>
 <l>Daer ic ben met terasten bleuen</l>
 <l>Troest uan mesquame clene of groet</l>
-<l>Mar sentdat eischet nu die noet</l>
+<l>Mar sent dat eischet nu die noet</l>
 <l>Dat ic moet uasten .vij. ijar</l>
 <l>Dat gi ter pinen die ic suar</l>
 <l>Sal moten doegen urowe goet</l>
@@ -812,7 +808,7 @@
 <l>Die was geuudet metter minnen</l>
 <l>Vernam dat iwent quam daerbinnen</l>
 <l>Dis alt conuent hadde it tebat</l>
-<l>Nochtandat sijs nit selue en at</l>
+<l>Nochtan dat sijs nit selue en at</l>
 <l>Noch nit nontfinc in haren monde</l>
 <l>Want sijs genutten nit ne conde</l>
 <l>So was har herte meer in hogen</l>
@@ -857,8 +853,8 @@
 <l>Din armen dat tongoede maken</l>
 <l>Dat si beijagen uan den goeden</l>
 <l>Die op die dogt hen bat beuroeden</l>
-<l>Hoedat si mester ijacope uan uitri verloste van den</l>
-<l>bande van kranker minnen</l>
+<l parse="ignore">Hoedat si mester ijacope uan uitri verloste van den</l>
+<l parse="ignore">bande van kranker minnen</l>
 <l>.iiij. Oc was tin tiden in dat lant</l>
 <l>En man uermart en welbekant</l>
 <l>Die oc was cont der maget uri</l>
@@ -869,7 +865,7 @@
 <l>De kracht uan din scrifturen tonen</l>
 <l>Ende oc te rechte wel bedieden</l>
 <l>Din clerken ende oc andren lieden;</l>
-<l>de rode titel is van hand C</l>
+<l parse="ignore">de rode titel is van hand C</l>
 <l>Op enen tijt so was geuaren</l>
 <l>Met droeuer herten achterwaren</l>
 <l>Die here; alse op gerechte trowe</l>
@@ -993,7 +989,7 @@
 <l>Ende oc der sonden auestaen</l>
 <l>Mar dat gi desen mensche saen</l>
 <l>Tewege brenget here goet</l>
-<l>Sentdat ic al uolseggen moet</l>
+<l>sent dat ic al uolseggen moet</l>
 <l>Dat ic int herte binnen pense</l>
 <l>Daer ic mi seluen nit ne uense</l>
 <l>Dis biddic v wel sute here</l>
@@ -1061,7 +1057,7 @@
 <l>Ende oc dat herte so ontkirt</l>
 <l>Dat hem die doget oc faillirt</l>
 <l>Wille of en wille an sinen danc</l>
-<l>Want sentdat hi in dat beduanc</l>
+<l>Want sent dat hi in dat beduanc</l>
 <l>Hem werpet uan der boser ghilen</l>
 <l>So moet hi doen bi some wilen</l>
 <l>Dat hem ten besten nit ne staet</l>
@@ -1077,11 +1073,11 @@
 <l>Oc selen si te haren uromen</l>
 <l>Hirna te goeden inde comen</l>
 <l>So mote wi. oc allegader</l>
-<l>Dis onne ons got die melde uader. amen.</l>
-<l>Vandindat si des abts symoens sile uan foinni</l>
-<l>verloestte van den vegeuire</l>
-<l>amen jongere toevoeging, gelijktijdige hand</l>
-<l>de rode titel is van hand C</l>
+<l>Dis onne ons got die melde uader.</l>
+<l parse="ignore">Vandindat si des abts symoens sile uan foinni</l>
+<l parse="ignore">verloestte van den vegeuire</l>
+<l parse="ignore">amen jongere toevoeging, gelijktijdige hand</l>
+<l parse="ignore">de rode titel is van hand C</l>
 <l>.v. JN enen closter in din dagen</l>
 <l>Daer grawe moneke ordne dragen</l>
 <l>Die es genamet alsic mi</l>
@@ -1105,7 +1101,7 @@
 <l>Die sine seden int geuoch</l>
 <l>Volcomenlike priset gnoch</l>
 <l>Mar dis hi hadde lof uercregen</l>
-<l>Bidieso haddene onderslegen</l>
+<l>Bi die so haddene onderslegen</l>
 <l>Lutgart die goede ende utuercoren</l>
 <l>Daeran en heft hi nit uerloren</l>
 <l>Want op die wile dat hi schit</l>
@@ -1119,7 +1115,7 @@
 <l>Op souden scowen ende merken</l>
 <l>Want igewelc van sinen werken</l>
 <l>Weder si quaet sijn ochte goet</l>
-<l>Teijoncst antwerde geuen moet</l>
+<l>te ijoncst antwerde geuen moet</l>
 <l>Aldos so moste comen uoert</l>
 <l>Die sile aldaer si heft gehort</l>
 <l>Die gods sententie die se schire</l>
@@ -1166,8 +1162,8 @@
 <l>Dat hare bede wel bequam</l>
 <l>Den hogsten coninc onsen here</l>
 <l>Dis ginc si hem noch bidden sere</l>
-<l>bidden op rasuur, hand C</l>
-<l>hier begint hand C</l>
+<l parse="ignore">bidden op rasuur, hand C</l>
+<l parse="ignore">hier begint hand C</l>
 <l>Die alle dinc geleisten mach</l>
 <l>Dat hi din eweliken dach</l>
 <l>Van sinen rike dade schinen</l>
@@ -1250,7 +1246,7 @@
 <l>Ende al mijn lijf oc so dorbluwen</l>
 <l>Met slagen groet sonder getal</l>
 <l>Dat v dis here ontfarmen sal</l>
-<l>er staat Begans met afkortingsteken voor et</l>
+<l parse="ignore">er staat Begans met afkortingsteken voor et</l>
 <l>Opdat gi langer legget it</l>
 <l>Jn versten dit. mar neen gi nit</l>
 <l>Dis hopic. want gi sijt so melde</l>
@@ -1291,9 +1287,9 @@
 <l>Ende oc uerlaet van alre wraken</l>
 <l>Dis sijt wel seker kare mijn</l>
 <l>Dat toget wel die clare schijn</l>
-<l>lees ic</l>
-<l>sit met door hand H bovengeschreven e: siet</l>
-<l>sit met door hand H bovengeschreven e: siet</l>
+<l parse="ignore">lees ic</l>
+<l parse="ignore">sit met door hand H bovengeschreven e: siet</l>
+<l parse="ignore">sit met door hand H bovengeschreven e: siet</l>
 <l>Daer gise mede siet uerclart</l>
 <l>Dis mach si danken v lutgart</l>
 <l>Te rechte meer dan imene el</l>
@@ -1379,7 +1375,7 @@
 <l>Dis goedes dat men sach an hare</l>
 <l>Mar och si uol uan sonden ware</l>
 <l>Was si altoes in groten sorgen</l>
-<l>er staat wiart</l>
+<l parse="ignore">er staat wiart</l>
 <l>Want si wel wiste dat uerborgen</l>
 <l>Den godes ogen dinc engeene</l>
 <l>Ne mochte sijn no groet no cleene</l>
@@ -1423,7 +1419,7 @@
 <l>Meer dan v imen soude mogen</l>
 <l>Geseggen wel met didscher spraken</l>
 <l>Want daer si lach met terre saken</l>
-<l>lees uercuschen</l>
+<l parse="ignore">lees uercuschen</l>
 <l>Onledech. ende bat te gode</l>
 <l>So quam geulogen een sijn bode</l>
 <l>Van bouen uten hogen trone</l>
@@ -1465,7 +1461,7 @@
 <l>So mogdi oc wel gerne. want</l>
 <l>Gi selet iegen din viant</l>
 <l>Met sire helpen uechten sege</l>
-<l>de tweede o ten onrechte gewijzigd in e: ontbeden</l>
+<l parse="ignore">de tweede o ten onrechte gewijzigd in e: ontbeden</l>
 <l>Nv blijft te gode. ic uareenwege</l>
 <l>Doe dese wart gesproken waren</l>
 <l>So es die bode enwechgeuaren</l>
@@ -1510,7 +1506,7 @@
 <l>Van dire wreeder godes wraken</l>
 <l>Daer si moste emmer toe geraken</l>
 <l>Wart dat die sile so met sonden</l>
-<l>Teijoncst besmettet worde uonden</l>
+<l>te ijoncst besmettet worde uonden</l>
 <l>Dat si der wraken werdech ware</l>
 <l>Dos bleef die maget noch in uare</l>
 <l>Tote an der stont dat quam die bode</l>
@@ -1578,8 +1574,8 @@
 <l>Ende anders onderscheedech si</l>
 <l>Din sendet hare tote mi</l>
 <l>Hi sal mi mogen uele bat</l>
-<l>Getrosten dan die urowe. opdatDat</l>
-<l>hi mi sekerlic uerlijt</l>
+<l>Getrosten dan die urowe. opdat</l>
+<l>Dat hi mi sekerlic uerlijt</l>
 <l>Dis selues dis gi bode sijt</l>
 <l>Do sprac die bode aldaer hi stoet</l>
 <l>Lutgart nu houdet vwen moet</l>
@@ -1725,9 +1721,9 @@
 <l>Dos es die maget uan din vare</l>
 <l>Verloesset bleuen ewelike</l>
 <l>Danc hebbes got uan hemelrike</l>
-<l>Vandindat si steruen begerde ende hoedat</l>
-<l>geuerstet was. ende uan den roepene der wonden</l>
-<l>gods.</l>
+<l parse="ignore">Vandindat si steruen begerde ende hoedat</l>
+<l parse="ignore">geuerstet was. ende uan den roepene der wonden</l>
+<l parse="ignore">gods.</l>
 <l>.vij. Lutgart die maget welbequame</l>
 <l>Doe si uernam dat die lichame</l>
 <l>Met sinen cranken liue nam</l>
@@ -1799,8 +1795,8 @@
 <l>Gelijcdat hi den goeden pleget</l>
 <l>Altoes; so heuet hi onsseget</l>
 <l>Nochtan der maget dat si bat</l>
-<l>Tin seluen tiden. ommedatDat</l>
-<l>hi die sile wilde binnen</l>
+<l>Tin seluen tiden. ommedat</l>
+<l>Dat hi die sile wilde binnen</l>
 <l>Noch ciren bat met sire minnem</l>
 <l>Ende oc dis hi har herte fijn</l>
 <l>Noch wilde bat uolmaket sijn</l>
@@ -1810,7 +1806,7 @@
 <l>Der silen deewelike leuen</l>
 <l>Ochte in den rike sijn ontfaen [;]</l>
 <l>Doch heuet hire it toe gedaen</l>
-<l>Warbidat si gepaiset bleef</l>
+<l>War bi dat si gepaiset bleef</l>
 <l>Van besechheiden die si dreef</l>
 <l>Ende oc terasten weder quam</l>
 <l>Want doe die sute got uernam</l>
@@ -1843,7 +1839,7 @@
 <l>Verloesset uan den cruce ware</l>
 <l>Al dosterwijs hi quam te hare</l>
 <l>Gestreken lise aldaer si stoet</l>
-<l>lees minnen</l>
+<l parse="ignore">lees minnen</l>
 <l>Doe wart uerwandelt al die moet</l>
 <l>Lutgarden. want si sach al roet</l>
 <l>Van bloede sine wonden groet</l>
@@ -1885,10 +1881,6 @@
 <l>Hort hoe si roepen alle uiue</l>
 <l>Si ropen alle sonderlinge</l>
 <l>Nv hort lutgart wel har gedinge</l>
-<l>lees nu</l>
-<l>er staat warummme</l>
-<l>tussen w en e een e bovengeschreven, hand H: weetic</l>
-<l>lees minen</l>
 <l>Ende al dat si v leeren nv</l>
 <l>Onthoudet wel dat radic v</l>
 <l>Do wart lutgart die vrie maget</l>
@@ -1959,8 +1951,8 @@
 <l>Dos bleef die maget lange seder</l>
 <l>Met groten rasten sonder clage</l>
 <l>Hem dienende al har leuedage.</l>
-<l>Van den paus jnnocentiuse die te hare quam tirewilendat</l>
-<l>hi verschit</l>
+<l parse="ignore">Van den paus jnnocentiuse die te hare quam tirewilendat</l>
+<l parse="ignore">hi verschit</l>
 <l>En paus te rome wilen was.</l>
 <l>Daer ic hiruore v aue las</l>
 <l>Die hit her jnnocentius</l>
@@ -2102,8 +2094,8 @@
 <l>Si daden mi dat ic ontfa</l>
 <l>Die pine groet daer ic in sta</l>
 <l>Dat sijn drie commerlike sonden</l>
-<l>drouen met door hand H bovengeschreven e: droeuen</l>
-<l>lees houedede</l>
+<l parse="ignore">drouen met door hand H bovengeschreven e: droeuen</l>
+<l parse="ignore">lees houedede</l>
 <l>Daer ic was lange met gebonden</l>
 <l>Jn minen liue maget reene</l>
 <l>So groet. dat igewelke allene</l>
@@ -2138,7 +2130,7 @@
 <l>Dorginc met eenen groten sere</l>
 <l>Bi der gewelt uan onsen here</l>
 <l>Dat ikkeraf te bichten ginc</l>
-<l>Alsowarbidat ic ontfinc</l>
+<l>Also war bi dat ic ontfinc</l>
 <l>De gracie uan der godes hulden</l>
 <l>Die ic met minen groten schulden</l>
 <l>Alsic v seide. aldaerteuoren</l>
@@ -2202,7 +2194,7 @@
 <l>Daromme latic achter nu</l>
 <l>Die saken oc te seggene v</l>
 <l>Want dat men uan din paus seide</l>
-<l>Warbidat sine werdechheide</l>
+<l>War bi dat sine werdechheide</l>
 <l>Besmettet worde. en uugde nit</l>
 <l>Daromme dat al achterlit</l>
 <l>Die vroede man die iacobijn</l>
@@ -2215,7 +2207,7 @@
 <l>Wildi nochten ic seggv uoert</l>
 <l>Hoe si uaneen gescheeden sijn</l>
 <l>Die sile ende oc die maget fijn.</l>
-<l>Tirstdat die siele in derre wise</l>
+<l>tirst dat die siele in derre wise</l>
 <l>Getalet hadde. es si wel lise</l>
 <l>Al sonder beide enwechgecregen</l>
 <l>Doe ginc lutgart uan irsten plegen</l>
@@ -2233,7 +2225,7 @@
 <l>En wisten af. oc bat si sere</l>
 <l>Din nonnen dat si allegader</l>
 <l>Die sile hars gheestelikes vader</l>
-<l>lees die</l>
+<l parse="ignore">lees die</l>
 <l>Van harre pinen suar ontloeden</l>
 <l>Met beden. ende in staden stoeden</l>
 <l>Getrowelike sonder wanc</l>
@@ -2266,8 +2258,8 @@
 <l>Gereet si allewege uant</l>
 <l>Dat si uan gode wilde ontfaen</l>
 <l>So heuet si oc nu gedaen</l>
-<l>Van mester ijanne die te hare quam tirewilendat</l>
-<l>hi uerscheeden was</l>
+<l parse="ignore">Van mester ijanne die te hare quam tirewilendat</l>
+<l parse="ignore">hi uerscheeden was</l>
 <l>.ix. Hebdi uernomen gi prelate.</l>
 <l>Die v uerheffet bouen mate.</l>
 <l>Dit bispel dat ic v uertrac</l>
@@ -2298,7 +2290,7 @@
 <l>Al houden anders mannes raet</l>
 <l>Al es hi beter dan de hare</l>
 <l>Hirbi so comet dat si suare</l>
-<l>Teijoncsten uallen enen ual</l>
+<l>Tei joncsten uallen enen ual</l>
 <l>So groet dat si uerboren al</l>
 <l>Der godes hulden. want si laten</l>
 <l>Den rechten wech uan karitaten</l>
@@ -2403,7 +2395,6 @@
 <l>Warbi si mochten wedernieden</l>
 <l>Die boesheit uan den dommen lieden</l>
 <l>Die hen wel dikke daden toren</l>
-<l>lees ic</l>
 <l>Want hen van selken wart ontsuoren</l>
 <l>Har recht. uan selken aftebroken</l>
 <l>Al met gewoude. ende ongewroken</l>
@@ -2445,8 +2436,8 @@
 <l>Want sijs en hadde nit uernomen</l>
 <l>Noch met gescrefte noch met talen</l>
 <l>Noch nit gehoert van sire qualen</l>
-<l>lees godshuse</l>
-<l>sile met door hand H bovengeschreven e: siele</l>
+<l parse="ignore">lees godshuse</l>
+<l parse="ignore">sile met door hand H bovengeschreven e: siele</l>
 <l>Aldaer lutgart die urowe goet</l>
 <l>Taiwires in den closter stoet</l>
 <l>So sach si comen werdelike</l>
@@ -2532,7 +2523,7 @@
 <l>Es worden uan der spraken sijn</l>
 <l>Dat nit ne conde har herte fijn</l>
 <l>Gedragen dat si daer uernam</l>
-<l>ic is boven de regel toegevoegd, hand C</l>
+<l parse="ignore">ic is boven de regel toegevoegd, hand C</l>
 <l>Mar alse weder doe bequam</l>
 <l>Van din ommachte. alsonder beide</l>
 <l>So sprac die maget ende seide</l>
@@ -2573,8 +2564,8 @@
 <l>Dat herte mijn ter godes minnen</l>
 <l>Die ufendic altoes daerbinnen</l>
 <l>Getrowelic in minen tide</l>
-<l>lees scharlaken</l>
-<l>er staat Der</l>
+<l parse="ignore">lees scharlaken</l>
+<l parse="ignore">er staat Der</l>
 <l>Daertoe was si ontploken wide</l>
 <l>Altoes te hemelrike wert</l>
 <l>Omdat ic hebbe dat begert</l>
@@ -2592,8 +2583,8 @@
 <l>So es die sile enwechgeuaren</l>
 <l>Wel lise. ende oc die maget reene</l>
 <l>Es bleuen staende daer alleene</l>
-<l>Die noch uerssaget was uandinDat</l>
-<l>si daer hadde also gesin</l>
+<l>Die noch uerssaget was uandin</l>
+<l>Dat si daer hadde also gesin</l>
 <l>Die sile comen; mar idoch</l>
 <l>Al was si dis bedroeuet noch</l>
 <l>Dat si hadde eenen urint uerloren</l>
@@ -2618,8 +2609,8 @@
 <l>Taiwires. maken oppenbar</l>
 <l>Hars bruder meester ijannes doet</l>
 <l>Dis hadde seerechheide groet</l>
-<l>wide op rasuur, andere gelijktijdige hand</l>
-<l>lees dese</l>
+<l parse="ignore">wide op rasuur, andere gelijktijdige hand</l>
+<l parse="ignore">lees dese</l>
 <l>Die urowe doe si dat uernam</l>
 <l>Aldos taiwires binnen quam</l>
 <l>Van meester ijanne die niemerde</l>
@@ -2634,7 +2625,7 @@
 <l>Der silen. sodat si it schire</l>
 <l>Daeraue werden mochte ontladen</l>
 <l>Waert dat si ware van mesdaden</l>
-<l>Teijoncst besmettet bleuen it</l>
+<l>te ijoncst besmettet bleuen it</l>
 <l>Eer si uan derre werelt schit</l>
 <l>Die si ontgelden moste aldaer</l>
 <l>Dis nit ne wisten ouerwaer</l>
@@ -2680,8 +2671,8 @@
 <l>Dat si tehant al sonder beide</l>
 <l>Van haren ijammere al genas</l>
 <l>Want het die godes wille was.</l>
-<l>Vandindat hare anderwerf van godeshaluen</l>
-<l>beuolen was te uastene vij . ijar</l>
+<l parse="ignore">Vandindat hare anderwerf van godeshaluen</l>
+<l parse="ignore">beuolen was te uastene vij . ijar</l>
 <l>.x. Doe die uasten van .vij. ijaren.</l>
 <l>Altoten inde comen waren.</l>
 <l>Die godes utuercorne brut</l>
@@ -2743,7 +2734,7 @@
 <l>Aldar lutgart die maget goet</l>
 <l>Al dosterwijs uerheuen stoet</l>
 <l>Daer si. die ioije migel uant</l>
-<l>ne is boven de regel toegevoegd, hand C</l>
+<l parse="ignore">ne is boven de regel toegevoegd, hand C</l>
 <l>Began si schowen altehant</l>
 <l>En uision dat ic v al</l>
 <l>Opdat ic can uertrekken sal</l>
@@ -2786,7 +2777,7 @@
 <l>Oc sach aldaer die maget reene</l>
 <l>Die gods apostlen al gemeene</l>
 <l>Die saten alle teenen ringe</l>
-<l>lees patriarken</l>
+<l parse="ignore">lees patriarken</l>
 <l>Ende alle songen sonderlinge</l>
 <l>Met clarre stemmen oppenbare</l>
 <l>Dat got die coninc werdech ware</l>
@@ -2867,7 +2858,7 @@
 <l>Dat v ontfarme der sonderen</l>
 <l>Sodat si mogen hen uerweren</l>
 <l>Jegen din uiant die gereet</l>
-<l>ureden waarin n uitgekrabd; in de marge urede , hand E, loodstift</l>
+<l parse="ignore">ureden waarin n uitgekrabd; in de marge urede , hand E, loodstift</l>
 <l>Hen es te doene arch ende leet</l>
 <l>Oc offere ic mi ouer hen</l>
 <l>.V. uader here. want ic ben</l>
@@ -2941,7 +2932,7 @@
 <l>Want ic v sal doen spannen crone</l>
 <l>Met allen desen magedinen</l>
 <l>Alsic v sal uan alre pinen</l>
-<l>Teijoncst uerlaten. ende geuen</l>
+<l>te ijoncst uerlaten. ende geuen</l>
 <l>Hirbouen deewelike leuen;</l>
 <l>Antwerde gaf op dese wart</l>
 <l>Die welgerakde magt lutgart</l>
@@ -3111,12 +3102,11 @@
 <l>Daer si nv pleget met uerlichten</l>
 <l>Die arme sielen ende ontladen</l>
 <l>Van sonden ende uan mesdaden</l>
-<l>Mar tirstdat dese maget wert</l>
+<l>Mar tirst dat dese maget wert</l>
 <l>Sal hebben al dat si begert</l>
 <l>Dat es din loen uan hemelrike</l>
 <l>Daer si sal comen hastelike</l>
 <l>Nadindat si sal henenscheeden</l>
-<l>lees dommen</l>
 <l>So sal si hare ghichten breeden</l>
 <l>Noch uoerder dan si pleget nv</l>
 <l>Want ouerwaer so seggic v</l>
@@ -3134,14 +3124,14 @@
 <l>Oc mogens wel geloeuen hare</l>
 <l>Die dit nv horen. want si seide</l>
 <l>Hiraf algader die warheide.</l>
-<l>Vandindat si met beden verloessede ene nonne</l>
-<l>die de uiant bedroech met ualschen visionem</l>
+<l parse="ignore">Vandindat si met beden verloessede ene nonne</l>
+<l parse="ignore">die de uiant bedroech met ualschen visionem</l>
 <l>.xi. Ghi urowen die taiwires sijt</l>
 <l>Begeuen. ende dragt abijt.</l>
 <l>Met rechte mogdi danken sere</l>
 <l>Den hogsten coninc onsen here.</l>
-<l>Die algeweldech es. uandinDat</l>
-<l>hi v heuet wel uersin</l>
+<l>Die algeweldech es. uandin</l>
+<l>Dat hi v heuet wel uersin</l>
 <l>Van groter eeren ende uromen</l>
 <l>Die v es uan lutgarden comen</l>
 <l>Ende oc al noch v comt uan hare</l>
@@ -3157,7 +3147,7 @@
 <l>Dat daer noch restet die lichame</l>
 <l>Die gode was so welbequame</l>
 <l>Jn sinen dagen. dat hi sal</l>
-<l>lees visionen</l>
+<l parse="ignore">lees visionen</l>
 <l>Tintidendat die werelt al</l>
 <l>Die gods sententie sal ontfaen</l>
 <l>Aldaer ter rechter siden staen</l>
@@ -3198,7 +3188,7 @@
 <l>Taiwires in din closter maer</l>
 <l>Dat si die lange .xl. ijaer</l>
 <l>Daer leuede. ende restet nv</l>
-<l>tussen g en d een e bovengeschreven, hand H: mogedi</l>
+<l parse="ignore">tussen g en d een e bovengeschreven, hand H: mogedi</l>
 <l>Want ouerwaer so seggic v</l>
 <l>Dat si v sal in staden staen</l>
 <l>Altoes. ende vwe bede ontfaen</l>
@@ -3241,7 +3231,7 @@
 <l>Jc sal v seggen welkertiren</l>
 <l>Hi plach hem schudden ende kiren</l>
 <l>Jn ere uormen harde schone</l>
-<l>lees Verwisten</l>
+<l parse="ignore">lees Verwisten</l>
 <l>Ende och hi quame uan den trone</l>
 <l>Darbouen. in ens ingels wise</l>
 <l>So plach hi toter nonnen lise</l>
@@ -3286,7 +3276,7 @@
 <l>Verijagede. ende nit ne wilde</l>
 <l>Gedogen. dat hi langer hilde</l>
 <l>Die nonne in dole die so was</l>
-<l>Sstaerlic uerblindt in dat gedwas</l>
+<l>Staerlic uerblindt in dat gedwas</l>
 <l>Aldos beraden ginc die urowe</l>
 <l>Jn karitaten ende op trowe</l>
 <l>Met droeuen moede uele sere</l>
@@ -3324,7 +3314,6 @@
 <l>Den coninc uan den paradise</l>
 <l>Daeromme ginc si weder lise</l>
 <l>Ens anders dags met groten tranen</l>
-<l>lees staerlic</l>
 <l>Gode onsen uader dis uermanen</l>
 <l>Dat hi met sire groter cracht</l>
 <l>Din uiant name sine macht</l>
@@ -3365,7 +3354,7 @@
 <l>Ende oc te schowene onbequame;</l>
 <l>Lutgart ins leedes euels name</l>
 <l>So mostti wesen ie geboren</l>
-<l>Versin met door hand H bovengeschreven e: versien</l>
+<l parse="ignore">Versin met door hand H bovengeschreven e: versien</l>
 <l>Dis gi mi doet so dikke toren</l>
 <l>Sprac hi aldaer hi was gestaen</l>
 <l>Want gi mi hebbet ondergaen</l>
@@ -3406,8 +3395,8 @@
 <l>Ende hare oc uaste houdt darane</l>
 <l>Mar bi denghenen ic v mane</l>
 <l>Die es geweldech ouer al</l>
-<l>nit met door hand H bovengeschreven e: niet derne met door hand H? bovengeschreven e: deerne</l>
-<l>Ende v teijoncsten dumen sal</l>
+<l parse="ignore">nit met door hand H bovengeschreven e: niet derne met door hand H? bovengeschreven e: deerne</l>
+<l>Ende v tei joncsten dumen sal</l>
 <l>Fel drogenere dat gi uart</l>
 <l>Van henen. ende nit ne spart</l>
 <l>Noch nit ne lett no meer no min</l>
@@ -3448,7 +3437,7 @@
 <l>Geknilt in sinen orisone</l>
 <l>Ende alse totin here quam</l>
 <l>Die uiant tornech ende gram</l>
-<l>goden met door hand H bovengeschreven e: goeden</l>
+<l parse="ignore">goden met door hand H bovengeschreven e: goeden</l>
 <l>Began hi spreken dese wart</l>
 <l>Met mi so groetet v lutgart</l>
 <l>Dat felle wijf. die quaderhande</l>
@@ -3484,16 +3473,16 @@
 <l>Dat sijs dis dags tebat geuart</l>
 <l>Warumme welt mi dan lutgart</l>
 <l>Dos ondergaen mijn eigen goet</l>
-<l>boven oe een v, hand C: grvtet</l>
-<l>tussen n en t een t bovengeschreven, hand H: senttruden</l>
-<l>door bovenschrijving van i en expungering van i verbeterd in ontbiedet , hand H</l>
-<l>din waarin in uitgekrabd en ien erop geschreven, hand H?: dien</l>
-<l>sin waarin in uitgekrabd en ien erop geschreven, hand H?: sien</l>
-<l>Din met door hand H bovengeschreven e: dien</l>
-<l>schowen met door hand H ? bovengeschreven u: schouwen</l>
-<l>nit met door hand H bovengeschreven e: niet</l>
-<l>beghit met door hand H bovengeschreven e: beghiet</l>
-<l>sit met door hand H bovengeschreven e: siet</l>
+<l parse="ignore">boven oe een v, hand C: grvtet</l>
+<l parse="ignore">tussen n en t een t bovengeschreven, hand H: senttruden</l>
+<l parse="ignore">door bovenschrijving van i en expungering van i verbeterd in ontbiedet , hand H</l>
+<l parse="ignore">din waarin in uitgekrabd en ien erop geschreven, hand H?: dien</l>
+<l parse="ignore">sin waarin in uitgekrabd en ien erop geschreven, hand H?: sien</l>
+<l parse="ignore">Din met door hand H bovengeschreven e: dien</l>
+<l parse="ignore">schowen met door hand H ? bovengeschreven u: schouwen</l>
+<l parse="ignore">nit met door hand H bovengeschreven e: niet</l>
+<l parse="ignore">beghit met door hand H bovengeschreven e: beghiet</l>
+<l parse="ignore">sit met door hand H bovengeschreven e: siet</l>
 <l>Jc seggv wel dat si mesdoet</l>
 <l>Oc seggic v dat ic mi sal</l>
 <l>Dis wreken noch hebbics geual</l>
@@ -3501,7 +3490,7 @@
 <l>Mar gi die sijt uan haren rade</l>
 <l>Vartwech ende hare dit mespriset</l>
 <l>Ende eenen raet daeriegen wiset</l>
-<l>Warbidat si des auecome</l>
+<l>War bi dat si des auecome</l>
 <l>Want dat sal wesen hare urome.</l>
 <l>Doe dese wart gesproken waren</l>
 <l>So uoerenwech die euelbaren</l>
@@ -3537,7 +3526,6 @@
 <l>Dat si geloeuede alles dis</l>
 <l>Dat die uiant hare aneleide</l>
 <l>Want al die sprake die hi seide</l>
-<l>grute met door hand H bovengeschreven e: gruete</l>
 <l>Schone ende wel besneden scheen</l>
 <l>Darna so drogenouereen</l>
 <l>Die godes urinde aldaer si saten</l>
@@ -3563,7 +3551,7 @@
 <l>Ende oc die bruder hare ontbonden</l>
 <l>Die uiant die in allen stonden</l>
 <l>Den mensche lettet daer hi mach</l>
-<l>Tirstdat hi wiste ende hi uersach</l>
+<l>tirst dat hi wiste ende hi uersach</l>
 <l>Dat hi der silen daruen soude</l>
 <l>Want hem die maget met gewoude</l>
 <l>Din sach uan hare hadde aftebroken</l>
@@ -3577,8 +3565,8 @@
 <l>Si dogde commer harde suaer</l>
 <l>Si sloch har hoeft. si trac har haer</l>
 <l>Wel crachtelic met beiden handen</l>
-<l>i in e gewijzigd en i tussengeschreven, hand H: Dien</l>
-<l>uil met door hand H bovengeschreven e: uiel</l>
+<l parse="ignore">i in e gewijzigd en i tussengeschreven, hand H: Dien</l>
+<l parse="ignore">uil met door hand H bovengeschreven e: uiel</l>
 <l>Si cricelde oc met haren tanden</l>
 <l>Die mont hi stont hare al uerkirt</l>
 <l>Oc heft har anschin sere onssirt</l>
@@ -3614,14 +3602,14 @@
 <l>Die nonne die noch emmertoe</l>
 <l>Gestrekket op die erde lach</l>
 <l>Ende einseliker uoeren plach</l>
-<l>Tirstdat die bede har inde nam</l>
+<l>tirst dat die bede har inde nam</l>
 <l>Te goeden pointe wederquam</l>
 <l>Sodat si an der seluer stont</l>
 <l>Wel tegereke ende al gesont</l>
 <l>Es uan der erden opgestaen</l>
-<l>boven de eerste c een k, hand H: kricelde</l>
-<l>sin met door hand H bovengeschreven e: sien</l>
-<l>hier ic interlineair toegevoegd, hand H</l>
+<l parse="ignore">boven de eerste c een k, hand H: kricelde</l>
+<l parse="ignore">sin met door hand H bovengeschreven e: sien</l>
+<l parse="ignore">hier ic interlineair toegevoegd, hand H</l>
 <l>Dat heft die godes cracht gedaen</l>
 <l>Die sent gaf hare oc selken spoet</l>
 <l>Dat si wart heilech ende goet</l>
@@ -3629,9 +3617,9 @@
 <l>Verlichtet so int herte binnen</l>
 <l>Dat si wel lange sent daeraf</l>
 <l>Goet bispel andren nonnen gaf.</l>
-<l>Vandindat si uerledegde ene nonne die metten</l>
-<l>uiant beseten was. ende ene andre die die alf</l>
-<l>bedrogen hadde.</l>
+<l parse="ignore">Vandindat si uerledegde ene nonne die metten</l>
+<l parse="ignore">uiant beseten was. ende ene andre die die alf</l>
+<l parse="ignore">bedrogen hadde.</l>
 <l>.xij. Hebdi uernomen altemale.</l>
 <l>Van ere nonnen mine tale.</l>
 <l>Die ic getellet hebbe nv</l>
@@ -3697,7 +3685,7 @@
 <l>Ende oc uerlijagen met gewoude</l>
 <l>Opdat sijs hare pinen woude</l>
 <l>Daromme wart hi also gram</l>
-<l>Tirstdat hi bi lutgarden quam</l>
+<l>tirst dat hi bi lutgarden quam</l>
 <l>Dat hi hem pijnde quellen meer</l>
 <l>Die nonne dan hi noit eer</l>
 <l>Gepinet hadde hem dis teuoren</l>
@@ -3705,8 +3693,8 @@
 <l>Die fine godes brut lutgart</l>
 <l>Also die nonne sach uersuart</l>
 <l>Van din uiant. began si doen</l>
-<l>lees soude</l>
-<l>hier volgt een overtollige, doorgestreepte regel: Die fine maget utuercoren</l>
+<l parse="ignore">lees soude</l>
+<l parse="ignore">hier volgt een overtollige, doorgestreepte regel: Die fine maget utuercoren</l>
 <l>Alsonder beide en orison</l>
 <l>So starc. dat sine dede criten</l>
 <l>Van pinen ende uan weewiten</l>
@@ -3791,9 +3779,9 @@
 <l>So was hi. als en ijonc sariant</l>
 <l>Schone. amoreus. ende achemant</l>
 <l>Aldos ter nonnen comen plach</l>
-<l>dogene met door hand H bovengeschreven e: doegene</l>
-<l>lees dommen</l>
-<l>Verlenen met door hand H bovengeschreven e: verleenen</l>
+<l parse="ignore">dogene met door hand H bovengeschreven e: doegene</l>
+<l parse="ignore">lees dommen</l>
+<l parse="ignore">Verlenen met door hand H bovengeschreven e: verleenen</l>
 <l>Die uiant lise op elken dach</l>
 <l>Daer hise in hemeliken steden</l>
 <l>Betrapede. ochte in haren beden</l>
@@ -3818,8 +3806,8 @@
 <l>Ontgeuen wart. ende al die raet</l>
 <l>Daer si met mochte sijn baraet</l>
 <l>Beschiwet hebben. hadde si</l>
-<l>Betide raet gesochtt. warbiDat</l>
-<l>si dis mochte sijn onstaen</l>
+<l>Betide raet gesochtt. warbi</l>
+<l>Dat si dis mochte sijn onstaen</l>
 <l>Mar dis en heft si nit gedaen</l>
 <l>Omdat si waende dat het ware</l>
 <l>En mensche die daer quam te hare</l>
@@ -3836,8 +3824,8 @@
 <l>So uerre ontdekkede sijn spel</l>
 <l>Dat die ijonfrowe wiste wel</l>
 <l>Dat het en ware mensche nit</l>
-<l>lees dole</l>
-<l>met verwijzing hierheen een overbodig gheen onder aan de bladzijde toegevoegd, hand O</l>
+<l parse="ignore">lees dole</l>
+<l parse="ignore">met verwijzing hierheen een overbodig gheen onder aan de bladzijde toegevoegd, hand O</l>
 <l>Die hem so wonderlic gelit</l>
 <l>Te hare wert. mar een uiant</l>
 <l>En drogenere ende een triwant</l>
@@ -3880,7 +3868,7 @@
 <l>Beschiwen. ende sijn ontgaen</l>
 <l>Den uiant die se hilt geuaen</l>
 <l>Oc segt uan hare al ouerwaer</l>
-<l>urowen met door hand H ? bovengeschreven u: urouwen urowen met door hand H ? bovengeschreven u: urouwen</l>
+<l parse="ignore">urowen met door hand H ? bovengeschreven u: urouwen urowen met door hand H ? bovengeschreven u: urouwen</l>
 <l>Die iacobijn die here mar</l>
 <l>Die meester derre uiten was</l>
 <l>Dat si so sere in dat gedwas</l>
@@ -3960,10 +3948,10 @@
 <l>Van commere ochte uan mesquamen</l>
 <l>Daer si af wilden sijn genesen</l>
 <l>Gebenedijt so motsi wesen.</l>
-<l>Vandindat so yolenden bekirde. ende uandindat</l>
-<l>sise te hare weder hit comen na hare doet</l>
+<l parse="ignore">Vandindat so yolenden bekirde. ende uandindat</l>
+<l parse="ignore">sise te hare weder hit comen na hare doet</l>
 <l>.xiij. Monstrisopsambere es genamet.</l>
-<l>met verwijzing hierheen een overbodig ende in de marge toegevoegd, hand O so is interlineair toegevoegd, hand C?</l>
+<l parse="ignore">met verwijzing hierheen een overbodig ende in de marge toegevoegd, hand O so is interlineair toegevoegd, hand C?</l>
 <l>En closter. din wel lof betamet.</l>
 <l>Van suarten nonnen. alsic wane</l>
 <l>Dar droch die suarte cleder ane</l>
@@ -4004,7 +3992,7 @@
 <l>Har seluen. ende nemen ware</l>
 <l>Ter silen. ende sijn uor hare</l>
 <l>Mar doe die maget goedertiren</l>
-<l>hier volgt een overtollige, doorgestreepte regel: Daer si taiwires worde ontfaen</l>
+<l parse="ignore">hier volgt een overtollige, doorgestreepte regel: Daer si taiwires worde ontfaen</l>
 <l>Daertoe began har herte kiren</l>
 <l>Wel saen der nonnen si gheriet</l>
 <l>Dat si din suarten cloester liet</l>
@@ -4087,7 +4075,7 @@
 <l>Waerdat si welbestadet sijn</l>
 <l>Wel heuet sent gedaen in schijn</l>
 <l>Dat hem bequam terechte wale</l>
-<l>lees corten</l>
+<l parse="ignore">lees corten</l>
 <l>Der nonnen wesen altemale [;]</l>
 <l>Want sider ouer lange stonde</l>
 <l>Alse yolent die wale conde</l>
@@ -4097,8 +4085,8 @@
 <l>Hen allen die se mochte sien</l>
 <l>Got die die werelt al geboet</l>
 <l>Dor sine ontfarmechheide groet</l>
-<l>Gaf hare in ghichten ommedatDat</l>
-<l>si der silen dis tebat</l>
+<l>Gaf hare in ghichten ommedat</l>
+<l>Dat si der silen dis tebat</l>
 <l>Volplegen soude. ende oc bewaren</l>
 <l>Uan harre silen thenenuaren</l>
 <l>Dat si din nameliken dach</l>
@@ -4173,7 +4161,7 @@
 <l>Bekiren in die gods gewelt</l>
 <l>Mar sijt in hogen ende vro</l>
 <l>Want ic v weet bewestet so</l>
-<l>uersin met door hand H bovengeschreven e: uersien met verwijzing hierheen ge in de marge toegevoegd, hand O: kaitiue[ge]</l>
+<l parse="ignore">uersin met door hand H bovengeschreven e: uersien met verwijzing hierheen ge in de marge toegevoegd, hand O: kaitiue[ge]</l>
 <l>Van allen dogdeliken saken</l>
 <l>Dat gi welgerne moget naken</l>
 <l>Der doet die v na dit saison</l>
@@ -4258,14 +4246,14 @@
 <l>Mar gode louen alineen</l>
 <l>Met urien wille. sonder uaer</l>
 <l>Dat sal v ambacht wesen daer</l>
-<l>vers 4054, eerst vergeten, werd door hand C vervolgens rechts van 4053 en 4055 toegevoegd</l>
+<l parse="ignore">vers 4054, eerst vergeten, werd door hand C vervolgens rechts van 4053 en 4055 toegevoegd</l>
 <l>Dis seldi plegen wel gedichte</l>
 <l>Kare yolent welsute nichte</l>
 <l>Daer emmermeer. met allen din</l>
 <l>Die oc aldaer dis selues plin</l>
 <l>Dat sijn die ingle altesamen</l>
 <l>Ende oc die silen die daer quamen</l>
-<l>Sentdat si uan der werelt schiden</l>
+<l>sent dat si uan der werelt schiden</l>
 <l>Die hen dis selues daer genieden</l>
 <l>Ende ewelic genieden selen</l>
 <l>Daer seldi lacchen ende spelen</l>
@@ -4302,7 +4290,7 @@
 <l>Wel vwen tijt in karitaten</l>
 <l>Oc seldi mi dan weten laten</l>
 <l>Ochte v behort te dogene it</l>
-<l>ingle met door hand H bovengeschreven e: ingele</l>
+<l parse="ignore">ingle met door hand H bovengeschreven e: ingele</l>
 <l>Der pinen die gi so onssit</l>
 <l>Want es dat sake dat in pine</l>
 <l>Staet vwer silen daer tesine</l>
@@ -4318,7 +4306,7 @@
 <l>Met sinen dorperliken scherne</l>
 <l>Die fantasien ons teuoren</l>
 <l>Daer hi ons pleget met becoren</l>
-<l>Ende oc teijoncst bedriegen soude</l>
+<l>Ende oc te ijoncst bedriegen soude</l>
 <l>Wart dat mens hem gehingen woude</l>
 <l>Daromme op welken tijt dat gi</l>
 <l>Hir wedercomet tote mi</l>
@@ -4387,8 +4375,8 @@
 <l>Hars tides wileneer si quam</l>
 <l>Taiwires. dar si weder nam</l>
 <l>Jn dogdeliken dingen toe</l>
-<l>Mar hort ic sal v seggen hoeDat</l>
-<l>sent die saken sijn uergaen</l>
+<l>Mar hort ic sal v seggen hoe</l>
+<l>Dat sent die saken sijn uergaen</l>
 <l>Doe dat uerscheeden was gedaen</l>
 <l>Van yolenden. daer ic v</l>
 <l>En deel gesegt af hebbe nv</l>
@@ -4429,11 +4417,11 @@
 <l>Jn derre wise. kare mijn</l>
 <l>Hir motti willecome sijn</l>
 <l>Nv segget mi sute yolent</l>
-<l>Hoe hebbedi geuaren sentDat</l>
-<l>gi uan derre werelt schidt</l>
+<l>Hoe hebbedi geuaren sent</l>
+<l>Dat gi uan derre werelt schidt</l>
 <l>Die pine die gi so onttridt</l>
 <l>Heft si v noesen it gedaen</l>
-<l>trowen met door hand H ? bovengeschreven u: trouwen</l>
+<l parse="ignore">trowen met door hand H ? bovengeschreven u: trouwen</l>
 <l>Wat iugemente hebdi ontfaen</l>
 <l>Wat uonnessen es v gegeuen</l>
 <l>Segt mi. sidi met gode bleuen</l>
@@ -4475,7 +4463,7 @@
 <l>Mi ewelike lonen sal</l>
 <l>Jn sinen rike ginderbouen</l>
 <l>Daer ikken sal alteenen louen</l>
-<l>lees welgerakder</l>
+<l parse="ignore">lees welgerakder</l>
 <l>Uoertanemeer in allen tide</l>
 <l>Nv sijt in hogen ende blide</l>
 <l>Mijn purgatorie es gedaen</l>
@@ -4526,8 +4514,8 @@
 <l>Gelicdat si bestont tesine</l>
 <l>Dergerre daer ic hebbe nv</l>
 <l>Dit bispel af getellet v.</l>
-<l>Vandindat hars selues suster te hare quam na</l>
-<l>hare doet.</l>
+<l parse="ignore">Vandindat hars selues suster te hare quam na</l>
+<l parse="ignore">hare doet.</l>
 <l>Met rechte mogen alle louen.</l>
 <l>Den hogsten heere van daerbouen.</l>
 <l>Die spreken horen uan lutgarden</l>
@@ -4560,7 +4548,7 @@
 <l>Dat got lutgarden der ijonfrowen</l>
 <l>Gegeuen hadde alselken spoet</l>
 <l>Dat si wel dikke in staden stoet</l>
-<l>sis met door hand C of H bovengeschreven i: siis</l>
+<l parse="ignore">sis met door hand C of H bovengeschreven i: siis</l>
 <l>Din armen silen din in pine</l>
 <l>Dis uegeuirs geuil tesine</l>
 <l>Dit hebbedi oc wel uerstaen</l>
@@ -4580,7 +4568,7 @@
 <l>Op souden schowen ende merken</l>
 <l>Ende oc met dogdeliken werken</l>
 <l>Also bewesten onse leuen</l>
-<l>Dat wi teijoncst behouden bleuen</l>
+<l>Dat wi te ijoncst behouden bleuen</l>
 <l>Mar lettel siet men selker liede</l>
 <l>Die hen met also starken niede</l>
 <l>Geuugen an die godes minne</l>
@@ -4735,8 +4723,8 @@
 <l>Ende ons uerleenen selc geual</l>
 <l>Dat wi tire eweliker uromen</l>
 <l>Alsonder pine moten comen.</l>
-<l>Vandindat hare verboden was dat sacrament</l>
-<l>tontfane. ende hoe dat gewroken was.</l>
+<l parse="ignore">Vandindat hare verboden was dat sacrament</l>
+<l parse="ignore">tontfane. ende hoe dat gewroken was.</l>
 <l>.xv. Uvildi noch horen uan der nonnen.</l>
 <l>Daer v dit dicht af es begonnen.</l>
 <l>Dat es lutgart die maget fijn</l>
@@ -4851,8 +4839,8 @@
 <l>Jc seggv wel dat ic en can</l>
 <l>Die dinc gemerken nit. warbi</l>
 <l>Dit redene of geuuge si</l>
-<l>lees uerstaen</l>
-<l>oc is interlineair toegevoegd, hand C</l>
+<l parse="ignore">lees uerstaen</l>
+<l parse="ignore">oc is interlineair toegevoegd, hand C</l>
 <l>Nochtan so wart also beraden</l>
 <l>Omdats die nonnen hare baden</l>
 <l>Die urowe. dat si sonder beide</l>
@@ -4938,7 +4926,7 @@
 <l>Al sonder grote noet. warbi</l>
 <l>Si hebben wel uerstaen dat si</l>
 <l>Uerbolgen hadden uele sere</l>
-<l>warken met tussen w en a een door hand H ? bovengeschreven r, lees wraken</l>
+<l parse="ignore">warken met tussen w en a een door hand H ? bovengeschreven r, lees wraken</l>
 <l>Den hogsten coninc onsen here</l>
 <l>Ende oc mesgrepen an lutgarden</l>
 <l>Daromme si nit lange en sparden</l>
@@ -4981,7 +4969,7 @@
 <l>Dat wi der doet becoren selen</l>
 <l>Of langer qualen moten quelen</l>
 <l>Hensi dat gi ons vrowe goet</l>
-<l>lees Omodechlike</l>
+<l parse="ignore">lees Omodechlike</l>
 <l>En uordeel uan genaden doet</l>
 <l>Ende ons met uwer beden schone</l>
 <l>Jegen din coninc uan den trone</l>
@@ -5063,17 +5051,17 @@
 <l>Die bede quam uor onsen here</l>
 <l>So wart gestelpet al die noet</l>
 <l>Die si gedoeget hadden groet</l>
-<l>Uan suarre plagen. sentdat si</l>
+<l>Uan suarre plagen. sent dat si</l>
 <l>Der maget edel ende urj</l>
 <l>Te haren ijammerliken schaden</l>
 <l>Dat sacrament verbeiden daden</l>
 <l>Ende alse doe die plage suar</l>
-<l>lees verbieden</l>
+<l parse="ignore">lees verbieden</l>
 <l>Gestelpet was. al ouerwaer</l>
 <l>So seggic v. dat daer negeene</l>
 <l>So koene en was. no groet no clene</l>
 <l>Die sider spreken dorste en wart</l>
-<l>Warbidat mochte sijn uersuart</l>
+<l>War bi dat mochte sijn uersuart</l>
 <l>Lutgart die magt uan hogen prise</l>
 <l>Nv hort gi alle. in derre wise</l>
 <l>So togde got al oppenbare</l>
@@ -5104,8 +5092,8 @@
 <l>Die menech herte in pine bringen</l>
 <l>Ende ons dat ewelike leuen</l>
 <l>Ten ijoncsten dage si gegeuen.</l>
-<l>Vandindat se die viant rampeneerde. ende vandindat</l>
-<l>se die uiande alle sere onssagen</l>
+<l parse="ignore">Vandindat se die viant rampeneerde. ende vandindat</l>
+<l parse="ignore">se die uiande alle sere onssagen</l>
 <l>.xvi. Alnoch tin tiden het geschide</l>
 <l>Taiwires dat ic v bediede.</l>
 <l>Wildi uolhoren mine wart</l>
@@ -5143,12 +5131,12 @@
 <l>Verbolgen sere ende utermaten</l>
 <l>Dat heft hi schinen wel gelaten</l>
 <l>Der maget fijn uan hogen prise</l>
-<l>in de marge</l>
+<l parse="ignore">in de marge</l>
   <para/>
   <para/>
   <para/>
-<l>Someghe onbekinde menschen sijn die ondertiden vragen. watteraen gheleet aen lesen ofte aen beeden. ofte aen ten dienste gods te gane bi nachte ofte bi dage. Dien mochte men vragen hoe vele dat de ziele edelderre es dan de lichame alsoe vele eest = est met bovengeschreven e meerre noot dat de geesteleke oeffeningen volbracht werde dan duutwendeghe werken. ende dat de ziele geoeffent werde in inwendegen dingen voer in uutwendegen dingen , hand P</l>
-<l>In de marge Augustinus. het es orborleker te gecrigene. innege bedroeftheit dan ondersueken. versuchten dan pruuen eenpaerleke versuchtinge dan menegherande twestingen. tranen dan sentencien. beeden dan letsen lees leesen. grem van tranen. dan const van lettren. contempplacie van hemelschen dingen. dan erdsche veronledinge; Deogratias. , hand P</l>
+<l parse="ignore">Someghe onbekinde menschen sijn die ondertiden vragen. watteraen gheleet aen lesen ofte aen beeden. ofte aen ten dienste gods te gane bi nachte ofte bi dage. Dien mochte men vragen hoe vele dat de ziele edelderre es dan de lichame alsoe vele eest = est met bovengeschreven e meerre noot dat de geesteleke oeffeningen volbracht werde dan duutwendeghe werken. ende dat de ziele geoeffent werde in inwendegen dingen voer in uutwendegen dingen , hand P</l>
+<l parse="ignore">In de marge Augustinus. het es orborleker te gecrigene. innege bedroeftheit dan ondersueken. versuchten dan pruuen eenpaerleke versuchtinge dan menegherande twestingen. tranen dan sentencien. beeden dan letsen lees leesen. grem van tranen. dan const van lettren. contempplacie van hemelschen dingen. dan erdsche veronledinge; Deogratias. , hand P</l>
   <para/>
   <para/>
   <para/>
@@ -5320,7 +5308,7 @@
 <l>Die hem dis scheldens onderwant</l>
 <l>Te sinen schanden iegen hare</l>
 <l>Verwonnen wart so oppenbare</l>
-<l>geest met door hand H ? bovengeschreven h: gheest</l>
+<l parse="ignore">geest met door hand H ? bovengeschreven h: gheest</l>
 <l>Dat hijs hem moste saen onttin</l>
 <l>Met lachtere. ende enwegevlin</l>
 <l>Wetti wat dit algader dede</l>
@@ -5369,7 +5357,7 @@
 <l>Dat si ne sochten niwent el</l>
 <l>Dan hoedat si met selken saken</l>
 <l>Har herte mochten besech maken</l>
-<l>Warbidat si ware afgestaen</l>
+<l>War bi dat si ware afgestaen</l>
 <l>Dis bedens. en enwechgegaen</l>
 <l>Mar alse dan die urowe goet</l>
 <l>Die oc uan sinne was so uroet</l>
@@ -5383,7 +5371,8 @@
 <l>So segghende die maget hare</l>
 <l>Ter godes eeren. ende las</l>
 <l>Din salm die goet dariegen was</l>
-<l>Wildi ic salne v seggen sumDeusinadiutorium</l>
+<l>Wildi ic salne v seggen sum</l>
+<l>Deusinadiutorium</l>
 <l>Begint dat irste uers uan din</l>
 <l>Daermet so dede enwegeulin</l>
 <l>Die urowe al dat geperte quaet</l>
@@ -5405,7 +5394,7 @@
 <l>Aldaer hi sprekt van dijn vianden</l>
 <l>Dat si te haren groten schanden</l>
 <l>Biwilen quamen bi der steden</l>
-<l>h verbeterd uit e, lees seghende</l>
+<l parse="ignore">h verbeterd uit e, lees seghende</l>
 <l>Daer bi costumen hare beden</l>
 <l>Die maget fijn plach op te doene</l>
 <l>Mar nit ne waren si so koene</l>
@@ -5477,9 +5466,9 @@
 <l>Dergerre die uan alre vromen</l>
 <l>Ons souden roeuen mochten si</l>
 <l>Segt amen alle nv met mi -</l>
-<l>Vandindat se onse here verledegde van ongedovde</l>
-<l>van herten met enen schapere die uan ouer .xij.</l>
-<l>milen uerre quam.</l>
+<l parse='ignore'>Vandindat se onse here verledegde van ongedovde</l>
+<l parse='ignore'>van herten met enen schapere die uan ouer .xij.</l>
+<l parse='ignore'>milen uerre quam.</l>
 <l>.xvij. Die wale in minnen es bedegen.</l>
 <l>Die minne doet hem dikke plegen.</l>
 <l>Dis hi met eeren mochte ontberen</l>
@@ -5488,7 +5477,7 @@
 <l>Wart dat hi binnen wel besochte</l>
 <l>Sijns selues wesen. ende sage</l>
 <l>Uan binnen. watteran gelage</l>
-<l>op de o volgt een haaltje van een e, lees motons</l>
+<l parse="ignore">op de o volgt een haaltje van een e, lees motons</l>
 <l>Dis hem die minne plegen doet</l>
 <l>Want een al waent hi wesen vroet</l>
 <l>Welt hi der minnen rade volgen</l>
@@ -5650,7 +5639,7 @@
 <l>Begeuen waren. ende sagen</l>
 <l>Der vrowen selken commer dragen</l>
 <l>Van dingen die sijn bouen macht</l>
-<l>Bidisdat hare also ontfacht</l>
+<l>Bi dis dat hare also ontfacht</l>
 <l>Dat allen menschen moet ontfechten</l>
 <l>Die an dit brosche leuen plechten</l>
 <l>Si gingen ende seiden hare</l>
@@ -5783,9 +5772,9 @@
 <l>Mar sider heuet si uercoren</l>
 <l>Din closter daer si nu in es</l>
 <l>Begeuen. vrint nv sijt gewes</l>
-<l>lees goeden</l>
-<l>lees Geboden</l>
-<l>pris met bovengeschreven j, hand H ?: prijs</l>
+<l parse="ignore">lees goeden</l>
+<l parse="ignore">lees Geboden</l>
+<l parse="ignore">pris met bovengeschreven j, hand H ?: prijs</l>
 <l>Dat godes wille also gedreget</l>
 <l>Die alle goede menschen pleget</l>
 <l>So te uersiene in allen staden</l>
@@ -5868,7 +5857,7 @@
 <l>Ochtic dan worde messagir</l>
 <l>Hoe sovdic mi darmet bedragen</l>
 <l>Hoe sovdic dorren dis gewagen</l>
-<l>wel met door hand H ? interlineair toegevoegde t: welt</l>
+<l parse="ignore">wel met door hand H ? interlineair toegevoegde t: welt</l>
 <l>Dat mi die ewelike got</l>
 <l>Die ouer al heft sijn gebot</l>
 <l>Ter vrowen sendde uan so uerren</l>
@@ -5910,9 +5899,9 @@
 <l>Dat gi wel metter gods gewelt</l>
 <l>Al sonder dolen comen selt</l>
 <l>Taiwires toe in corter stont</l>
-<l>goder met bovengeschreven e, hand H: goeder</l>
-<l>wel met door hand H ? interlineair toegevoegde t: welt</l>
-<l>lees ontbieden</l>
+<l parse="ignore">goder met bovengeschreven e, hand H: goeder</l>
+<l parse="ignore">wel met door hand H ? interlineair toegevoegde t: welt</l>
+<l parse="ignore">lees ontbieden</l>
 <l>Oc sal ontpliken v vwen mont</l>
 <l>Die godes cracht op welken tijt</l>
 <l>Gi toter vrowen comen sijt</l>
@@ -5950,12 +5939,12 @@
 <l>Nv segget mi alwaer men pleget</l>
 <l>Daerwert te gane. ende ic sal gaenEnwech.</l>
 <l>want mi dat lange staen</l>
-<l>En mach nit helpen sidermereDat</l>
-<l>mi gebiedet got die here</l>
+<l>En mach nit helpen sidermere</l>
+<l>Dat mi gebiedet got die here</l>
 <l>Dat ic nu si sijn messagir</l>
 <l>Doe sprac die ijongelinc alhir</l>
 <l>Gaet henen rechte vorewert</l>
-<l>lees ontpluken</l>
+<l parse="ignore">lees ontpluken</l>
 <l>Har herde. oc sijt al onueruert</l>
 <l>Gi selt geraken harde wale</l>
 <l>Nv laett ons corten dese tale</l>
@@ -6036,8 +6025,8 @@
 <l>Sodat gi sijt met ongemake</l>
 <l>Verladen suar. omme ene sake</l>
 <l>Die gi ne doruet nit onssin</l>
-<l>Want gi becommert sijt mettinDat</l>
-<l>gi die schout uan din getiden</l>
+<l>Want gi becommert sijt mettin</l>
+<l>Dat gi die schout uan din getiden</l>
 <l>Die dagelikes ouerliden</l>
 <l>En cont so lise nit vergelden</l>
 <l>Noch die memorie so gehelden</l>
@@ -6174,7 +6163,7 @@
 <l>Mar hoe die godes messagir</l>
 <l>Van denen dede sinen kir</l>
 <l>En willic achterlaten nit</l>
-<l>Sentdat hi uan der urowen schit</l>
+<l>sent dat hi uan der urowen schit</l>
 <l>En lette hi no meer no mijn</l>
 <l>Ter seluer porten daer hi in</l>
 <l>Was comen. ginc hi weder vt</l>
@@ -6193,8 +6182,8 @@
 <l>Daertoe sijn name ende in wat lande</l>
 <l>Hi wart geboren. sider wale</l>
 <l>Wart onderuonden altemale</l>
-<l>Vandindat ene nonne sach ene vlamme virs ut</l>
-<l>hare k[e]le varen.</l>
+<l parse='ignore'>Vandindat ene nonne sach ene vlamme virs ut</l>
+<l parse='ignore'>hare k[e]le varen.</l>
 <l>.xviij. Tintidendat in derre wise.</l>
 <l>Lutgart die magt van hogen prise.</l>
 <l>Bider gewelt van onsen here</l>
@@ -6208,7 +6197,7 @@
 <l>So uaste kiren haren sin</l>
 <l>Dat daer en mochte niwent in</l>
 <l>Geduren dat hare it mesquam</l>
-<l>Want tirstdat sijt daerin uernam</l>
+<l>Want tirst dat sijt daerin uernam</l>
 <l>So moste het utuerdreuen sijn</l>
 <l>Aldos so hilt die maget fijn</l>
 <l>Din godes dinst getrowelike</l>
@@ -6248,8 +6237,8 @@
 <l>Si sanc met harde blider stemmen</l>
 <l>Din suten lut si dede clemmen</l>
 <l>Opwert so hoge. dat hi saen</l>
-<l>goden met door hand H bovengeschreven e: goeden</l>
-<l>ghesteliken met door hand H bovengeschreven e: gheesteliken</l>
+<l parse="ignore">goden met door hand H bovengeschreven e: goeden</l>
+<l parse="ignore">ghesteliken met door hand H bovengeschreven e: gheesteliken</l>
 <l>Eerlic uan gode wart ontfaen</l>
 <l>Daerbouen in din paradise</l>
 <l>Nv hort in welkerhande wise</l>
@@ -6282,7 +6271,7 @@
 <l>Versuchten. ende op hare wangen</l>
 <l>Die trane al euen dikke hangen</l>
 <l>Die groet vt haren ogen uloten</l>
-<l>Nochtandat sise hilt besloten</l>
+<l>Nochtan dat sise hilt besloten</l>
 <l>Dat teeken was van groter minnen</l>
 <l>Die si geuulde int herte binnen</l>
 <l>So stark dat sise nit ne coste</l>
@@ -6292,7 +6281,7 @@
 <l>Ende oc aldaer dis sanges plach</l>
 <l>Want daer si op lutgarden sach</l>
 <l>Die so uan minnen stont onsteken</l>
-<l>lees Bedeckken</l>
+<l parse="ignore">lees Bedeckken</l>
 <l>Dat se uan buten al besweken</l>
 <l>Die sinne die met harre cracht</l>
 <l>Cume hare gauen selke macht</l>
@@ -6335,12 +6324,12 @@
 <l>Omme onderuinden wat het ware</l>
 <l>Dat se brachtt hadde in selken uare</l>
 <l>Mar die ijonfrowe die daer sat</l>
-<l>lees monde</l>
+<l parse="ignore">lees monde</l>
 <l>Van groter ureesen also mat</l>
 <l>Ende oc uan herten so besweken</l>
 <l>Dat si ne conde nit gespreken</l>
 <l>En gaf antwerden meer no min</l>
-<l>Dat quam bidisdat so har sin</l>
+<l>Dat quam bi dis dat so har sin</l>
 <l>Gemesset hadde sire cracht</l>
 <l>Dat si welna was in ommacht</l>
 <l>Gesonken daer ter seluer stede</l>
@@ -6378,8 +6367,6 @@
 <l>Wat v mescomt. met goeden staden</l>
 <l>Masschin salikkertoe geraden</l>
 <l>Jc sal v helpen of ic can</l>
-<l>lees tongemake</l>
-<l>lees nonnen</l>
 <l>Nv segget mi die saken dan</l>
 <l>Waeraf gi doget dese pine</l>
 <l>Jc weet noch salke medicine</l>
@@ -6419,7 +6406,7 @@
 <l>Daer gi din uaer nv aue doet</l>
 <l>Nit ommedatdat v uan din</l>
 <l>Soude ongemakes it geschin</l>
-<l>k verbeterd uit a met schacht van k, lees selke</l>
+<l parse="ignore">k verbeterd uit a met schacht van k, lees selke</l>
 <l>Ochte iwent v mescomen soude</l>
 <l>Mar ommedatdat hi v woude</l>
 <l>Vertogen vrowe al oppenbare</l>
@@ -6511,14 +6498,14 @@
 <l>Met harre minnen sent altoes</l>
 <l>Ende oc int herte so uercoes</l>
 <l>Die maget edel ende fijn</l>
-<l>Sentdat si sach din claren schijn</l>
+<l>Sent dat si sach din claren schijn</l>
 <l>Hem so uertogen bouen hare</l>
 <l>Dat beide stille ende oppenbare</l>
 <l>Sent emmermeer al hare leuen</l>
 <l>Si hare es onderdanech bleuen</l>
-<l>Vandindat si onsen here bat dat hi hare name</l>
-<l>sine gracie van sutheiden. ende hise en andre</l>
-<l>gaue.</l>
+<l parse="ignore">Vandindat si onsen here bat dat hi hare name</l>
+<l parse="ignore">sine gracie van sutheiden. ende hise en andre</l>
+<l parse="ignore">gaue.</l>
 <l>.xix. Ghi heren ende urowen hoert.</l>
 <l>Wat ic v sal noch brengen voert.</l>
 <l>Opdat ic can met corten warden</l>
@@ -6544,8 +6531,8 @@
 <l>Die wart die ic hen sal ontbinden</l>
 <l>Want sirein selen mogen vinden</l>
 <l>Opdat si weten dat begeren</l>
-<l>si is interlineair toegevoegd, hand C?</l>
-<l>hort met door hand H bovengeschreven e: hoert</l>
+<l parse="ignore">si is interlineair toegevoegd, hand C?</l>
+<l parse="ignore">hort met door hand H bovengeschreven e: hoert</l>
 <l>Wat hen mach helpen ende deren</l>
 <l>Wat hen mach schaden ende uromen</l>
 <l>Want die ter minnen willen comen</l>
@@ -6566,11 +6553,11 @@
 <l>Hoe dat geschit. mach igewelc</l>
 <l>Wel merken. want hets heden selc</l>
 <l>Die hem der minnen onderwindet</l>
-<l>Bidisdat hi so sute uindet.</l>
+<l>Bi dis dat hi so sute uindet.</l>
 <l>Die ufeninge in din beginne</l>
 <l>Dat hise uestt in sinen sinne</l>
-<l>Alse emmermeer te sine indinDat</l>
-<l>hi der minnen wille plin</l>
+<l>Alse emmermeer te sine indin</l>
+<l>Dat hi der minnen wille plin</l>
 <l>Gestadelic al sonder sparen</l>
 <l>Mar wel geualt dat hi versuaren</l>
 <l>Hem welt maschin met selken dingen</l>
@@ -6579,7 +6566,7 @@
 <l>Sijns selues wille die wel waent</l>
 <l>Volbrengen dis hi nit ne can</l>
 <l>Geleesten. moet hi bliuen dan</l>
-<l>Teijoncst uan sinen daden achter</l>
+<l>te ijoncst uan sinen daden achter</l>
 <l>So sal hijs hebben groten lachter</l>
 <l>Dat seggic v want hets en ris</l>
 <l>Die hastet omme sijn uerlis</l>
@@ -6587,10 +6574,10 @@
 <l>Met goeden staden mochte comen</l>
 <l>Daeromme schijnt het welgeuuge</l>
 <l>Dat igewelken dat genuge</l>
-<l>ir verbeterd uit ut: sute</l>
+<l parse="ignore">ir verbeterd uit ut: sute</l>
 <l>Daeran geleget sine bate</l>
 <l>Ende oc intides uaren late</l>
-<l>Dis hi teijoncst ontberen moet</l>
+<l>Dis hi te ijoncst ontberen moet</l>
 <l>Want mate es tallen spele goet</l>
 <l>Wetti warumme ic dit ontbinde?</l>
 <l>Om een exempel dat ic uinde</l>
@@ -6612,7 +6599,7 @@
 <l>Daer ic v eer af horen dede</l>
 <l>En schone exempel ende inwaer</l>
 <l>Al dochtt masschijn v somen suar</l>
-<l>Bidisdat selke dat ontgouden</l>
+<l>Bi dis dat selke dat ontgouden</l>
 <l>Die met gemeenen rade wouden</l>
 <l>Din sede goet hare auebreken</l>
 <l>Dat was. dat si uan elker weken</l>
@@ -6630,7 +6617,7 @@
 <l>Wat wondre. want die heuet macht</l>
 <l>Jn hemele. ende in herterike</l>
 <l>Dats ihesus kerst die dagelike</l>
-<l>betogen met door hand H bovengeschreven e: betoegen lees gebenedijt</l>
+<l parse="ignore">betogen met door hand H bovengeschreven e: betoegen lees gebenedijt</l>
 <l>Ons uoedt mettin lichame sijn</l>
 <l>Hi heuet in har herte fijn</l>
 <l>Dis dages sijn hosteil genomen</l>
@@ -6668,17 +6655,17 @@
 <l>Also met hem in eenechheiden</l>
 <l>Mar nit ne mochte sijs uerbeiden</l>
 <l>Want cort die spacie was daertoe</l>
-<l>Bidisdat was gesongen doe</l>
+<l>Bi dis dat was gesongen doe</l>
 <l>Ter seluer wilen die middach</l>
-<l>in de marge naast de verzen 6409-6413:</l>
+<l parse="ignore">in de marge naast de verzen 6409-6413:</l>
   <para/>
   <para/>
   <para/>
-<l>Augustinus. Alre goedertierenste heere. hoe suete es dijn herdinken. Soe ic meere in di peyse. alsoe vele meere bestu mj te suetere. , hand</l>
+<l parse="ignore">Augustinus. Alre goedertierenste heere. hoe suete es dijn herdinken. Soe ic meere in di peyse. alsoe vele meere bestu mj te suetere. , hand</l>
   <para/>
   <para/>
   <para/>
-<l>P</l>
+<l parse="ignore">P</l>
 <l>Din men na messe singen plach</l>
 <l>Ende oc die cymble was geslegen</l>
 <l>Die die ijonfrowen plach gewegen</l>
@@ -6721,20 +6708,20 @@
   <para/>
   <para/>
   <para/>
-<l>onder aan de bladzijde: God onse here ihesus xpristus gheeft somegen goeden lieden die hen vromeleec oeffenen toter contemplacien in allen tiden alsi stade ende stonde vercrigen eenen voersmaec in dit leuen. dat si volcomeleec selen besitten euwich leuen. opdat si bliuen in hare oeffeningen. ende scuwen alle hier dinc gee"xpungeerd ydelheit van buten ende houden hen suuer van herten. ende keeren hen leedichleke te gode , hand P</l>
+<l parse="ignore">onder aan de bladzijde: God onse here ihesus xpristus gheeft somegen goeden lieden die hen vromeleec oeffenen toter contemplacien in allen tiden alsi stade ende stonde vercrigen eenen voersmaec in dit leuen. dat si volcomeleec selen besitten euwich leuen. opdat si bliuen in hare oeffeningen. ende scuwen alle hier dinc gee"xpungeerd ydelheit van buten ende houden hen suuer van herten. ende keeren hen leedichleke te gode , hand P</l>
   <para/>
   <para/>
   <para/>
   <para/>
-<l>intids met door hand H bovengeschreven i: intiids</l>
+<l parse="ignore">intids met door hand H bovengeschreven i: intiids</l>
 <l>Te reftre wert. began si saen</l>
 <l>Te gode senden ene bede</l>
 <l>Die si met corten warden dede</l>
 <l>Jdoch so was si hastelike</l>
 <l>Van gode ontfaen in hemelrike</l>
 <l>Wildi nv weten wat si bat</l>
-<l>Jc saelt v seggen ommedatDat</l>
-<l>gis oc selt tebat bekinnen</l>
+<l>Jc saelt v seggen ommedat</l>
+<l>Dat gis oc selt tebat bekinnen</l>
 <l>De vriheit van gerechter minnen</l>
 <l>Daer si in imene es becleuen</l>
 <l>Tin seluen tiden was begeuen</l>
@@ -6769,7 +6756,7 @@
 <l>Dat si gelijc den doden scheen</l>
 <l>Want hare en was huut ende been</l>
 <l>Mar bleuen. so was al uertert</l>
-<l>lees genamet</l>
+<l parse="ignore">lees genamet</l>
 <l>Dat it gedroch te liue wert</l>
 <l>Nochtan so was selk die manire</l>
 <l>Van harre plagen. dat si schire</l>
@@ -6813,12 +6800,12 @@
   <para/>
   <para/>
   <para/>
-<l>in de marge: een siecte die men heet den menghierael. het compt ondertiden van groter apstenencien , hand P</l>
+<l parse="ignore">in de marge: een siecte die men heet den menghierael. het compt ondertiden van groter apstenencien , hand P</l>
   <para/>
   <para/>
   <para/>
   <para/>
-<l>lees leiden</l>
+<l parse="ignore">lees leiden</l>
 <l>Van vwer spisen hebbe di</l>
 <l>En entremes gegeuen mi</l>
 <l>Dis ic welgerne opdat ic mochte</l>
@@ -6846,7 +6833,7 @@
 <l>Al es mi dat te doene suar</l>
 <l>Want mi die cymble eeschet daer</l>
 <l>Mar got almechtech vader mijn</l>
-<l>Sentdat ic hir nit langer sijn</l>
+<l>Sent dat ic hir nit langer sijn</l>
 <l>En mach met v in eenechheiden</l>
 <l>Want ic moet gaen al sonder beiden</l>
 <l>Te reftre wert mettin ijonfrowen</l>
@@ -6948,7 +6935,7 @@
   <para/>
   <para/>
   <para/>
-<l>in de marge: nota. Jn allen tyden. van allen dinghen te danken gode. dat heeft ons dapostel paulus gheboden. Ende dander heylegen dier oec op scriuen dat wijs niet achter en souden laten bliuen , hand P</l>
+<l parse="ignore">in de marge: nota. Jn allen tyden. van allen dinghen te danken gode. dat heeft ons dapostel paulus gheboden. Ende dander heylegen dier oec op scriuen dat wijs niet achter en souden laten bliuen , hand P</l>
   <para/>
   <para/>
   <para/>
@@ -6982,7 +6969,7 @@
 <l>Vertrekken. die mi gerne hort</l>
 <l>Der urowen uite in didscher spraken</l>
 <l>Ontbinden. ende v kundech maken.</l>
-<l>Vandindat si ysabelen genas met harre beden</l>
+<l parse="ignore">Vandindat si ysabelen genas met harre beden</l>
 <l>.xx. Als ysabeel doe wart geware.</l>
 <l>Dat hadde aldos gewrachtt an hare.</l>
 <l>Got ouermids die maget fijn</l>
@@ -7155,7 +7142,7 @@
 <l>Dit sijn die wart nu hoerterna</l>
 <l>Jn didsche. die die stemme clar</l>
 <l>Al in latijn verludde aldaer</l>
-<l>Stantop. iherusalem stantop</l>
+<l>Stant op. iherusalem stant op</l>
 <l>Verheffe di. die hefs den kop</l>
 <l>Geheldet uan der gods abolgen</l>
 <l>Te monde wert. ende oc geswolgen</l>
@@ -7208,7 +7195,7 @@
 <l>Lutgart die edele ouor hare</l>
 <l>So wart uer ysabeel geware</l>
 <l>Dat si begonste bate ontfaen</l>
-<l>lees ouer</l>
+<l parse="ignore">lees ouer</l>
 <l>Ende oc dis quelens auestaen</l>
 <l>Daer si so lange daerteuoren</l>
 <l>Af hadde commer ende toren</l>
@@ -7224,8 +7211,8 @@
 <l>Dis hebbe danc die godes brut</l>
 <l>Die maget edel ende goet</l>
 <l>Lutgart die hare in staden stoet</l>
-<l>Vandindat hare onse here gaf martilie te</l>
-<l>dogene</l>
+<l parse="ignore">Vandindat hare onse here gaf martilie te</l>
+<l parse="ignore">dogene</l>
 <l>.xxi. Die uan der minnen sijn onsteken.</l>
 <l>Si horen emmer gerne spreken.</l>
 <l>Uan minnen. dats mi wale in scine</l>
@@ -7234,8 +7221,8 @@
 <l>Ben stille beide ende oppenbare</l>
 <l>Met goeder herten onderdaen</l>
 <l>Bedieso hebbic onderstaen</l>
-<l>Dit werc te dichtene ommedatDat</l>
-<l>ic mi seluen dis tebat</l>
+<l>Dit werc te dichtene ommedat/l>
+<l>Dat ic mi seluen dis tebat</l>
 <l>Getrosten sal uan harre minnen</l>
 <l>Ende oc hen allen doen bekinnen</l>
 <l>Die horen willen mine tale</l>
@@ -7300,8 +7287,8 @@
 <l>Wel suarlic om onser alre schout</l>
 <l>Die wi din eweliken uader</l>
 <l>Doe waren schuldech allegader</l>
-<l>Ende oc geweset hadden sentDat</l>
-<l>yue sijn commandement</l>
+<l>Ende oc geweset hadden sent</l>
+<l>Dat yue sijn commandement</l>
 <l>Brac mettin apple din si beet</l>
 <l>Dat noch mach sijn ons allen leet</l>
 <l>So hadde gerne hadt mogen sijn</l>
@@ -7331,8 +7318,8 @@
 <l>Die wreede uiant vter hellen</l>
 <l>Onssetten wilden ende uellen</l>
 <l>Die godes vrint die marteleren</l>
-<l>lees mochten</l>
-<l>in marteleren is er ten onrechte gewijzigd in i: martelien</l>
+<l parse="ignore">lees mochten</l>
+<l parse="ignore">in marteleren is er ten onrechte gewijzigd in i: martelien</l>
 <l>Bidisso moste nu ontberen</l>
 <l>Die maget fijn van hogen prise</l>
 <l>Tesine in marteleren wise</l>
@@ -7375,7 +7362,7 @@
 <l>Mettin ijonfrowen int getal</l>
 <l>Nv hort hoe si daer werden sal</l>
 <l>Dat si uan herten so begert</l>
-<l>Gnoch met door hand H ? tussengeschreven e: Genoch</l>
+<l parse="ignore">Gnoch met door hand H ? tussengeschreven e: Genoch</l>
 <l>Al sonder glauie ende suert</l>
 <l>Al sonder iser ende wapen</l>
 <l>Die urowe goet die op dat slapen</l>
@@ -7412,8 +7399,8 @@
 <l>Ontwe getrokken. die uan hare</l>
 <l>Dat bloet so starke dede springen</l>
 <l>Dat sijt ne conde nit beduingen</l>
-<l>Want tirstdat si dat bloet uernam</l>
-<l>tweede r ten onrechte gee"xpungeerd en in de marge vervangen door li, hand F: martilie</l>
+<l>Want tirst dat si dat bloet uernam</l>
+<l parse="ignore">tweede r ten onrechte gee"xpungeerd en in de marge vervangen door li, hand F: martilie</l>
 <l>Dat also rasch gesprongen quam</l>
 <l>So stont si op. ende altehant</l>
 <l>Began si pinen metter hant</l>
@@ -7456,8 +7443,8 @@
 <l>Noch omme letten. no dor weren</l>
 <l>Dat dedse beide so verueren</l>
 <l>Dat ysabeel herna walop</l>
-<l>lees Met</l>
-<l>lees cride</l>
+<l parse="ignore">lees Met</l>
+<l parse="ignore">lees cride</l>
 <l>Om dat conuent te wekkeneop</l>
 <l>Geroepen hadde. en hadt gedaen</l>
 <l>Die magt. die gerne wilde ontfaen</l>
@@ -7497,7 +7484,7 @@
 <l>Want si die doet en duchtte nit</l>
 <l>Mar die begerde ilancsomere</l>
 <l>Te dogene om die godes eere</l>
-<l>gebraet door bovenschrijving van v gewijzigd in gebravet hand F?</l>
+<l parse="ignore">gebraet door bovenschrijving van v gewijzigd in gebravet hand F?</l>
 <l>Jn dire wijs dat mense sloge</l>
 <l>Te doet. waert dat also gedroge</l>
 <l>Die godes wille. endt mochte sijn [;]</l>
@@ -7537,7 +7524,7 @@
 <l>Vandindat gi met groten ghere</l>
 <l>Woudt wesen godes martelere</l>
 <l>Nv sidi worden sonder suert</l>
-<l>de G gee"xpungeerd en tussen G en r een c ingelast, hand H?: cranc</l>
+<l parse="ignore">de G gee"xpungeerd en tussen G en r een c ingelast, hand H?: cranc</l>
 <l>Dat gi so lange hebt begert</l>
 <l>Dat sal v wesen wel uergouden</l>
 <l>Al hebdi dleuen noch behouden</l>
@@ -7619,7 +7606,7 @@
 <l>Nv weset dan in godes name</l>
 <l>Gesont. weluarende. ende uro</l>
 <l>Ende oc uoertan v pijnt also</l>
-<l>lees Acharme</l>
+<l parse="ignore">lees Acharme</l>
 <l>Te houdene. alse comt die dach</l>
 <l>Din men beschiwen nit ne mach</l>
 <l>Dat v gemeerret si die crone</l>
@@ -7686,8 +7673,8 @@
 <l>Nv geue got dat die gelike</l>
 <l>Van daer tecomene oc geuallen</l>
 <l>Na desen liue mote ons allen.</l>
-<l>Vandindat si genas ene urowe uan harer</l>
-<l>doefheit</l>
+<l parse="ignore">Vandindat si genas ene urowe uan harer</l>
+<l parse="ignore">doefheit</l>
 <l>.xxij. Aldaer taiwires in dabdie.</l>
 <l>So heuet sent lutgart die urie.</l>
 <l>Ens tides noch verschinen laten</l>
@@ -7695,8 +7682,8 @@
 <l>An een exempel daer si mede</l>
 <l>Blide ende in hogen wesen dede</l>
 <l>Die urowen alle uan daerbinnen</l>
-<l>Wildi nu salic v</l>
-<l>beginnen Te seggene hoe die dinc geschiede</l>
+<l>Wildi nu salic v beginnen</l>
+<l>Te seggene hoe die dinc geschiede</l>
 <l>Dis an din tide goeder liede</l>
 <l>Orconde waren int geuoech</l>
 <l>Daer beide ende elre uele gnoch</l>
@@ -7745,7 +7732,7 @@
 <l>Dat was der urowen meeste clege</l>
 <l>Die si uerniwede iegedage</l>
 <l>Want alles leeds dat si uerdroch</l>
-<l>lees oudere lees clage</l>
+<l parse="ignore">lees oudere lees clage</l>
 <l>Die doefhet hare meest verwoch</l>
 <l>Oc was die alremeeste sake</l>
 <l>Daer si was omme tongemake</l>
@@ -7788,7 +7775,7 @@
 <l>Wel lancsame ende wel met staden</l>
 <l>Si op die noten clemmen daden</l>
 <l>Daer songen beide ijonge ende oude</l>
-<l>lees doefheit</l>
+<l parse="ignore">lees doefheit</l>
 <l>Die noten clommen met gewoude</l>
 <l>Te hemele wert al sonder sparen</l>
 <l>Daer si wel saen ontfangen waren</l>
@@ -7831,8 +7818,8 @@
 <l>Dat hi dis imene hort gewagen</l>
 <l>Dis hi hem selue plegt beclagen</l>
 <l>Dits oppenbare gnoch ons allen</l>
-<l>lees nonnen</l>
-<l>katiue met door hand C ? bovengeschreven i: kaitiue</l>
+<l parse="ignore">lees nonnen</l>
+<l parse="ignore">katiue met door hand C ? bovengeschreven i: kaitiue</l>
 <l>Aldos so es het daer geuallen</l>
 <l>Want die ijonfrowe die daer stoet</l>
 <l>Si heft geteekent omme goet</l>
@@ -7851,7 +7838,7 @@
 <l>Began die urowe ende dat uerdrit</l>
 <l>Dat si dat lesen uaren lit</l>
 <l>Dis si teuoren lise plach</l>
-<l>Want tirstdat si dat teeken sach</l>
+<l>Want tirst dat si dat teeken sach</l>
 <l>Wart hare onttempert so die moet</l>
 <l>Dat hare wis en orewoet</l>
 <l>Jnt herte binnen. die se dede</l>
@@ -7874,9 +7861,9 @@
 <l>Din godes lof. dis ic uerdrit</l>
 <l>Moet dikke doegen ende seer</l>
 <l>Van ewen teewen emmermeer</l>
-<l>lees rowe</l>
-<l>katiue met door hand C ? bovengeschreven i: kaitiue</l>
-<l>lees metter</l>
+<l parse="ignore">lees rowe</l>
+<l parse="ignore">katiue met door hand C ? bovengeschreven i: kaitiue</l>
+<l parse="ignore">lees metter</l>
 <l>Soudikkene horen bat met staden</l>
 <l>Waric uan desen liue ontladen [:]</l>
 <l>Aldosterwijs sat daer die urowe</l>
@@ -8022,7 +8009,7 @@
 <l>Machtelt die goede aldaer si sat</l>
 <l>Ontplokenliker ende bat</l>
 <l>Dan si uormals hadde ie gedaen</l>
-<l>Sentdat si hadde lijf ontfaen</l>
+<l>Sent dat si hadde lijf ontfaen</l>
 <l>Jn dese werelt wileneere</l>
 <l>Dos wart uan commere ende seere</l>
 <l>Dat si gedoget hadde suar</l>
@@ -8081,8 +8068,8 @@
 <l>Gode onsen eeweliken vader</l>
 <l>Ende oc darbinnen men daraf</l>
 <l>Lof ende prijs lutgarden gaf.</l>
-<l>Vandindat si al bloetroet wart alsi pensede om de</l>
-<l>passie onss heren.</l>
+<l parse="ignore">Vandindat si al bloetroet wart alsi pensede om de</l>
+<l parse="ignore">passie onss heren.</l>
 <l>.xxiii. Die uan lutgarden gerne ontfaen.</l>
 <l>die tale mijn. hir sitten gaen.</l>
 <l>Bi mi. ic sal hen noch uertrekken</l>
@@ -8125,8 +8112,8 @@
 <l>Te wetene hoe die maget wert</l>
 <l>Lutgart. so wale in elker stede</l>
 <l>Volbrengen mochte al dat si dede</l>
-<l>Want v dis wondert; ommedatDat</l>
-<l>gi dis teer ende oc te bat</l>
+<l>Want v dis wondert; ommedat</l>
+<l>Dat gi dis teer ende oc te bat</l>
 <l>Voert selt geloeuen minen warden</l>
 <l>Die ic u dichte uan lutgarden</l>
 <l>Din wonder heuet dan uan desen</l>
@@ -8176,7 +8163,7 @@
 <l>Dat ons die helle was ontploken</l>
 <l>Ende oc dat paradijs beloken</l>
 <l>Daer wi af doelden allegader</l>
-<l>Sentdat adam onse irste vader</l>
+<l>Sent dat adam onse irste vader</l>
 <l>Din appel beet met sinen tanden</l>
 <l>Daer hi ons brachte met te schanden</l>
 <l>Ende alse dan lutgart die fine</l>
@@ -8198,7 +8185,7 @@
 <l>Lutgart die fine maget oc</l>
 <l>Die een met sinen schachte ontploc</l>
 <l>Die bi den cruce was gestaen</l>
-<l>Sentdat hem dleuen was ontgaen</l>
+<l>Sent dat hem dleuen was ontgaen</l>
 <l>Daer beide water ende bloet</l>
 <l>Lipvt; so wart hare al die moet</l>
 <l>Op die materie so uerstart</l>
@@ -8253,7 +8240,7 @@
 <l>Dat heft gedaen die starke minne</l>
 <l>Diet hare bergen nit ne lit</l>
 <l>Mar hoe die saken sijn geschit</l>
-<l>lees vertrekken</l>
+<l parse="ignore">lees vertrekken</l>
 <l>Si heuet an din seluen stonden</l>
 <l>Al bi der minnen rade ontbonden</l>
 <l>Dengenen die uan derre dinc</l>
@@ -8337,8 +8324,8 @@
 <l>Jn contemplaciliken saken</l>
 <l>Dat si ne conde nit ontwaken</l>
 <l>Mettindat hise also gereen</l>
-<l>lees die fine</l>
-<l>lees sonder</l>
+<l parse="ignore">lees die fine</l>
+<l parse="ignore">lees sonder</l>
 <l>Daerna so heft gesneden een</l>
 <l>Dis haers dat daerbesiden hinc</l>
 <l>Die mensche din metterre dinc</l>
@@ -8371,14 +8358,14 @@
 <l>Gespreken na in langen tide</l>
 <l>Jdoch verhoget ende blide</l>
 <l>Hi lise weder henenginc</l>
-<l>Bidisdat hi uan derre dinc</l>
+<l>Bi dis dat hi uan derre dinc</l>
 <l>Die na din wille sijn was comen</l>
 <l>Die warheit heuet al vernomen.</l>
-<l>Vandindat se en bruder uan haffelghem die in</l>
-<l>houetsonden was en conste nit angesin</l>
+<l parse="ignore">Vandindat se en bruder uan haffelghem die in</l>
+<l parse="ignore">houetsonden was en conste nit angesin</l>
 <l>.xxiiij. En closter wert en welbekant</l>
 <l>Staet op die marche van brabant</l>
-<l>lees harde</l>
+<l parse="ignore">lees harde</l>
 <l>Die affelghem genamet es</l>
 <l>Jc dart mi wel vermeten des</l>
 <l>Al ouerwaer. dat die gelike</l>
@@ -8407,7 +8394,7 @@
 <l>Si moten ordenlike leuen</l>
 <l>Vortanemeer in haren dagen</l>
 <l>Si lief si leet si moten dragen</l>
-<l>Die ordne. sentdat sijs beginnen</l>
+<l>Die ordne. sent dat sijs beginnen</l>
 <l>Want dats die sede uan daerbinnen;</l>
 <l>Oc hebbikker meer af vernomen</l>
 <l>Dat men dengene die daer comen</l>
@@ -8419,8 +8406,8 @@
 <l>Daer werdt ontfaen na sine werde</l>
 <l>Noch es en ander daer men moet</l>
 <l>Omme eeren desen closter goet</l>
-<l>affelghem met door hand H ? interlineair toegevoegde h: haffelghem</l>
-<l>Vor met door hand C bovengeschreven t; achteraf door hand H een e interlineair toegevoegd: Voert</l>
+<l parse="ignore">affelghem met door hand H ? interlineair toegevoegde h: haffelghem</l>
+<l parse="ignore">Vor met door hand C bovengeschreven t; achteraf door hand H een e interlineair toegevoegd: Voert</l>
 <l>Dor recht. dat es die karitate</l>
 <l>Die men daer ufent bouen mate</l>
 <l>Gedaeds an alle godes arme</l>
@@ -8503,10 +8490,10 @@
 <l>Geuestet heft die urowe goet</l>
 <l>Also tin tiden an din here</l>
 <l>Dat si sijn bleuen emmermere</l>
-<l>Geurinde. sentdat si tesamen</l>
+<l>Geurinde. sent dat si tesamen</l>
 <l>Beide onder hen tespraken quamen.</l>
 <l>Mar doe die urowe goet uan prise</l>
-<l>hier tote gee"xpungeerd en doorgestreept</l>
+<l parse="ignore">hier tote gee"xpungeerd en doorgestreept</l>
 <l>Ende oc die here. in derre wise</l>
 <l>Jn minnen goet. versament waren</l>
 <l>So plach hi comen ende uaren</l>
@@ -8528,7 +8515,7 @@
 <l>Die was conueers van haffelghem</l>
 <l>Ende een begeuen man. genomen</l>
 <l>Ende es met hem taiwires comen</l>
-<l>Tirstdat die heren comen waren</l>
+<l>tirst dat die heren comen waren</l>
 <l>Taiwires in dat hof geuaren</l>
 <l>So beetten si ende altehant</l>
 <l>Sijn si gestreken dor den pant</l>
@@ -8573,8 +8560,8 @@
 <l>Dar hi bi was in grote schade</l>
 <l>Geuallen. bi din bosen rade</l>
 <l>Din hem die uiant gaf daertoe</l>
-<l>Mar wildi uoert uernemen hoeDat</l>
-<l>sent uolquam. ic saelt v tellen</l>
+<l>Mar wildi uoert uernemen hoe</l>
+<l>Dat sent uolquam. ic saelt v tellen</l>
 <l>Tin tiden dat die twe gesellen</l>
 <l>Daer dese tale es af geschert</l>
 <l>Ter fijnre maget ende wert</l>
@@ -8622,7 +8609,7 @@
 <l>Beschowet hadde bi den lichte</l>
 <l>Daer hi bi hare was gestaen</l>
 <l>Mar wetti wat hi heft gedaen</l>
-<l>Tirstdat hi uan lutgarden schit</l>
+<l>tirst dat hi uan lutgarden schit</l>
 <l>Daer hi allene mede lit</l>
 <l>Din here din geselle sijn</l>
 <l>So ginc hi wech en lettelkijn</l>
@@ -8631,7 +8618,7 @@
 <l>Na sinnen wille sijn getroestt</l>
 <l>Noch uan din rowe sijn uerloestt</l>
 <l>Aldaer hi stont began hi lise</l>
-<l>lees sinen</l>
+<l parse="ignore">lees sinen</l>
 <l>Bepensen hem in welker wise</l>
 <l>Hem die confusie die hi droch</l>
 <l>Jnt herte binnen so uerwoch</l>
@@ -8748,7 +8735,7 @@
 <l>Verholenlike ende oppenbare</l>
 <l>Die gerne spreken iegen hare</l>
 <l>Dis ic mi wel belouen mach</l>
-<l>Want sentdat ic die urowe sach</l>
+<l>Want sent dat ic die urowe sach</l>
 <l>Met ogen irst got hebbes danc</l>
 <l>So es mi menech groet ueruanc</l>
 <l>Uan harenthaluen comentoe</l>
@@ -8758,8 +8745,8 @@
 <l>Och uan mesquamen die mi suart</l>
 <l>Ende ic dan come daer lutgart</l>
 <l>Die maget es uan hogen prise</l>
-<l>laatste r verbeterd uit n, lees Metterre</l>
-<l>lees teuoren</l>
+<l parse="ignore">laatste r verbeterd uit n, lees Metterre</l>
+<l parse="ignore">lees teuoren</l>
 <l>Ontdekkic hare in welker wise</l>
 <l>Dat mi die commer es geschit</l>
 <l>Si doet den raet dat mijn uerdrit</l>
@@ -8802,8 +8789,8 @@
 <l>Die schande hebben mi gedaen</l>
 <l>Dit sal gebetert wesen saen</l>
 <l>Behoudt mi got dat leuen mijn</l>
-<l>wis met door hand H ? bovengeschreven j: wijs</l>
-<l>wederkiren met door hand H bovengeschreven e: wederkieren</l>
+<l parse="ignore">wis met door hand H ? bovengeschreven j: wijs</l>
+<l parse="ignore">wederkiren met door hand H bovengeschreven e: wederkieren</l>
 <l>Dit sal noch so gebetert sijn</l>
 <l>Dat ic met eeren ende uromen</l>
 <l>Ter urowen wel sal mogen comen</l>
@@ -8845,7 +8832,7 @@
 <l>Der sonden. wart hi so gesont</l>
 <l>Jnt herte binnen ende urj</l>
 <l>Van alre boser daet . dat hi</l>
-<l>lees schuldech</l>
+<l parse="ignore">lees schuldech</l>
 <l>Uoer sent ter urowen ende quam</l>
 <l>Ende oc so uerre toegenam</l>
 <l>Dat hi met hare wart bekent</l>
@@ -8858,8 +8845,8 @@
 <l>Din man met haren siene allene</l>
 <l>Van sinen sonden al genesen</l>
 <l>Gebenedijt so motsi wesen</l>
-<l>vandindat si bekirde heren thimere met haren</l>
-<l>beden</l>
+<l parse="ignore">vandindat si bekirde heren thimere met haren</l>
+<l parse="ignore">beden</l>
 <l>.xxv. Oc was tin tide en riddre goet.</l>
 <l>Rike ende wert. wijs ende uroet.</l>
 <l>Die was vermart ende oc bekant</l>
@@ -8930,7 +8917,7 @@
 <l>Mar bat dar dochter met omoede</l>
 <l>Dat si hem so in staden stoede</l>
 <l>Met hare beden. dat si mochte</l>
-<l>lees sijn</l>
+<l parse="ignore">lees sijn</l>
 <l>Genade uinden. ende sochte</l>
 <l>Oc an die urowen uan darbinnen</l>
 <l>Dat selue. die met harre minnen</l>
@@ -9035,7 +9022,7 @@
 <l>Oc weset hir groet willecome.</l>
 <l>Doe tastte voert na sine vrome</l>
 <l>Die ridder ende bat der maget</l>
-<l>Tirstdat hi hadde en deel geclaget</l>
+<l>tirst dat hi hadde en deel geclaget</l>
 <l>Der fauten dine meest uersuarden</l>
 <l>Dat si met haren suten warden</l>
 <l>Hem gaue raet hoe hi sijn leuen</l>
@@ -9051,12 +9038,12 @@
 <l>De beternesse uan den seden</l>
 <l>Des uader. die al ombesneden</l>
 <l>Noch waren meer dan int geuoech</l>
-<l>Tirstdat hi selue lange gnoch</l>
+<l>tirst dat hi selue lange gnoch</l>
 <l>Gesproken hadde. ende oc met staden</l>
 <l>Van sire beden hem ontladen</l>
 <l>Wel saen dat si din mont ontploec</l>
 <l>Ende halp din uader bidden oc</l>
-<l>vers 8701 is in de marge bijgeschreven, hand C</l>
+<l parse="ignore">vers 8701 is in de marge bijgeschreven, hand C</l>
 <l>Aldos so baden beidegader</l>
 <l>Der urowen. dochter ende uader</l>
 <l>Dat sine ontfinge in die weldane</l>
@@ -9096,8 +9083,8 @@
 <l>Jn goeden trowen. dat si soude</l>
 <l>Jndindat hi allene woude</l>
 <l>Van suaren sonden. hem onttin</l>
-<l>Uoertanemeer. ende oc indinDat</l>
-<l>hi it achtte op sine bate</l>
+<l>Uoertanemeer. ende oc indin</l>
+<l>Dat hi it achtte op sine bate</l>
 <l>Vor gode sijn sine aduocate</l>
 <l>Met haren beden daer si mede</l>
 <l>Wel menech goet beijagen dede</l>
@@ -9129,7 +9116,7 @@
 <l>Van sonden. sider halp din here</l>
 <l>Met harre beden. salic v</l>
 <l>Voert seggen. wildijt horen nv</l>
-<l>Tirstdat die maget dat gelof</l>
+<l>tirst dat die maget dat gelof</l>
 <l>Ontfangen hadde. int godes hof</l>
 <l>Began si stichten een gedinge</l>
 <l>Stark ende groet. want sonderlinge</l>
@@ -9226,7 +9213,7 @@
 <l>Din torenmoet din hijs verdroch</l>
 <l>Die meerre was dan int geuoch</l>
 <l>Ende oc met welkerhande warden</l>
-<l>lees sonden</l>
+<l parse="ignore">lees sonden</l>
 <l>Hi hem beclagde uan lutgarden</l>
 <l>Der maget edel ende urj</l>
 <l>Salic v seggen. hort na mi</l>
@@ -9288,8 +9275,8 @@
 <l>Die si met haren dommen rade</l>
 <l>Mi heft beraden hirteuoren</l>
 <l>Want ikken hadde meer uercoren</l>
-<l>Dan alle dandre. ommedatDat</l>
-<l>hi eerliker ende bat</l>
+<l>Dan alle dandre. ommedat</l>
+<l>Dat hi eerliker ende bat</l>
 <l>Mi dienen plach dan imen el</l>
 <l>Mar nv makt hi met mi sijn spel</l>
 <l>Want hi mijns weder welt uertijen</l>
@@ -9311,7 +9298,7 @@
 <l>Dat wetic wel. want hi mi des</l>
 <l>Dor haren wille ononstech es</l>
 <l>Mar nit ne clagic nu so sere</l>
-<l>lees clagic</l>
+<l parse="ignore">lees clagic</l>
 <l>Van allen dat si wileneere</l>
 <l>Heft dikke iegen mi mesdaen</l>
 <l>Sodat si mi welt ondergaen</l>
@@ -9343,8 +9330,8 @@
 <l>Jc saels mi nemen an sijn lijf</l>
 <l>Ende an sijn goet. dat blieft mi doch</l>
 <l>An haren danc te pande noch</l>
-<l>Dat salic hem onttrekken soDat</l>
-<l>ikken maken sal onuro</l>
+<l>Dat salic hem onttrekken so</l>
+<l>Dat ikken maken sal onuro</l>
 <l>Ende onuerduldech in die schade</l>
 <l>Dan sal hi uan lutgarden rade</l>
 <l>Beclagen hem die hem gherit</l>
@@ -9395,7 +9382,7 @@
 <l>Stire ende render so uersuart</l>
 <l>Met plagen worden altesamen</l>
 <l>Dat si te liues inde quamen</l>
-<l>lees warde</l>
+<l parse="ignore">lees warde</l>
 <l>So daden beide ram ende oo</l>
 <l>Dis was die riddere uele onuro</l>
 <l>Din selker schaden so uerwis</l>
@@ -9470,9 +9457,9 @@
 <l>Des goeds en mach hen nit failliren</l>
 <l>Des goeds menic sonder getal</l>
 <l>Dat emmermeer geduren sal</l>
-<l>Vandindat si vertogt wart ere nonnen in drome</l>
-<l>die si sider genas met beden van coringen ende</l>
-<l>uan sikheiden</l>
+<l parse="ignore">Vandindat si vertogt wart ere nonnen in drome</l>
+<l parse="ignore">die si sider genas met beden van coringen ende</l>
+<l parse="ignore">uan sikheiden</l>
 <l>.xxvi. Tin seluen tiden was begeuen.</l>
 <l>Alse in die uite staet gescreuen.</l>
 <l>Jn een godhus uan grawen nonnen</l>
@@ -9520,7 +9507,7 @@
 <l>Jn suare pine ende in uerdrit</l>
 <l>Want se die uiant nit ne lit</l>
 <l>Dis auestaen. daer si hem af</l>
-<l>lees street</l>
+<l parse="ignore">lees street</l>
 <l>Consent van herten wilen gaf</l>
 <l>Dat was die cranke besechheiden</l>
 <l>Van herten. daer hi omme leide</l>
@@ -9531,7 +9518,7 @@
 <l>Van selken dingen din consent</l>
 <l>Dat moste si ontgelden sent</l>
 <l>Wildi verstaen in wat maniren</l>
-<l>Tirstdat die nonne waende kiren</l>
+<l>tirst dat die nonne waende kiren</l>
 <l>Har herte van din ongeuoege</l>
 <l>Die uiant die dat gerne onsloege</l>
 <l>Ende alle dogt hem pijnt beuellen</l>
@@ -9555,14 +9542,14 @@
 <l>Dos es si tongemake bleuen</l>
 <l>Mar noch uindikkeraf gescreuen</l>
 <l>Hort hare ic sal v seggen wat</l>
-<l>Sentdat die uiant so gehat</l>
+<l>sent dat die uiant so gehat</l>
 <l>Der nonnen wart. dat hare in pine</l>
 <l>Aldos uan herten stont te sine</l>
 <l>Want si verwinnen nit ne conde</l>
 <l>Die koringen daer si die sonde</l>
 <l>Tin tiden af onfruchtte so</l>
 <l>Dat si wel dikke was onuro</l>
-<l>lees besechheide</l>
+<l parse="ignore">lees besechheide</l>
 <l>Got die geboet die werelt al</l>
 <l>Hi sendde en ander ongeual</l>
 <l>Hare ouer noch. dat waren twee</l>
@@ -9604,10 +9591,10 @@
 <l>Jn uersten meer en lettelkijn</l>
 <l>Dan ons geuoge dunket sijn</l>
 <l>Dis wi hem bidden. sijt gewes</l>
-<l>drouer met door hand H bovengeschreven e: droeuer</l>
+<l parse="ignore">drouer met door hand H bovengeschreven e: droeuer</l>
 <l>Dat ons die uerste betes es</l>
-<l>Dan ons die haste ware. indinDat</l>
-<l>wi die dinge die geschin</l>
+<l>Dan ons die haste ware. indin</l>
+<l>Dat wi die dinge die geschin</l>
 <l>Bi godes wille. ende dat hi doet</l>
 <l>Algader houden ouer goet</l>
 <l>Hibi so quam dat hi der nonnen</l>
@@ -9648,7 +9635,7 @@
 <l>Vor dandre alle die si sach</l>
 <l>Tirst hare boet. want dat si ware</l>
 <l>Dis werdech best. dat dochte hare</l>
-<l>lees beter</l>
+<l parse="ignore">lees beter</l>
 <l>Doe sach si uoert. dat quam gestreken</l>
 <l>En ander die se wilde spreken</l>
 <l>Te hare wert alsonder beide</l>
@@ -9691,7 +9678,7 @@
 <l>Lutgart ende die met hare waren</l>
 <l>Oc es daerna in corter stonde</l>
 <l>Die nonne ontwaket die ne conde</l>
-<l>lees it</l>
+<l parse="ignore">lees it</l>
 <l>Dis slapens langer nit geplin</l>
 <l>Want so uerhoeget wart uan din</l>
 <l>Har herte binnen dat si sach</l>
@@ -9730,15 +9717,15 @@
 <l>Meer dat men v te wondre mach</l>
 <l>Vertrekken; onder uremde liede</l>
 <l>Tin seluen tide aldaer geschide</l>
-<l>Want die ijonfrowe tirstdat si</l>
+<l>Want die ijonfrowe tirst dat si</l>
 <l>Die maget edel ende uri</l>
 <l>Met ogen sach. began si saen</l>
-<l>dat is interlineair toegevoegd, hand C</l>
+<l parse="ignore">dat is interlineair toegevoegd, hand C</l>
 <l>Jn herte binnen wel verstaen</l>
 <l>Al sonder uragen oppenbare</l>
 <l>Dat het lutgart die maget ware</l>
 <l>Die si in drome sach teuoren</l>
-<l>Nochtan sentdat si wart geboren</l>
+<l>Nochtan sent dat si wart geboren</l>
 <l>En hadde sise alsonder daer</l>
 <l>Met ogen nie gesin elwaer</l>
 <l>Maer dat sireaue wart verhoeget</l>
@@ -9777,7 +9764,7 @@
 <l>Mi tormenteert in allen sinnen</l>
 <l>Want binnen benic so uerladen</l>
 <l>Van koringen. dat mi der schaden</l>
-<l>lees heimeliker</l>
+<l parse="ignore">lees heimeliker</l>
 <l>Want si mesuuget onsen here</l>
 <l>Verwasset utermaten sere</l>
 <l>Oc toeget buten die lichame</l>
@@ -9817,9 +9804,9 @@
 <l>So es die cost daeraf verloren</l>
 <l>Dis dogic sonderlingen toren</l>
 <l>Die mi uersuart dat herte meer</l>
-<l>lees Want</l>
-<l>lees mire</l>
-<l>lees motic</l>
+<l parse="ignore">lees Want</l>
+<l parse="ignore">lees mire</l>
+<l parse="ignore">lees motic</l>
 <l>Dan ander pine ochte ander seer</l>
 <l>Dat mi mescomt uan andren saken</l>
 <l>Mar gi die moget blide maken</l>
@@ -9861,7 +9848,7 @@
 <l>Na sal in sinen rike geuen</l>
 <l>Daeromme en moet v uaren nit</l>
 <l>Jionfrowe al doegedi uerdrit</l>
-<l>lees magic</l>
+<l parse="ignore">lees magic</l>
 <l>Ende ongemac in din lichame</l>
 <l>Want onsen here es so bequame</l>
 <l>.V. quelen. ende v doegen al</l>
@@ -9887,7 +9874,7 @@
 <l>So salic harde gerne don</l>
 <l>Na mine macht en orison</l>
 <l>Wildijs mi helpen tonsen here</l>
-<l>Warbidat gi voertanemere</l>
+<l>War bi dat gi voertanemere</l>
 <l>Jn groten rasten leuen selt</l>
 <l>Van herten. mar dat gi mi telt</l>
 <l>Dat so beworpen es die eesch</l>
@@ -9903,7 +9890,7 @@
 <l>Wildi din raet din ic v geuen</l>
 <l>Jionfrowe mijn. sal hirteneuen</l>
 <l>Ontfaen. so radic v met trowen</l>
-<l>Sentdat v got so heft tebloewen</l>
+<l>sent dat v got so heft tebloewen</l>
 <l>Met qualen groet dat v in pine</l>
 <l>Bi sinen wille staet tesine</l>
 <l>Ende oec in commer die v suart</l>
@@ -9945,9 +9932,9 @@
 <l>Alse ic se doegde hirteuoren</l>
 <l>So wee mi dat ic wart geboren</l>
 <l>Mar gi die uol sijt uan genaden</l>
-<l>de verzen 9554-9555, voorafgegaan door een b, staan in de benedenmarge, met een a voor de plaats waar ze dienen ingeschoven, alles hand F</l>
-<l>lees vleesch</l>
-<l>lees hi</l>
+<l parse="ignore">de verzen 9554-9555, voorafgegaan door een b, staan in de benedenmarge, met een a voor de plaats waar ze dienen ingeschoven, alles hand F</l>
+<l parse="ignore">lees vleesch</l>
+<l parse="ignore">lees hi</l>
 <l>En aldengenen staet in staden</l>
 <l>Die v besuken maget reene</l>
 <l>En latet mi uan v alleene</l>
@@ -9990,7 +9977,7 @@
 <l>Dat gi die cracht van din lichame</l>
 <l>Dat si te niute nit ne quame</l>
 <l>Onthildet so gi langest mochtt</l>
-<l>lees lettel</l>
+<l parse="ignore">lees lettel</l>
 <l>Want ijammerlike es hi uercohtt</l>
 <l>Si man si wijf die die verlieset</l>
 <l>Ende v es cont dat hi meskiset</l>
@@ -10012,7 +9999,7 @@
 <l>Dat v dis nuttens so verwis</l>
 <l>Van uleesche. dat ghire alledage</l>
 <l>Daedt emmer ouer niwe clage</l>
-<l>Bidisdat vwen siken monde</l>
+<l>Bi dis dat vwen siken monde</l>
 <l>Die smak genugen nit ne conde</l>
 <l>Noch nit bequame gnoch gesijn</l>
 <l>Nv sijt dis seker dochter mijn</l>
@@ -10073,7 +10060,7 @@
 <l>Tin vleesche wert dat si gewan</l>
 <l>Dat noit eer no wijf no man</l>
 <l>En hadde meerre in sinen liue</l>
-<l>lees antwerden</l>
+<l parse="ignore">lees antwerden</l>
 <l>Want so began die cranken wiue</l>
 <l>Dat herte wassen iegen dat</l>
 <l>Tir seluer stonde aldaer si sat</l>
@@ -10117,9 +10104,9 @@
 <l>Bleef wale in hoegen ende blide</l>
 <l>Ende oc met eren ende vromen</l>
 <l>Te groter dinc es sider comen</l>
-<l>lees din</l>
-<l>Vandindat si resplenden vorseide dat si uan haren</l>
-<l>coringen genesen soude in goeden vriendage</l>
+<l parse="ignore">lees din</l>
+<l parse="ignore">Vandindat si resplenden vorseide dat si uan haren</l>
+<l parse="ignore">coringen genesen soude in goeden vriendage</l>
 <l>.xxvii. Oc was ene andre in din dagen.</l>
 <l>Die hare oc dikke plach beclagen.</l>
 <l>Van koringen. daer si was mede</l>
@@ -10133,7 +10120,7 @@
 <l>Die hare warp in groet uerdrit</l>
 <l>Van herten. alse oc es geschit</l>
 <l>Dergerre dire ic doe gewach</l>
-<l>Bidis si oc dis selues plach</l>
+<l>Bi dis si oc dis selues plach</l>
 <l>Daeromme soude mi wel dunken</l>
 <l>Geuuge. eer imen liete ontfunken</l>
 <l>Sijn herte uan din quaden uire</l>
@@ -10203,7 +10190,7 @@
 <l>Resplenden herte gaffolert</l>
 <l>So heuet hi hare inspirert</l>
 <l>Bi sinen wille op enen tijt</l>
-<l>lees Resplent</l>
+<l parse="ignore">lees Resplent</l>
 <l>Dat si der magt gebenedijt</l>
 <l>Lutgarden soude ontdekken al</l>
 <l>Din commer dar si aue qual</l>
@@ -10243,7 +10230,7 @@
 <l>Gesett lutgart die urowe goet</l>
 <l>Mar hoe si dat geleeste sent</l>
 <l>Willic v seggen. doe resplent</l>
-<l>onder aan de bladzijde, hand M: nota. Den viaent es lief Dat men de coringen heelt. ende hem es leet dat mense oppenbaert</l>
+<l parse="ignore">onder aan de bladzijde, hand M: nota. Den viaent es lief Dat men de coringen heelt. ende hem es leet dat mense oppenbaert</l>
 <l>Getrostet was in derre wise</l>
 <l>So ginc die vrowe goet uan prise</l>
 <l>Ter kerken wert dar si te doene</l>
@@ -10256,7 +10243,7 @@
 <l>Mar eer ic v telange merre</l>
 <l>Willic v seggen hoe die dinc</l>
 <l>Ter godes eren sent verginc</l>
-<l>Tirstdat die maget welgedegen</l>
+<l>tirst dat die maget welgedegen</l>
 <l>Was comen dat si wilde plegen</l>
 <l>Der beden. sonder alle beide</l>
 <l>Si hare knin ter erden leide</l>
@@ -10286,9 +10273,9 @@
 <l>Tetaelne. want dat si gewonne</l>
 <l>Din pais van herten. dis si lange</l>
 <l>Gemesset heuet bi bedwange</l>
-<l>lees dar</l>
-<l>lees volcomen</l>
-<l>lees dar</l>
+<l parse="ignore">lees dar</l>
+<l parse="ignore">lees volcomen</l>
+<l parse="ignore">lees dar</l>
 <l>Dis argers die se heft van din</l>
 <l>Geroeft. dat souddi gerne sin</l>
 <l>Want gi des hebt gebeden nu</l>
@@ -10332,7 +10319,7 @@
 <l>Dat beden. ende es wedercomen</l>
 <l>Daer si resplenden heft vernomen</l>
 <l>Mar widi weten hoe die vrowe</l>
-<l>lees wildi</l>
+<l parse="ignore">lees wildi</l>
 <l>Der nonnen commer ende rowe</l>
 <l>Mettire antwerden heft gesachtt</l>
 <l>Die si uan bedene hadde brachtt</l>
@@ -10373,8 +10360,8 @@
 <l>Dat gi mi hebt gelouet nu</l>
 <l>Want ics ben seker gnoch an v</l>
 <l>Oc benic so itoe van din</l>
-<l>lees tesamen</l>
-<l>lees Je</l>
+<l parse="ignore">lees tesamen</l>
+<l parse="ignore">lees Je</l>
 <l>Getrostet dat het sal geschin</l>
 <l>Jn corten stonden maget vri</l>
 <l>Dat ics itoe beloue mi</l>
@@ -10414,7 +10401,7 @@
 <l>Dos es terasten ende in vreden</l>
 <l>Die nonne bleuen. ende sere</l>
 <l>Des goedes dankende onsen here.</l>
-<l>vandindat si en kint genas van den groten euele</l>
+<l parse="ignore">vandindat si en kint genas van den groten euele</l>
 <l>.xxviij. Hort noch en ander goede liede.</l>
 <l>Dat an din stonden noch geschiede.</l>
 <l>Daer oc lutgart die fine maget</l>
@@ -10544,7 +10531,7 @@
 <l>Den riken gode. es in begeuem</l>
 <l>Die leidt en utuercoren leuen</l>
 <l>Vor dandre alle van darbinnen</l>
-<l>lees begeuen</l>
+<l parse="ignore">lees begeuen</l>
 <l>Ende oc met ghesteliker minnen</l>
 <l>Can wel din godes wille don</l>
 <l>Lutgart heett si uan sainteron</l>
@@ -10587,7 +10574,7 @@
 <l>Ende alse was onsprongen doe</l>
 <l>Dat wijf. began si al itoe</l>
 <l>Dis dromes danken onsen here</l>
-<l>lees volcomen</l>
+<l parse="ignore">lees volcomen</l>
 <l>Daer si uan haren groten sere</l>
 <l>Wel groet din hope binnen vant</l>
 <l>Dis stont si op. ende altehant</l>
@@ -10629,7 +10616,7 @@
 <l>Die langen tijt wel groten rowe</l>
 <l>Gedoget hebbe. ende en uerdrit</l>
 <l>Dis ic en can beschiwen nit</l>
-<l>en met vooraan door hand H interlineair toegevoegde e: een</l>
+<l parse="ignore">en met vooraan door hand H interlineair toegevoegde e: een</l>
 <l>Jc sal v seggen bi wat saken</l>
 <l>Met ere ijammerliker wraken</l>
 <l>Heft mi geplaget got die here</l>
@@ -10710,8 +10697,8 @@
 <l>Dis ongemaks. daer die weewite</l>
 <l>Hem af benam die maget fijn</l>
 <l>Gebenedijt so motsi sijn.</l>
-<l>Vandindat hare vertogt wart ene schare van</l>
-<l>heiligen in visione</l>
+<l parse="ignore">Vandindat hare vertogt wart ene schare van</l>
+<l parse="ignore">heiligen in visione</l>
 <l>.xxix. Die uan lutgarden horen lesen</l>
 <l>Die uite. wale mach het wesen</l>
 <l>Dat si mi houden ouer rijs</l>
@@ -10795,8 +10782,8 @@
 <l>Jn alre sante ende ingele eere</l>
 <l>Ende oc sal uiren emmermere</l>
 <l>Jn allen kerken ende landen</l>
-<l>lees warumme</l>
-<l>lees plach</l>
+<l parse="ignore">lees warumme</l>
+<l parse="ignore">lees plach</l>
 <l>Die liggende es op die kalanden</l>
 <l>Van din nouembre alle ijare</l>
 <l>Dar godes brut lutgart die kare</l>
@@ -10823,7 +10810,7 @@
 <l>Got die es alre heren meest</l>
 <l>Hi uurdeenwech lutgarden gheest</l>
 <l>Jn ere steden also clar</l>
-<l>Nochtandat sonneschijn aldar</l>
+<l>Nochtan dat sonneschijn aldar</l>
 <l>Negheen ne was die dat porprijs</l>
 <l>Verlichtede. alse en paradijs</l>
 <l>Dar sach lutgart die maget oc</l>
@@ -10837,9 +10824,6 @@
 <l>Van silen dire engeen getal</l>
 <l>En was. ende die veruullden al</l>
 <l>Die stat. wel grote sameninge</l>
-<l>lees Die</l>
-<l>lees wonderlike</l>
-<l>lees veruulden</l>
 <l>Die alle waren sonderlinge</l>
 <l>Gecirt met stolen uan ermine</l>
 <l>Snewit gelic den sonneschine</l>
@@ -10882,7 +10866,7 @@
 <l>Gods utuercorne al v delijt</l>
 <l>Daer gi dos met gesalegt sijt</l>
 <l>Doe sprac aldos die maget voert</l>
-<l>lees snaren</l>
+<l parse="ignore">lees snaren</l>
 <l>Ende seide waric wel gehoert</l>
 <l>Van .v. so soudic gerne uragen</l>
 <l>Wie sijn die mi dos wel behagen</l>
@@ -10923,7 +10907,7 @@
 <l>Eer v dat merren si telanc</l>
 <l>Ende onsen here geuet danc</l>
 <l>Met blider herten urowe goet</l>
-<l>schowe met door hand H ? bovengeschreven u: schouwe</l>
+<l parse="ignore">schowe met door hand H ? bovengeschreven u: schouwe</l>
 <l>Van allen din dat hi v doet</l>
 <l>Want alse comen sal die tijt</l>
 <l>Dat gi selt werden oc geurijt</l>
@@ -10957,17 +10941,17 @@
 <l>Hirbi so willic proeuen uoert</l>
 <l>Dat ic lutgarden alsic seide</l>
 <l>Dor recht tin andren santen leide</l>
-<l>Want sentdat got der maget an</l>
+<l>Want sent dat got der maget an</l>
 <l>Dire eren wel. so mogent dan</l>
 <l>Diet horen seggen. want het doet</l>
 <l>Got selue. ontfaen wel ouer goet</l>
-<l>Uandindat versybilie van gaijs berespt wart in</l>
-<l>drome om haren wille.</l>
+<l parse="ignore">Uandindat versybilie van gaijs berespt wart in</l>
+<l parse="ignore">drome om haren wille.</l>
 <l>.xxx. Ene edele nonne welgeboren</l>
 <l>Taiwires wilen was hiruoren</l>
 <l>Van gaies die sjbilie hit</l>
-<l>lees tvwen</l>
-<l>lees seide</l>
+<l parse="ignore">lees tvwen</l>
+<l parse="ignore">lees seide</l>
 <l>Die beide lant ende erue lit</l>
 <l>Mage ende vrinde ende es gecregen</l>
 <l>Taiwires harre silen plegen</l>
@@ -10995,7 +10979,7 @@
 <l>Aldos so worden metten bande</l>
 <l>Van karitaten onderlinge</l>
 <l>Gesament beide nawe ende inge</l>
-<l>Sibilie ende uerlutgart</l>
+<l>Sibilie ende uer lutgart</l>
 <l>Want elke en heuet nit gespart</l>
 <l>Ter andre wert din goeden moet</l>
 <l>Die in gerechter minnen doet</l>
@@ -11021,8 +11005,8 @@
 <l>Die nonne dire ic v gewage</l>
 <l>Der maget hadde aldos gedint</l>
 <l>Sodattermede was gesint</l>
-<l>Hars selues leuen omnedatDat</l>
-<l>si har seluen dis tebat</l>
+<l>Hars selues leuen omnedat</l>
+<l>Dat si har seluen dis tebat</l>
 <l>Bekirde in goeder vfeningen</l>
 <l>Wat wondre; want uan allen dingen</l>
 <l>Die eerlic ende nutte waren</l>
@@ -11048,13 +11032,13 @@
 <l>Dat uer sibilie wart tonstaden</l>
 <l>Met haren dinste so uerladen</l>
 <l>Dat sire wart vermoijet af</l>
-<l>Warbidat sijs eertijt begaf</l>
+<l>War bi dat sijs eertijt begaf</l>
 <l>Ende alse dis was auecomen</l>
 <l>Die nonne min te haren vromen</l>
 <l>Dan het met rechte wesen soude</l>
 <l>Dis hare alleene was die schoude</l>
 <l>Want si met cranken wille droech</l>
-<l>lees ommedat</l>
+<l parse="ignore">lees ommedat</l>
 <l>Din dinst die hare also verwoech</l>
 <l>Began si dinken ende pensen</l>
 <l>Ende enen raet alstille uensen</l>
@@ -11137,13 +11121,13 @@
 <l>Die sprac sibilie wat dert di</l>
 <l>Dattu dos clages ouer mi?</l>
 <l>Dat ic ter werelt wilen quam</l>
-<l>lees goddanc</l>
-<l>goeme met door hand H bovengeschreven h: ghoeme</l>
+<l parse="ignore">lees goddanc</l>
+<l parse="ignore">goeme met door hand H bovengeschreven h: ghoeme</l>
 <l>Ende armes menschen vorme nam</l>
 <l>En dedic nit omdat ic woude</l>
 <l>Dat mi daer imen dinen soude</l>
 <l>Mar dis ic selue dinen wilde</l>
-<l>Warbidat men uan mi onthilde</l>
+<l>War bi dat men uan mi onthilde</l>
 <l>Dat bispel uan omodechheiden</l>
 <l>Wildic daer selk en leuen leiden</l>
 <l>Daer igewelc in mach bekinnen</l>
@@ -11162,8 +11146,8 @@
 <l>Welt sijn gedaen saelt hem behagen</l>
 <l>Oc wart har herte so teblowen</l>
 <l>Aldaer si lach uan dire onttrowen</l>
-<l>Die si gebesegt hadde indinDat</l>
-<l>si din dinste wilde ontflin</l>
+<l>Die si gebesegt hadde indin</l>
+<l>Dat si din dinste wilde ontflin</l>
 <l>Din si verdroch met ongemake</l>
 <l>Dat siremede wart in wake</l>
 <l>Ende alse doe tharseluen quam</l>
@@ -11174,8 +11158,8 @@
 <l>Began si hebben harde suar</l>
 <l>Die consciencie. ende onttreden</l>
 <l>Dat si der riuer gods geneden</l>
-<l>Dullic uerbort hadde ommedatDat</l>
-<l>si hars selues so uergat</l>
+<l>Dullic uerbort hadde ommedat</l>
+<l>Dat si hars selues so uergat</l>
 <l>Doe si der pinen wart geware</l>
 <l>Dat si gaf okison an hare</l>
 <l>Din euelbaren din uiant</l>
@@ -11194,8 +11178,8 @@
 <l>So heuet si met meerren niede</l>
 <l>Gedint der magt vtuercoren</l>
 <l>Dan si gedaen hadde ie teuoren</l>
-<l>Vandindat en sondere die sprac iegen hare sach</l>
-<l>enen groten schijn blaken bouen hare.</l>
+<l parse="ignore">Vandindat en sondere die sprac iegen hare sach</l>
+<l parse="ignore">enen groten schijn blaken bouen hare.</l>
 <l>.xxxi. Hort noch en ander Dat lutgarden.</l>
 <l>Geschide. alse ons met waren warden.</l>
 <l>Vertoegt die uite noch uan hare</l>
@@ -11221,7 +11205,7 @@
 <l>Ende alre menschen herten kinnet</l>
 <l>Ende oc so sere ons allen minnet</l>
 <l>Dat hem ontfarmet onser noet</l>
-<l>magt met door hand F ? bovengeschreven e: maget</l>
+<l parse="ignore">magt met door hand F ? bovengeschreven e: maget</l>
 <l>Hi togde ontfarmechheide groet</l>
 <l>Oc an den genen dis ic v</l>
 <l>Gewagen hebbe al tote nv</l>
@@ -11263,7 +11247,7 @@
 <l>Welt hi der sonden auestaen</l>
 <l>Ende oc ter gods genaden comen</l>
 <l>Die emmermeer sal sijn benomen</l>
-<l>mengen met door hand H bovengeschreven e: menegen</l>
+<l parse="ignore">mengen met door hand H bovengeschreven e: menegen</l>
 <l>Den genen die in houetsouden</l>
 <l>Na desen liue werden uonden</l>
 <l>Gelikerwijsdat dese was</l>
@@ -11298,15 +11282,15 @@
 <l>Dat hi ne wiste hem hoe gelaten</l>
 <l>Want een berowenesse groet</l>
 <l>Gaf hem ter herten selken stoet</l>
-<l>Bi godes wille. tirstdat hi</l>
+<l>Bi godes wille. tirst dat hi</l>
 <l>Die maget dire hi sat so bi</l>
 <l>Sach mettin scine also uerclart</l>
 <l>Dat hi die sonden nit gespart</l>
 <l>En heft te uloekene an din tide</l>
 <l>Mar riuelike al sonder mide</l>
-<l>lees houetsonden</l>
-<l>dar met door hand H bovengeschreven e: daer</l>
-<l>scine met door hand H bovengeschreven h: schine</l>
+<l parse="ignore">lees houetsonden</l>
+<l parse="ignore">dar met door hand H bovengeschreven e: daer</l>
+<l parse="ignore">scine met door hand H bovengeschreven h: schine</l>
 <l>Began hi suchten ende karmen</l>
 <l>Sodats der urowen oc ontfarmen</l>
 <l>Begonste. want si wel vernam</l>
@@ -11349,7 +11333,7 @@
 <l>Den hogsten coninc van daerbouen</l>
 <l>So heft hi oc met goeder trowen</l>
 <l>Gedaen lutgarden der ijonfrowen</l>
-<l>oc is interlineair toegevoegd, hand C</l>
+<l parse="ignore">oc is interlineair toegevoegd, hand C</l>
 <l>Die hem materie gaf warbi</l>
 <l>Hi wart ontcommert ende uri</l>
 <l>Van lachtere ende uan meswenden</l>
@@ -11358,8 +11342,8 @@
 <l>En hadde hem gracie nit verworuen</l>
 <l>Daer sine dede met bekiren</l>
 <l>Lutgart die maget goedertiren</l>
-<l>Vandindat hare onse vrowe oppenbarde en</l>
-<l>dankde hare.</l>
+<l parse='ignore'>Vandindat hare onse vrowe oppenbarde en</l>
+<l parse='ignore'>dankde hare.</l>
 <l>.xxxij. Noch hoert gi vrowen ende heeren.</l>
 <l>En ander dat ic v sal leeren.</l>
 <l>Wildijt onthouden dat te uromen</l>
@@ -11474,14 +11458,14 @@
 <l>Gelijcdat al die kerke ware</l>
 <l>Verlichtet binnen uan der sonnen</l>
 <l>Mar dis en sagen nit die nonnen</l>
-<l>geuen met door hand H bovengeschreven h: gheuen</l>
-<l>v is interlineair toegevoegd, hand C</l>
-<l>sonen met door hand H bovengeschreven e: soenen</l>
-<l>spannent waarin t uitgekrabd, lees spannet</l>
+<l parse="ignore">geuen met door hand H bovengeschreven h: gheuen</l>
+<l parse="ignore">v is interlineair toegevoegd, hand C</l>
+<l parse="ignore">sonen met door hand H bovengeschreven e: soenen</l>
+<l parse="ignore">spannent waarin t uitgekrabd, lees spannet</l>
 <l>Noch wiene brachte en wiste engheene</l>
 <l>Der urowen. dan lutgart alleene</l>
 <l>Si sach se comen ende staen</l>
-<l>Tirstdat dat knilen was gedaen</l>
+<l>tirst dat dat knilen was gedaen</l>
 <l>Dwers ouer iegen daer si stoet</l>
 <l>Owi hoe wart lutgarden moet</l>
 <l>Verhoegt doe si begonste schowen</l>
@@ -11503,8 +11487,8 @@
 <l>Din gi mi hir nv teeren daedt</l>
 <l>Dat louen hebdi wel bestaedt</l>
 <l>Daer gi mi mede louet nv</l>
-<l>Doe gi dat uersekijn dat tuAdliberandum</l>
-<l>es begonnen</l>
+<l>Doe gi dat uersekijn dat tu</l>
+<l>Adliberandum es begonnen</l>
 <l>So hoge songet mettin nonnen</l>
 <l>Mi teeren. ende uilt al mede</l>
 <l>Dor minen wille in knigebede</l>
@@ -11531,7 +11515,7 @@
 <l>Getrowelike al sonder wanc</l>
 <l>Dis wetic v so groten danc</l>
 <l>Dat ict v sal din sone mijn</l>
-<l>Tirstdat die termt sal leden sijn</l>
+<l>tirst dat die termt sal leden sijn</l>
 <l>Van vwen leuene. ewelike</l>
 <l>Vergelden don in hemelrike</l>
 <l>Nv blijft gesont. ende ic sal varen</l>
@@ -11578,9 +11562,9 @@
 <l>Si salse wel geloeuets mi</l>
 <l>Op haren ijonsten dach verdingen</l>
 <l>Ende oc te goeden inde bringen</l>
-<l>Vandindat hare onse here leerde hoe hare hars</l>
-<l>evenkerstens ontfarmen soude</l>
-<l>.xxxiij. Sentdat ic v volseggen moet.</l>
+<l parse="ignore">Vandindat hare onse here leerde hoe hare hars</l>
+<l parse="ignore">evenkerstens ontfarmen soude</l>
+<l>.xxxiij. sent dat ic v volseggen moet.</l>
 <l>Die uite van der vrowen goet.</l>
 <l>So salic v noch seggen een</l>
 <l>Exempel dat mi so gereen</l>
@@ -11601,8 +11585,8 @@
 <l>Ende al uerrumpen was hare hut</l>
 <l>Daertoe so was gellegenvt</l>
 <l>Jn hondert staden harentare</l>
-<l>coninginnen met door hand H bovengeschreven h: coninghinnen</l>
-<l>lees geslegen</l>
+<l parse="ignore">coninginnen met door hand H bovengeschreven h: coninghinnen</l>
+<l parse="ignore">lees geslegen</l>
 <l>Die drope. alseof si pakers ware</l>
 <l>Daer si af dogde grote pine</l>
 <l>Hare cleder waren uut chelkine</l>
@@ -11644,9 +11628,9 @@
 <l>Lutgart. want si negheen ambacht</l>
 <l>En droech tin tiden daer it an</l>
 <l>Was te ueruane . mar nochtan</l>
-<l>uore met door hand H bovengeschreven e: uoere</l>
-<l>gelt met door hand H bovengeschreven h: ghelt</l>
-<l>kripende met door hand H bovengeschreven e: kriepende</l>
+<l parse="ignore">uore met door hand H bovengeschreven e: uoere</l>
+<l parse="ignore">gelt met door hand H bovengeschreven h: ghelt</l>
+<l parse="ignore">kripende met door hand H bovengeschreven e: kriepende</l>
 <l>So gaf si dat si gheuen mochte</l>
 <l>Want si int herte binnen sochte</l>
 <l>Daer si den wiue mede gout</l>
@@ -11676,8 +11660,8 @@
 <l>Ter seluer stat daer si tedoene</l>
 <l>Plach alle dage hare orisone</l>
 <l>Geuallen lach op hare knin</l>
-<l>Bedroeuet harde gnoch uandinDat</l>
-<l>si dire armer creaturen</l>
+<l>Bedroeuet harde gnoch uandin</l>
+<l>Dat si dire armer creaturen</l>
 <l>So sere werden sach te suren</l>
 <l>Har leuen. ende si ne conste</l>
 <l>Gedon gelicdat si hare onste</l>
@@ -11687,9 +11671,9 @@
 <l>Toespreken hare in menschen wise</l>
 <l>Die maget ere stemmen lut</l>
 <l>Die aldos seide mine drut</l>
-<l>urowe met door hand H ? bovengeschreven u: urouwe</l>
-<l>rowe met door hand H ? bovengeschreven u en toegevoegde nasaalstreep: urouwen</l>
-<l>gelic met bovengeschreven i: geliic</l>
+<l parse="ignore">urowe met door hand H ? bovengeschreven u: urouwe</l>
+<l parse="ignore">rowe met door hand H ? bovengeschreven u en toegevoegde nasaalstreep: urouwen</l>
+<l parse="ignore">gelic met bovengeschreven i: geliic</l>
 <l>Mine vtuercorne latet staen</l>
 <l>.V. droeuen. wel hebdi gedaen</l>
 <l>Dat gi te doene schuldech wart</l>
@@ -11772,8 +11756,8 @@
 <l>Es si gegaen aldaer si uant</l>
 <l>Sibilien die welgerakde</l>
 <l>Daer ic v eer af kundech makde</l>
-<l>gelden met door hand H bovengeschreven h: ghelden</l>
-<l>gelt met door hand H bovengeschreven h: ghelt</l>
+<l parse="ignore">gelden met door hand H bovengeschreven h: ghelden</l>
+<l parse="ignore">gelt met door hand H bovengeschreven h: ghelt</l>
 <l>En schone exempel dis v somen</l>
 <l>Noch wel gedinkt. ende alse comen</l>
 <l>Die maget was. daer si der stonden</l>
@@ -11816,11 +11800,11 @@
 <l>So uant si dat nit bat ne mochte</l>
 <l>Noch properliker sijn uerclart</l>
 <l>Van desen uersekine elc wart</l>
-<l>dat waaraan met verwijzingsteken hierheen er in de marge toegevoegd, hand O, dus daer</l>
+<l parse="ignore">dat waaraan met verwijzingsteken hierheen er in de marge toegevoegd, hand O, dus daer</l>
 <l>Noch met gescrefte noch met monden</l>
 <l>Dant got lutgarden hadde ontbonden</l>
-<l>Vandindat si enen elijt uan godes haluen</l>
-<l>troestte te uarne dar hi abt gekoren was</l>
+<l parse="ignore">Vandindat si enen elijt uan godes haluen</l>
+<l parse="ignore">troestte te uarne dar hi abt gekoren was</l>
 <l>Uan enen clostre haddic tale.</l>
 <l>Dis noch gedinkt v somen wale.</l>
 <l>Die haffelghem genamet es</l>
@@ -11859,7 +11843,7 @@
 <l>Dat ere es ende vrome groet</l>
 <l>Ware imen oc die wilde kinnen</l>
 <l>Die contenanche uan daerbinnen</l>
-<l>lees anden</l>
+<l parse="ignore">lees anden</l>
 <l>Hi quame aldaer ende sage omtrent</l>
 <l>Wis men daer plit in dat conuent</l>
 <l>Hi merkede hoe men houdt aldaer</l>
@@ -11883,7 +11867,7 @@
 <l>Dat omme leeren goede seden</l>
 <l>Sijn comen daer uan andren steden</l>
 <l>Persone beide ijonge ende oude</l>
-<l>Warbidat menech in behoude</l>
+<l>War bi dat menech in behoude</l>
 <l>Es dikke bleuen uan sire eeren</l>
 <l>Dergerre die daer quamen leeren</l>
 <l>Den wech uan ordenliken daden</l>
@@ -11894,8 +11878,8 @@
 <l>Begeuen. selke sijn geuaren</l>
 <l>Berekken clostre ende abdijen</l>
 <l>Elwar daer si ter prelacien</l>
-<l>Verkoren worden ommedatDat</l>
-<l>si geraket waren bat</l>
+<l>Verkoren worden ommedat</l>
+<l>Dat si geraket waren bat</l>
 <l>Jn alre dogdeliker wise</l>
 <l>Ende oc uerheuen meer in prise</l>
 <l>Dan enege el van andren staden</l>
@@ -11987,11 +11971,11 @@
 <l>Tirstdatter magt gebenedijt</l>
 <l>Die goede man die niwe elijt</l>
 <l>Hadde ouer hem also gebeden</l>
-<l>lees alse</l>
+<l parse="ignore">lees alse</l>
 <l>Met schonen worden welbesneden</l>
 <l>Gaf hem antwerde al sonder beide</l>
 <l>Die maget weder ende seide</l>
-<l>Mijn sute urint sentdat v dan</l>
+<l>Mijn sute urint sent dat v dan</l>
 <l>Got selue wel der eeren an</l>
 <l>Dat hi bi v welt restoreren</l>
 <l>Din closter. ende reformeren</l>
@@ -12107,8 +12091,8 @@
 <l>Met hoger stemmen heft verheuen</l>
 <l>Ende aldos segede expectans</l>
 <l>Darna so uolgede altehans</l>
-<l>Dat expectauitdominumEtintendit.</l>
-<l>nv hebdi sum</l>
+<l>Dat expectauitdominum</l>
+<l>Etintendit. nv hebdi sum</l>
 <l>Gehort van desen versekine</l>
 <l>Die wart. mar selk in din latine</l>
 <l>Wart daer gewandelt. dats michi</l>
@@ -12153,7 +12137,7 @@
 <l>Alse een salut daer was gedaen</l>
 <l>Jn beiden siden. so slochvt</l>
 <l>Die welgerakde godes brut</l>
-<l>lees dichtte</l>
+<l parse="ignore">lees dichtte</l>
 <l>Ende een vertrek begonste dis</l>
 <l>Hoe groten troest hare anewis</l>
 <l>Doe si dat beden onderstont</l>
@@ -12168,7 +12152,7 @@
 <l>Dos heft die maget goedertiren</l>
 <l>Met suten warden al uerdreuen</l>
 <l>Din tuiuel. ende troest gegeuen</l>
-<l>Warbidat hi terade wart</l>
+<l>War bi dat hi terade wart</l>
 <l>Dat hi din hogen graet optart</l>
 <l>Van dire abdijen. ende ontfinc</l>
 <l>Die croche. dat hem sent verginc</l>
@@ -12180,8 +12164,8 @@
 <l>Dat metter godes helpen saen</l>
 <l>Die closter buten ende binnen</l>
 <l>Wart reformert in allen sinnen.</l>
-<l>Vandindat hare ene heilege ijonfrowe</l>
-<l>oppenbarde ende seide haren name.</l>
+<l parse="ignore">Vandindat hare ene heilege ijonfrowe</l>
+<l parse="ignore">oppenbarde ende seide haren name.</l>
 <l>xxxv En schone exempel ende en goet.</l>
 <l>Dat ic v noch vertrekken moet.</l>
 <l>So uindic in der urowen vite</l>
@@ -12193,8 +12177,8 @@
 <l>Alseochtt van heme nit ne ware</l>
 <l>Nv hoerterna; die predekare</l>
 <l>Hi was gegaen op enen tijt</l>
-<l>die is interlineair toegevoegd, hand C</l>
-<l>bellengem met door hand C bovengeschreven h: bellenghem</l>
+<l parse="ignore">die is interlineair toegevoegd, hand C</l>
+<l parse="ignore">bellengem met door hand C bovengeschreven h: bellenghem</l>
 <l>Gelijcdat hi daer selue lijt</l>
 <l>Jn sinen boeke int walsche lant</l>
 <l>Jn enen closter daer hi uant</l>
@@ -12215,7 +12199,7 @@
 <l>Mar nit ne uant hi darteneuen</l>
 <l>Jn walsch noch in latijn gescreuen</l>
 <l>Daer hi dat heilegdom besochte</l>
-<l>Warbidat hi bekinnen mochte</l>
+<l>War bi dat hi bekinnen mochte</l>
 <l>Hoedat degene was genamet</l>
 <l>Die in dat marbre lach bekramet</l>
 <l>Noch wie si was noch uan wat lande</l>
@@ -12238,7 +12222,7 @@
 <l>Dan daer die name af ware ontkont</l>
 <l>Ende oc verheffen meer in loue</l>
 <l>Jn keisers ende in conings houe</l>
-<l>lees vate</l>
+<l parse="ignore">lees vate</l>
 <l>Ende ouer al die werelt breet</l>
 <l>Want daer men dsnamen nit ne weet</l>
 <l>Temin versoeket men din sant</l>
@@ -12282,7 +12266,7 @@
 <l>Die bruder. ende oc es geseten</l>
 <l>Bi hem lutgart. die wilde weten</l>
 <l>Wat hi begerde. of wat het ware</l>
-<l>op e volgt een uitgekrabd beentje van n, lees dine</l>
+<l parse="ignore">op e volgt een uitgekrabd beentje van n, lees dine</l>
 <l>Dat hi besuken wilde an hare</l>
 <l>Mettesen sloch die bruder vt</l>
 <l>Ende al uertrac der godes brut</l>
@@ -12327,7 +12311,7 @@
 <l>Die ommegaen der werelt inden</l>
 <l>Dat sal lutgart nv onderuinden</l>
 <l>Nv hort ic sal v wonder seggen</l>
-<l>Tirstdat lutgart begonste leggen</l>
+<l>tirst dat lutgart begonste leggen</l>
 <l>Die knin ter erden daer si soude</l>
 <l>Te gode bidden dat hi woude</l>
 <l>Want alle dinc hem kundech waren</l>
@@ -12411,7 +12395,7 @@
 <l>Daer vfendic dach ende nacht</l>
 <l>Din godes dinst na mine macht</l>
 <l>Jn langen wakene ende in pinen</l>
-<l>lees dat</l>
+<l parse="ignore">lees dat</l>
 <l>Jn vastene ende in disciplinen</l>
 <l>Jn beden ende in andren dingen</l>
 <l>Die mi die godes cracht volbringen</l>
@@ -12451,8 +12435,8 @@
 <l>Vroch ende spade plagen si</l>
 <l>Te comene. ende bi genaden</l>
 <l>Onss heren. worden si ontladen</l>
-<l>Van mengen commere ommedatDat</l>
-<l>ic uor hen tegode bat</l>
+<l>Van mengen commere ommedat</l>
+<l>Dat ic uor hen tegode bat</l>
 <l>Dos wardic daer in minen dagen</l>
 <l>So liefgetal. dat menech clagen</l>
 <l>Van din geburen was gedaen</l>
@@ -12535,8 +12519,8 @@
 <l>Bi nachte comen of bi dage</l>
 <l>Met haren schine te mi wert</l>
 <l>Sidi so lichte dan veruert</l>
-<l>lees metten</l>
-<l>lees sinne</l>
+<l parse="ignore">lees metten</l>
+<l parse="ignore">lees sinne</l>
 <l>Lutgart die maget weder sprac</l>
 <l>Nv suigt ende houdet v gemac</l>
 <l>Van desen stukken. al si wi</l>
@@ -12583,8 +12567,8 @@
 <l>Drieweruen in der seluer nachte</l>
 <l>Dant hem dis dages daerteuoren</l>
 <l>Vertrac die maget vtuerkoren.</l>
-<l>Uandindat si vorseide van enen die vt der ordinen</l>
-<l>geronnen was. dat hi wedercomen soude.</l>
+<l parse="ignore">Uandindat si vorseide van enen die vt der ordinen</l>
+<l parse="ignore">geronnen was. dat hi wedercomen soude.</l>
 <l>.xxxvi. Bi denremonde in vlaenderlant.</l>
 <l>So staet en closter wel bekant</l>
 <l>Ende een uermart. die suiueke es</l>
@@ -12611,16 +12595,13 @@
 <l>Salic v seggen. dis beghide</l>
 <l>Si selue mi met haren monde</l>
 <l>Ver beatrijs van denremonde</l>
-<l>Hirveremaels hadde enen broeder</l>
+<l>Hirvoremaels hadde enen broeder</l>
 <l>Hars vader kint ende harre moeder</l>
 <l>Die was geleert ende int geuoch</l>
 <l>Was van clergien kunstech gnoch</l>
 <l>Die cleerc ens tides was gekregen</l>
 <l>Daer hi der silen soude plegen</l>
 <l>Nadat die suster hem gherit</l>
-<l>beatris met door hand C ? bovengeschreven i: beatriis</l>
-<l>houech met door hand C ? bovengeschreven s: houesch</l>
-<l>lees voremaels</l>
 <l>Ende achter hem die werelt lit</l>
 <l>Ende enen grawen roc andede</l>
 <l>Jn ere minderbroeder stede</l>
@@ -12735,7 +12716,7 @@
 <l>Darna so was hare oc ontbonden</l>
 <l>Al oppenbare in welken sonden</l>
 <l>Geuallen was die riese man</l>
-<l>Sentdat hi weder vteran</l>
+<l>sent dat hi weder vteran</l>
 <l>Ende om wat saken din abijt</l>
 <l>Hi wandelde. ende hoe langen tijt</l>
 <l>Hi soude wesen in din state</l>
@@ -12831,7 +12812,7 @@
 <l>Gesendet heft. dat es lutgart</l>
 <l>Van saintteron. dat gi uersuart</l>
 <l>Van rowe siit. dat weet si wale</l>
-<l>lees dogdeliken</l>
+<l parse="ignore">lees dogdeliken</l>
 <l>Want hare es kundech altemale</l>
 <l>Uan vwen bruder dauenture</l>
 <l>Die mensche engheen no creature</l>
@@ -12943,8 +12924,8 @@
 <l>Gegordt met ere corden dragen</l>
 <l>Din grawen roc. ende sonder ande</l>
 <l>Gaen. ongeschoijet achter lande.</l>
-<l>Vandindat der hertoginnen vorseide dat si</l>
-<l>steruen soude.</l>
+<l parse="ignore">Vandindat der hertoginnen vorseide dat si</l>
+<l parse="ignore">steruen soude.</l>
 <l>.xxxvii. Tin seluen tiden doe lutgart</l>
 <l>Dos achter lande was vermart</l>
 <l>Ende oc bi namen wel bekant</l>
@@ -13029,7 +13010,7 @@
 <l>Reet hi enwech taiwires wart</l>
 <l>Daer was hi gewaloppet schire</l>
 <l>Nv hoert noch uan din messagire</l>
-<l>Tirstdat hi quam ter porten in</l>
+<l>tirst dat hi quam ter porten in</l>
 <l>En heuet hi no meer no min</l>
 <l>Gelettet. mar te din parlore</l>
 <l>Es hi gegaen. ende vten koere</l>
@@ -13037,7 +13018,7 @@
 <l>Ontboden. dire hi sal don luden</l>
 <l>Die bodeschap die hem die urowe</l>
 <l>Beual te doene op sine trowe</l>
-<l>Tirstdat din bode aldaer uernam</l>
+<l>tirst dat din bode aldaer uernam</l>
 <l>Lutgart. gegangen dat si quam</l>
 <l>Jn dat parloer daer sine uant</l>
 <l>Doe sloch die bode an altehant</l>
@@ -13129,12 +13110,12 @@
 <l>Daeromme radic v her bode</l>
 <l>Dat gi v hastet ende vart</l>
 <l>Ter urowen wert al ongespart</l>
-<l>de verzen 12669-12670 staan, voorafgegaan door een b, in de benedenmarge, met een a op de plaats waar ze dienen ingelast te worden, alles hand F. Ten dele door vers 12670 bedekt is een voordien door hand E met loodstift in de benedenmarge aangebrachte toevoeging: [...]as gegeuen selc. op der hertoginnen leuen</l>
-<l>lees nutte</l>
+<l parse="ignore">de verzen 12669-12670 staan, voorafgegaan door een b, in de benedenmarge, met een a op de plaats waar ze dienen ingelast te worden, alles hand F. Ten dele door vers 12670 bedekt is een voordien door hand E met loodstift in de benedenmarge aangebrachte toevoeging: [...]as gegeuen selc. op der hertoginnen leuen</l>
+<l parse="ignore">lees nutte</l>
 <l>Ende segget dat ic hare ontbiede</l>
 <l>Dat ic wel louede ende riede</l>
 <l>Wart it uan enen maten wiue</l>
-<l>Ter pinen wert. sentdat uan liue</l>
+<l>Ter pinen wert. sent dat uan liue</l>
 <l>Ter doet die vrowe comen moet</l>
 <l>Dat si din hope stichtte goet</l>
 <l>Op gods genade. diese en sal</l>
@@ -13257,7 +13238,7 @@
 <l>Hoe met der silen was vergaen</l>
 <l>Want het geschide op enen dach</l>
 <l>Dat si die sile comen sach</l>
-<l>lees hellen</l>
+<l parse="ignore">lees hellen</l>
 <l>Geuaren tote bi der stede</l>
 <l>Daer si lachop in kniegebede</l>
 <l>Ende alse quam so na der vrowen</l>
@@ -13318,7 +13299,7 @@
 <l>Din groten commer die mi suart</l>
 <l>Ende v te biddene oc dat ghi</l>
 <l>Te gode biddet ouer mi</l>
-<l>Tirstdat die tale ghindet was</l>
+<l>tirst dat die tale ghindet was</l>
 <l>So uoerenwech alse een gedwas</l>
 <l>Die sile uan der hertoghinnen</l>
 <l>Doe ginc uanirst alnoch beginnen</l>
@@ -13372,8 +13353,8 @@
 <l>Van hem. so seide al oppenbare</l>
 <l>Warwert hi henen was gecregen</l>
 <l>Lutgart die maget welgedegen.</l>
-<l>Van ere die si uan koringen genas ende seide</l>
-<l>wat hare derde.</l>
+<l parse="ignore">Van ere die si uan koringen genas ende seide</l>
+<l parse="ignore">wat hare derde.</l>
 <l>.xxxviii. Te cortsaintsteuene in brabant.</l>
 <l>Bi waure in dat walsche lant.</l>
 <l>So lach verwrachtt in een reclus</l>
@@ -13384,7 +13365,7 @@
 <l>V seggen ende kundech maken</l>
 <l>Tintidendat lutgart die fine</l>
 <l>Also vermart began tesine</l>
-<l>si is interlineair toegevoegd, hand C</l>
+<l parse="ignore">si is interlineair toegevoegd, hand C</l>
 <l>Alsic v hebbe don verstaen</l>
 <l>Eer in die cluse was gedaen</l>
 <l>Die clusenersse daer ic nv</l>
@@ -13553,9 +13534,9 @@
 <l>Den vroeden man. den cirurgin</l>
 <l>Die selket medicinen pleget</l>
 <l>Die wonde waer dat hise dreget</l>
-<l>sin met door hand H bovengeschreven e: sien</l>
-<l>cirurgin met door hand H bovengeschreven e: cirurgien</l>
-<l>lees selker</l>
+<l parse="ignore">sin met door hand H bovengeschreven e: sien</l>
+<l parse="ignore">cirurgin met door hand H bovengeschreven e: cirurgien</l>
+<l parse="ignore">lees selker</l>
 <l>Al die gelike seggic v</l>
 <l>Wel lieue dochter. wildi nv</l>
 <l>Dat ic ter nosen die gi claget</l>
@@ -13585,8 +13566,8 @@
 <l>Ende aldos seide dochter wert</l>
 <l>Wouddi mi seggen wat v dert</l>
 <l>Masschin souddikker v te bat</l>
-<l>Geraden toe. mar ommedatDat</l>
-<l>ic v sie en lettelkijn</l>
+<l>Geraden toe. mar ommedat</l>
+<l>Dat ic v sie en lettelkijn</l>
 <l>Van herten ondercomen sijn</l>
 <l>Warbi gi suiget aldos stille</l>
 <l>So salic bi den godes wille</l>
@@ -13731,7 +13712,7 @@
 <l>Dat in die uite al herteneuen</l>
 <l>Om dat te proeuene es gescreuen</l>
 <l>Nv hort wat ikkeraue las</l>
-<l>teloecene met door hand C bovengeschreven s: teloescene</l>
+<l parse="ignore">teloecene met door hand C bovengeschreven s: teloescene</l>
 <l>Om enen tijt en mensche was</l>
 <l>Die so met ere groter sonden</l>
 <l>Geladen was ende oc gebonden</l>
@@ -13789,7 +13770,7 @@
 <l>Schone vtermaten ende clar</l>
 <l>Die sach op hem aldaer hi stoet</l>
 <l>Geliicdat een op andren doet</l>
-<l>Mar tirstdat hi die oghe sach</l>
+<l>Mar tirst dat hi die oghe sach</l>
 <l>Van groten wondre rip hi. ach</l>
 <l>Genade got. almechtech here</l>
 <l>Wie sach dit wonder noit eere</l>
@@ -13813,8 +13794,8 @@
 <l>Oc wroegen daer die werelt al</l>
 <l>Die gods sententie moet ontfaen</l>
 <l>Hen si dat ghireaf willet staen</l>
-<l>dwans met door hand H bovengeschreven e: dwaens</l>
-<l>Sijsis waarin eerste s gee"xpungeerd en volgend is uitgekrabd; in de bovenmarge met verwijzing hierheen eest , hand O</l>
+<l parse="ignore">dwans met door hand H bovengeschreven e: dwaens</l>
+<l parse="ignore">Sijsis waarin eerste s gee"xpungeerd en volgend is uitgekrabd; in de bovenmarge met verwijzing hierheen eest , hand O</l>
 <l>Jn baten. ende v schuldech geuen</l>
 <l>Die wile dat v got v leuen</l>
 <l>Behouden welt. ende v gesparen</l>
@@ -13859,8 +13840,8 @@
 <l>Gelijcdat ic v uan lutgarden</l>
 <l>Teuoren seide. ende oc uan din</l>
 <l>Daer got dit ane lit geschin.</l>
-<l>Vandindat si bruder Damaese verloesde van</l>
-<l>koringen</l>
+<l parse="ignore">Vandindat si bruder Damaese verloesde van</l>
+<l parse="ignore">koringen</l>
 <l>.xxxix. Bruder damaes die predekare</l>
 <l>Die goede man die wide mare</l>
 <l>Lutgarden makde in din latine</l>
@@ -13898,7 +13879,7 @@
 <l>Van haren sonden. ende gaf</l>
 <l>Die absolucie hen daeraf</l>
 <l>Mar doe vernam die euelbaren</l>
-<l>didsche met door hand H bovengeschreven e: diedsche</l>
+<l parse="ignore">didsche met door hand H bovengeschreven e: diedsche</l>
 <l>Datten die here al sonder sparen</l>
 <l>So wederniedde in sinen doene</l>
 <l>Want hi verloestte vtin prisoene</l>
@@ -13948,7 +13929,7 @@
 <l>Lutgarden. die hem sinen moet</l>
 <l>Sal reformeren. nv hort dan</l>
 <l>Wat heft gedaen die goede man</l>
-<l>Hi ginc tirstdat hi quam te spraken</l>
+<l>Hi ginc tirst dat hi quam te spraken</l>
 <l>Der vrowen. hare al condech maken</l>
 <l>Hoedat hi confessoer te sine</l>
 <l>Gekosen ware. ende hoe die pine</l>
@@ -14026,9 +14007,9 @@
 <l>Dos sine vriheit auewan</l>
 <l>Die ihesus xpristus got die goede</l>
 <l>Met sinen werdeliken bloede</l>
-<l>lees din</l>
+<l parse="ignore">lees din</l>
 <l>Ons allen weder heft beijagt</l>
-<l>Sentdat gi dan v so beclagt</l>
+<l>sent dat gi dan v so beclagt</l>
 <l>Van din viant die v die pine</l>
 <l>Beradet. so es wale in schine</l>
 <l>Dat gi ne sijt uerwonnen nit</l>
@@ -14091,10 +14072,10 @@
 <l>Dat hem en mochte nit mescomen</l>
 <l>Dat smetten datteran gelach</l>
 <l>Gelijcdat het teuoren plach</l>
-<l>Vandindat se tue ingle leidden ten outare</l>
+<l parse="ignore">Vandindat se tue ingle leidden ten outare</l>
 <l>.xl. Noch soudic v met corten warden</l>
-<l>En schone exempel van lutgarden. Van</l>
-<l>saintteron der goeder nonnen</l>
+<l>En schone exempel van lutgarden.</l>
+<l>Van saintteron der goeder nonnen</l>
 <l>Vertrekken. wilde mi got onnen</l>
 <l>Dat ic des conste also volcomen</l>
 <l>Dat het v allen mochte vromen</l>
@@ -14193,7 +14174,7 @@
 <l>Nv hort wat oc die ingle daden</l>
 <l>Die brachten daer met goeden staden</l>
 <l>Geleidt die urowe in wederside</l>
-<l>Tirstdat die gods gebenedijde</l>
+<l>tirst dat die gods gebenedijde</l>
 <l>Geknilt was neder ende ontploec</l>
 <l>Din mont. so knilden neder oc</l>
 <l>Die heilege ingle effens hare</l>
@@ -14203,7 +14184,7 @@
 <l>Die godes boden alle beide</l>
 <l>Die weder namen in geleide</l>
 <l>Die welgerakde godes brut</l>
-<l>Gelijcdat sise brachtenvt</l>
+<l>Gelijcdat sise brachten vt</l>
 <l>So leidden sise oc weder in</l>
 <l>Owi hoe was lutgarden sin</l>
 <l>Verhoegt doe mense leidde also</l>
@@ -14264,8 +14245,8 @@
 <l>Die uite segt. int selue ijaer</l>
 <l>Es dit geschit der maget fijn</l>
 <l>Giebenedijt so moet si sijn</l>
-<l>Vandindat si en wijf verledegde die onthopt was</l>
-<l>ende dat si walsch sprac.</l>
+<l parse="ignore">Vandindat si en wijf verledegde die onthopt was</l>
+<l parse="ignore">ende dat si walsch sprac.</l>
 <l>.xli. Uuildi noch horen wat geschide.</l>
 <l>Ter vrowen tide alse ons beghide.</l>
 <l>Die dat latijn bescreef van hare</l>
@@ -14279,7 +14260,7 @@
 <l>Dat ict vermoge alsict versta</l>
 <l>Te seggene v. nv hoerterna</l>
 <l>Ter vrowen tide was en wijf</l>
-<l>lees uroede</l>
+<l parse="ignore">lees uroede</l>
 <l>Die leidde en harde onsalech lijf</l>
 <l>Ende een verwaten ende en quaet</l>
 <l>Want alle sondelike daet</l>
@@ -14368,8 +14349,8 @@
 <l>Beurudden. die tin anegange</l>
 <l>Daer waren comen. ende onlange</l>
 <l>Geseten hadden bi den wiue</l>
-<l>lees lande</l>
-<l>hort met door hand H bovengeschreven e: hoert</l>
+<l parse="ignore">lees lande</l>
+<l parse="ignore">hort met door hand H bovengeschreven e: hoert</l>
 <l>Si ripen alle owi kaitiue</l>
 <l>Onsalech wijf wats v geschit</l>
 <l>Dat gi dos sprekt. en vroeddi nit</l>
@@ -14457,8 +14438,8 @@
 <l>Dat hijs hem wel verweren mochte</l>
 <l>So gingen si noch brengen voert</l>
 <l>Scrifturen. bispele. ende wort</l>
-<l>lees verladen</l>
-<l>lees schouden</l>
+<l parse="ignore">lees verladen</l>
+<l parse="ignore">lees schouden</l>
 <l>Sute ende sure. ochte it te vromen</l>
 <l>Van allen din doch mochte comen</l>
 <l>Din ongerakden viuekine</l>
@@ -14500,7 +14481,7 @@
 <l>Was daer ontboden ende quam</l>
 <l>Mar doe die maget fijn vernam</l>
 <l>Warummedat se die ijonfrowen</l>
-<l>lees wiuekine</l>
+<l parse="ignore">lees wiuekine</l>
 <l>Ontboden hadden. so teblowen</l>
 <l>Van torne wart har herte binnen</l>
 <l>Dat si ne wiste wis beginnen</l>
@@ -14525,7 +14506,7 @@
 <l>Nochtan hort hare wis si plach</l>
 <l>Jc sal v seggen dat men mach</l>
 <l>Te groten wondere v bedieden</l>
-<l>Tirstdat si uan din goeden lieden</l>
+<l>tirst dat si uan din goeden lieden</l>
 <l>Was instruert van derre saken</l>
 <l>Al hadde si uan walscher spraken</l>
 <l>So cranc din koeuer ende cleene</l>
@@ -14543,9 +14524,9 @@
 <l>Dat walsch ghuseert en hadde nit</l>
 <l>Mar got die alle dinge sit</l>
 <l>Ende ouer alle creaturen</l>
-<l>lees wreken</l>
-<l>lees Dar</l>
-<l>lees Dat</l>
+<l parse="ignore">lees wreken</l>
+<l parse="ignore">lees Dar</l>
+<l parse="ignore">lees Dat</l>
 <l>Heft sijn gebot. die uan naturen</l>
 <l>Die werke wederkiren mach</l>
 <l>Die wilen josue din dach</l>
@@ -14629,7 +14610,7 @@
 <l>Warumme seiddi gi ijonfrowen</l>
 <l>Dat uer lutgart die godes kare</l>
 <l>Der walscher talen sonder ware</l>
-<l>Geloeuets mi. sentdat ic ie</l>
+<l>Geloeuets mi. sent dat ic ie</l>
 <l>Geboren wart. en hoerdic nie</l>
 <l>So wel gedichtt noch so besneden</l>
 <l>Die walsche tale alsic se heden</l>
@@ -14699,8 +14680,8 @@
 <l>Dos heft lutgart die godes kare</l>
 <l>Terasten brachtt dat wiuekijn</l>
 <l>Gebenedijt sot motsi sijn</l>
-<l>Vandindat onse here vegde de trane uan haren</l>
-<l>ogen.</l>
+<l parse="ignore">Vandindat onse here vegde de trane uan haren</l>
+<l parse="ignore">ogen.</l>
 <l>Noch wanic dat hen somen wale</l>
 <l>Gedinkt die hebben dese tale.</l>
 <l>Gehoert vertrekken van lutgarden</l>
@@ -14721,7 +14702,7 @@
 <l>Beual. dat si te goeder trowen</l>
 <l>Gelijcdat hi hem seluen al</l>
 <l>Alse hi die menschen hem beual</l>
-<l>lees so</l>
+<l parse="ignore">lees so</l>
 <l>Opgaf din eweliken vader</l>
 <l>Ende offerde. oc also algader</l>
 <l>Har seluen offerde ende gaue</l>
@@ -14804,7 +14785,7 @@
 <l>Ende alse quam beneuen hare</l>
 <l>Die godes sone. al sonder beide</l>
 <l>Beneuen haren knin hi leide</l>
-<l>lees vormen</l>
+<l parse="ignore">lees vormen</l>
 <l>Desine. ende es also genikket</l>
 <l>Dat hi hem seluen heft gemikket</l>
 <l>Beneuen sire brut. nu hoert</l>
@@ -14889,12 +14870,12 @@
 <l>Dis heuet hem gedankt die urowe</l>
 <l>Ter seluer stede aldaer si lach</l>
 <l>Mar wildi horen hoe si plach</l>
-<l>boven de t interlineair er, hand M?: daer</l>
+<l parse="ignore">boven de t interlineair er, hand M?: daer</l>
 <l>Voertan tesine in vfeningen</l>
 <l>Van din ambachte. ende hoe si dingen</l>
 <l>Plach sider ouer die sonderen</l>
 <l>Hoert mi dat salic v uercleren</l>
-<l>Sentdat die maget van hogen prise</l>
+<l>sent dat die maget van hogen prise</l>
 <l>Van gode was in derre wise</l>
 <l>Geuisiteert al sonder waen</l>
 <l>So seggic v dat noit traen</l>
@@ -14908,8 +14889,8 @@
 <l>Van allen commere ende sere</l>
 <l>Verloessede. ende weder gaf</l>
 <l>Remedie ende afflaet daeraf</l>
-<l>Vandindat se die heiligen ende die ingle plagen</l>
-<l>te visiteerne.</l>
+<l parse="ignore">Vandindat se die heiligen ende die ingle plagen</l>
+<l parse="ignore">te visiteerne.</l>
 <l>.xliij. Die wale onthouden mijn gedichte.</l>
 <l>Si mogen bi hen seluen lichte.</l>
 <l>Wel merken ende wel verstaen</l>
@@ -14931,11 +14912,11 @@
 <l>Lutgart in bichten teenen tide</l>
 <l>Ende oc al wenende hem verlijde</l>
 <l>Hi seget daer dat hem lutgart</l>
-<l>ogen met door hand H bovengeschreven h: oghen</l>
+<l parse="ignore">ogen met door hand H bovengeschreven h: oghen</l>
 <l>Die urowe lijde al ongespart</l>
 <l>Dis selues dat ic v bescriue</l>
 <l>Dat ouerleden ijare viue</l>
-<l>Sentdat die godes sone hare oghen</l>
+<l>sent dat die godes sone hare oghen</l>
 <l>Quam tote hirneder neder selue droegen</l>
 <l>Met sire coningliker hant</l>
 <l>Gelijcdat ic v eer ontbant</l>
@@ -14993,8 +14974,8 @@
 <l>Dat was hi selue ende elles nit</l>
 <l>Mar wildi horen bi wat saken</l>
 <l>Jc v gewage derre spraken</l>
-<l>Jc saelt v seggen. ommedatDat</l>
-<l>selke menschen sijn so lat</l>
+<l>Jc saelt v seggen. ommedat</l>
+<l>Dat selke menschen sijn so lat</l>
 <l>Van herten. dat si meer begheren</l>
 <l>Met groten sorgen hen generen</l>
 <l>Jn dese werellike pine</l>
@@ -15016,63 +14997,63 @@
 <l>Te tellne margen al den dach</l>
 <l>Van din dis voert die maget plach</l>
 <l>Van daer wijt selen laten nv</l>
-<l>Nv gaetenwech. got si met v ..Amen.</l>
-<l>Amen door andere gelijktijdige hand toegevoegd</l>
-<l>.i. Hir beginnet tprologe van der derden partien</l>
-<l>.ij. Uandindat si blent wart .xi ijar uor hare doet</l>
-<l>.iij. Uandindat bruder iordan te hare quam na sine doet</l>
-<l>ende seide hoet met hem staet.</l>
-<l>iiij Uandindat hare derdewerf was beuolen te uastene .vij.</l>
-<l>ijar.</l>
-<l>v Uandindat si meester ijacops sile uan vitri sach comen in</l>
-<l>hemelrike.</l>
-<l>vi Uandindat hare uertogt wart die dach uan harre doet</l>
-<l>vif ijar eer si uerschit.</l>
-<l>vij Uandindat se bruder iordan noch quam uisiteren ende</l>
-<l>seide hare dat si hem cortelinge uolgen soude.</l>
-<l>viij Vandindat hare uertogt wart dat die tatren in dit lant</l>
-<l>njet comen en souden.</l>
-<l>.ix. Vandindat hare vertogt wart heren bouduins doet uan</l>
-<l>barbenchon.</l>
-<l>.x. Uandindat si onttekde enen haren urint hoegedaen si</l>
-<l>plach te bescowene gods anschin.</l>
-<l>xi Uandindat ene stemme wart gesendt dar si lach die seide</l>
-<l>deliciemeeessecumfilijshominum.</l>
-<l>xij Vandindat onse here te hare quam ende hare beual dat si</l>
-<l>besech ware met drien dingen.</l>
-<l>xiij Uandindat onse here ende onse vrowe te hare quamen</l>
-<l>ende si se troesteden.</l>
-<l>xiiij Uandindat se onse vrowe ende sente jan baptiste quamen</l>
-<l>visiteren.</l>
-<l>xv Uandindat si din nonnen vorseide dat si na hare doet</l>
-<l>geplacht souden sin ende waromme.</l>
-<l>xvi Uandindat si enen haren vrint verdingde met beden</l>
-<l>iegen gode.</l>
-<l>xvij Uandindat si bleef sijc liggende ende dat si dabt uan</l>
-<l>haffelgem quam uisiteren.</l>
-<l>xviij Vandindat si uan erterike schijt ende op welken tijdt.</l>
-<l>xix Uandindat die lichame slecht ende ombevlecht was doe</l>
-<l>si versceden was.</l>
-<l>xx. Uandindat se en wijf genas uan haren minxle doe si</l>
-<l>dien lichame halp duaen.</l>
-<l>xxi Hoe die lichame ter eerden wart gedaen ende war si</l>
-<l>begrauen leegt</l>
-<l>xxii Vandindat si bruder damase vorseide welken vinger hi</l>
-<l>behouden soude uan hare.</l>
-<l>xxiij Uandindat si ere vrowen oppenbart wart in uisioene</l>
-<l>njet toevoeging hand O ?</l>
-<l>ende ene nonne hare uolgen hijt.</l>
-<l>xxiiij Uan der wraken dar se af hadde geprofeteert ende hoe si</l>
-<l>gestilt wart.</l>
-<l>xxv Uandindat beatris uan rauia genas bi harre cracht uan</l>
-<l>enen gesuelle.</l>
-<l>xxvi Vandindat ere nonnen die hoeftsuere wart gesachtt</l>
-<l>ende hoe si uan ere queetchingen genas.</l>
-<l>xxvij Uandindat marie uan andene genas van enen</l>
-<l>griweliken hoeftsuere.</l>
-<l>xxviii Dit es di conclusie van desen boken.]</l>
-<l>de inhoudstafel is van hand G</l>
-<l>.i. Hir beghinet prologhe uan der derder partien.</l>
+<l>Nv gaetenwech. got si met v </l>
+<l parse="ignore">Amen door andere gelijktijdige hand toegevoegd</l>
+<l parse="ignore">.i. Hir beginnet tprologe van der derden partien</l>
+<l parse="ignore">.ij. Uandindat si blent wart .xi ijar uor hare doet</l>
+<l parse="ignore">.iij. Uandindat bruder iordan te hare quam na sine doet</l>
+<l parse="ignore">ende seide hoet met hem staet.</l>
+<l parse="ignore">iiij Uandindat hare derdewerf was beuolen te uastene .vij.</l>
+<l parse="ignore">ijar.</l>
+<l parse="ignore">v Uandindat si meester ijacops sile uan vitri sach comen in</l>
+<l parse="ignore">hemelrike.</l>
+<l parse="ignore">vi Uandindat hare uertogt wart die dach uan harre doet</l>
+<l parse="ignore">vif ijar eer si uerschit.</l>
+<l parse="ignore">vij Uandindat se bruder iordan noch quam uisiteren ende</l>
+<l parse="ignore">seide hare dat si hem cortelinge uolgen soude.</l>
+<l parse="ignore">viij Vandindat hare uertogt wart dat die tatren in dit lant</l>
+<l parse="ignore">njet comen en souden.</l>
+<l parse="ignore">.ix. Vandindat hare vertogt wart heren bouduins doet uan</l>
+<l parse="ignore">barbenchon.</l>
+<l parse="ignore">.x. Uandindat si onttekde enen haren urint hoegedaen si</l>
+<l parse="ignore">plach te bescowene gods anschin.</l>
+<l parse="ignore">xi Uandindat ene stemme wart gesendt dar si lach die seide</l>
+<l parse="ignore">deliciemeeessecumfilijshominum.</l>
+<l parse="ignore">xij Vandindat onse here te hare quam ende hare beual dat si</l>
+<l parse="ignore">besech ware met drien dingen.</l>
+<l parse="ignore">xiij Uandindat onse here ende onse vrowe te hare quamen</l>
+<l parse="ignore">ende si se troesteden.</l>
+<l parse="ignore">xiiij Uandindat se onse vrowe ende sente jan baptiste quamen</l>
+<l parse="ignore">visiteren.</l>
+<l parse="ignore">xv Uandindat si din nonnen vorseide dat si na hare doet</l>
+<l parse="ignore">geplacht souden sin ende waromme.</l>
+<l parse="ignore">xvi Uandindat si enen haren vrint verdingde met beden</l>
+<l parse="ignore">iegen gode.</l>
+<l parse="ignore">xvij Uandindat si bleef sijc liggende ende dat si dabt uan</l>
+<l parse="ignore">haffelgem quam uisiteren.</l>
+<l parse="ignore">xviij Vandindat si uan erterike schijt ende op welken tijdt.</l>
+<l parse="ignore">xix Uandindat die lichame slecht ende ombevlecht was doe</l>
+<l parse="ignore">si versceden was.</l>
+<l parse="ignore">xx. Uandindat se en wijf genas uan haren minxle doe si</l>
+<l parse="ignore">dien lichame halp duaen.</l>
+<l parse="ignore">xxi Hoe die lichame ter eerden wart gedaen ende war si</l>
+<l parse="ignore">begrauen leegt</l>
+<l parse="ignore">xxii Vandindat si bruder damase vorseide welken vinger hi</l>
+<l parse="ignore">behouden soude uan hare.</l>
+<l parse="ignore">xxiij Uandindat si ere vrowen oppenbart wart in uisioene</l>
+<l parse="ignore">njet toevoeging hand O ?</l>
+<l parse="ignore">ende ene nonne hare uolgen hijt.</l>
+<l parse="ignore">xxiiij Uan der wraken dar se af hadde geprofeteert ende hoe si</l>
+<l parse="ignore">gestilt wart.</l>
+<l parse="ignore">xxv Uandindat beatris uan rauia genas bi harre cracht uan</l>
+<l parse="ignore">enen gesuelle.</l>
+<l parse="ignore">xxvi Vandindat ere nonnen die hoeftsuere wart gesachtt</l>
+<l parse="ignore">ende hoe si uan ere queetchingen genas.</l>
+<l parse="ignore">xxvij Uandindat marie uan andene genas van enen</l>
+<l parse="ignore">griweliken hoeftsuere.</l>
+<l parse="ignore">xxviii Dit es di conclusie van desen boken.]</l>
+<l parse="ignore">de inhoudstafel is van hand G</l>
+<l parse="ignore">.i. Hir beghinet prologhe uan der derder partien.</l>
 <l>Doe ic vertrac dat ander deel.</l>
 <l>Daer menech edel kapiteel.</l>
 <l>Jn staet bescreuen. so sagic</l>
@@ -15111,7 +15092,7 @@
 <l>Dis horens. want si plegen dis</l>
 <l>Die horen dat hen nit ne uuget</l>
 <l>Mar euen lanc dat hen geuuget</l>
-<l>lees genuget</l>
+<l parse="ignore">lees genuget</l>
 <l>Die tale. en can men hen nit lichte</l>
 <l>Telanc gemaken dat gedichte</l>
 <l>Dat prouic noch wel bi v somen</l>
@@ -15190,7 +15171,7 @@
 <l>Nv si die godes mogentheide</l>
 <l>Jn mijn geleede. ende ic sal v</l>
 <l>Dat derde boec beginnen nv.</l>
-<l>Vandindat si blent wart .xi. ijar vor hare doet.</l>
+<l parse="ignore">Vandindat si blent wart .xi. ijar vor hare doet.</l>
 <l>.ij. Tintidendat lutgart die fine.</l>
 <l>Jn dese wereltlike pine</l>
 <l>Geweset hadde menech ijaer</l>
@@ -15265,7 +15246,7 @@
 <l>Met gode har leuen wilde leiden</l>
 <l>Mar dat die welgerakde maget</l>
 <l>Heft oit sider meest geclaget</l>
-<l>Sentdat die dinc also geschide</l>
+<l>sent dat die dinc also geschide</l>
 <l>Dat was dat hare op selke liede</l>
 <l>Ende op die sonderlinge vrint</l>
 <l>Die wilen hadden dis verdint</l>
@@ -15303,7 +15284,7 @@
 <l>Dos es tin tiden ouerleden</l>
 <l>Van allen commere ende rowe</l>
 <l>Din suaren pas lutgart die vrowe</l>
-<l>Vandindat bruder iordaen te hare quam na sine</l>
+<l parse="ignore">Vandindat bruder iordaen te hare quam na sine</l>
 <l>doet ende seide hoet met hem staet</l>
 <l>.iij. Een jacobijn en heilech heere</l>
 <l>Die beide groten lof ende eere</l>
@@ -15382,8 +15363,8 @@
 <l>Ginc hi. so dede hi oc te surs</l>
 <l>Albuten ende binnen murs</l>
 <l>Heft hi iherusalem die stat</l>
-<l>Dorsochtt tin tiden ommedatDat</l>
-<l>in din boeken staet gescreuen</l>
+<l>Dorsochtt tin tiden ommedat</l>
+<l>Dat in din boeken staet gescreuen</l>
 <l>Dat ihesus kerst aldaerteneuen</l>
 <l>Dor onsen wille ontfinc die doet</l>
 <l>Ende ons sijn paradijs onsloet</l>
@@ -15496,7 +15477,7 @@
 <l>Dat wonder schowen an din dage</l>
 <l>Maer warumme ic v des gewage</l>
 <l>Wel recht es dat ic v bediede</l>
-<l>lees lampden</l>
+<l parse="ignore">lees lampden</l>
 <l>Tintidendat die goede liede</l>
 <l>Ten inde hars liues waren comen</l>
 <l>Ende oc die gracie die hen somen</l>
@@ -15602,8 +15583,8 @@
 <l>Sodat men sider onderuant</l>
 <l>Van din processe al die waerheide</l>
 <l>Nadat lutgart teuoren seide.</l>
-<l>Vandindat hare derdewerf was beuolen te</l>
-<l>uastene .vij. ijar.</l>
+<l parse="ignore">Vandindat hare derdewerf was beuolen te</l>
+<l parse="ignore">uastene .vij. ijar.</l>
 <l>Tin tiden doe volcomen uuaren.</l>
 <l>Die vasten van din seuen ijaren.</l>
 <l>Die goedes maget utuerkoren</l>
@@ -15621,7 +15602,7 @@
 <l>So was geplaget an din stonden</l>
 <l>Omme okison van haren sonden</l>
 <l>Die werelt vtermaten sere</l>
-<l>lees minden</l>
+<l parse="ignore">lees minden</l>
 <l>Want het jugeerde got die here</l>
 <l>Die alles dinges heft gewout</l>
 <l>Mar doe die gheecele menechfout</l>
@@ -15778,7 +15759,7 @@
 <l>Want sonder redene ende sake</l>
 <l>En doet hi nit die dese wrake</l>
 <l>Doet lopen ouer sine vrint</l>
-<l>Sentdat wijs hebben dan verdint</l>
+<l>sent dat wijs hebben dan verdint</l>
 <l>So menechwerf in onsen dagen</l>
 <l>En mote wijs ons nit beclagen</l>
 <l>Mar louen gode in allen tide</l>
@@ -15817,8 +15798,8 @@
 <l>Al dat lutgart met haren beden</l>
 <l>Besochte. ende dat si wilde voert</l>
 <l>Vertrekken. ende sijn gehoert</l>
-<l>Vandindat si mester iacops sile van uitrj sach</l>
-<l>comen in helmelrike .</l>
+<l parse="ignore">Vandindat si mester iacops sile van uitrj sach</l>
+<l parse="ignore">comen in helmelrike .</l>
 <l>.v. En meester iacop wilen was.</l>
 <l>Daer ic en bispel aue las.</l>
 <l>Jnt ander boec . hit van uitri</l>
@@ -15831,8 +15812,8 @@
 <l>Was hi verheuen. want bisschop</l>
 <l>Was hi tote akers ouer zee</l>
 <l>Daer hi dor gode menech wee</l>
-<l>lees Selc</l>
-<l>lees hemelrike</l>
+<l parse="ignore">lees Selc</l>
+<l parse="ignore">lees hemelrike</l>
 <l>Bestont te dogene ende pine</l>
 <l>Mar wat van hem in din latijne</l>
 <l>Bescreuen staet. dat salic v</l>
@@ -15874,8 +15855,8 @@
 <l>Salic v seggen. hoert na mi</l>
 <l>Ens tijds so lach die maget vri.</l>
 <l>Op hare knin. ende een gebet</l>
-<l>dogene met door hand C bovengeschreven e: doegene</l>
-<l>man op groter rasuur uit een woord eindigend op -n</l>
+<l parse="ignore">dogene met door hand C bovengeschreven e: doegene</l>
+<l parse="ignore">man op groter rasuur uit een woord eindigend op -n</l>
 <l>Hanteerde. daer si wilde met</l>
 <l>Har herte fijn onledech maken</l>
 <l>Mar doe began den inde naken</l>
@@ -15944,7 +15925,7 @@
 <l>Nadat geriuet igewelken</l>
 <l>Ende ic hebbe oc verstaen van selken</l>
 <l>Die sonder pine ende ongemac</l>
-<l>Tirstdat des liues hem gebrac</l>
+<l>tirst dat des liues hem gebrac</l>
 <l>Hirbouen quamen. want hen das</l>
 <l>Die godes gracie onstech was</l>
 <l>Daer si na poegden met geninde;</l>
@@ -15959,7 +15940,7 @@
 <l>Dis gi te biddene .v. geniedt</l>
 <l>Dis salic v berechten gerne</l>
 <l>Want nit nes recht dat ics .v. werne</l>
-<l>bliden in de marge met verwijzingsteken hierheen, hand C</l>
+<l parse="ignore">bliden in de marge met verwijzingsteken hierheen, hand C</l>
 <l>Die sile antwerdde van din here</l>
 <l>Mar tirsten dankic onsen heere</l>
 <l>Van sire ontfarmechheiden groet</l>
@@ -15968,12 +15949,12 @@
 <l>Nv ben ontcommert ende ontladen</l>
 <l>Wildi dan weten ver lutgart</l>
 <l>Ochtic it lange was versuart</l>
-<l>Van pinen sentdat ic verschit</l>
+<l>Van pinen sent dat ic verschit</l>
 <l>Got sijs gelouet neenic nit</l>
 <l>Want heden es die virde dach</l>
 <l>Dat ic die werelt vtterst sach</l>
 <l>Drie dage lettic eer ic quam</l>
-<l>Hirbouen. sentdat inde nam</l>
+<l>Hirbouen. sent dat inde nam</l>
 <l>Mijn brosche lijf. want ic van sonden</l>
 <l>En was algader nit ontbonden</l>
 <l>Doe ic verschit mar got die goede</l>
@@ -16003,7 +15984,7 @@
 <l>So moetti nv ende emmer sijn</l>
 <l>Lutgart die gods verkorne fijn</l>
 <l>Ghi hadt mi bat dan imen el</l>
-<l>lees Goddanc</l>
+<l parse="ignore">lees Goddanc</l>
 <l>Gestaen in staden. weetic wel</l>
 <l>Dis moetti hebben groten danc</l>
 <l>Mar dis die tijt en was nit lanc</l>
@@ -16046,8 +16027,8 @@
 <l>Daerbouen in din paradise</l>
 <l>Mar si v lief dat ic mesprise</l>
 <l>En lettelkijn hare ouerdaet</l>
-<l>lees inde</l>
-<l>lees was</l>
+<l parse="ignore">lees inde</l>
+<l parse="ignore">lees was</l>
 <l>Din dommen lieden die eer quaet</l>
 <l>Eer goet vermonden. ende hen dis</l>
 <l>En schamen nit. die ouer ris</l>
@@ -16087,11 +16068,11 @@
 <l>So swigen dan. dats houeschheide</l>
 <l>Mar es hir imen die des bliuet</l>
 <l>Jn wane. hi sie wat noch bescriuet</l>
-<l>met verwijzingsteken hierheen overtollig die in de marge toegevoegd, hand F</l>
-<l>lees gheue</l>
-<l>lees ongehoert</l>
-<l>d verbeterd uit s, door hand C ? h bovengeschreven: bodschap</l>
-<l>lees dit</l>
+<l parse="ignore">met verwijzingsteken hierheen overtollig die in de marge toegevoegd, hand F</l>
+<l parse="ignore">lees gheue</l>
+<l parse="ignore">lees ongehoert</l>
+<l parse="ignore">d verbeterd uit s, door hand C ? h bovengeschreven: bodschap</l>
+<l parse="ignore">lees dit</l>
 <l>Alhirteneuen dant thomas</l>
 <l>Die derre vite meester was</l>
 <l>Welt hijs geloeuen. dan van desen</l>
@@ -16110,8 +16091,8 @@
 <l>Mach men lutgarden dis te bat</l>
 <l>Geloeuen. dat si die waerheide</l>
 <l>Oc van din seluen dingen seide.</l>
-<l>Vandindat hare vertogt wart die dach uan harre</l>
-<l>doet vif ijar eer si verschit</l>
+<l parse="ignore">Vandindat hare vertogt wart die dach uan harre</l>
+<l parse="ignore">doet vif ijar eer si verschit</l>
 <l>.vj. Uvildi noch weten wat geschide</l>
 <l>Tin seluen tide. alse oc beghide</l>
 <l>Sybilie die van gaijes was</l>
@@ -16178,7 +16159,7 @@
 <l>Oc heft dat danken ende louen</l>
 <l>Gedurt din messetijt alvt</l>
 <l>Mar doe die vrie godes brut</l>
-<l>werscap met door hand C ? bovengeschreven h: werschap</l>
+<l parse="ignore">werscap met door hand C ? bovengeschreven h: werschap</l>
 <l>Dat sacrament. die hoge spise</l>
 <l>Ontfangen hadde. na die wise</l>
 <l>Dat sijt teuoren plach tontfane</l>
@@ -16262,7 +16243,7 @@
 <l>Mar doe die dage van vif ijaren</l>
 <l>Deen na den andren leden waren</l>
 <l>Got die die werelt al geboet</l>
-<l>lees nonttekde ?</l>
+<l parse="ignore">lees nonttekde ?</l>
 <l>Ende alle dinc clene ende groet</l>
 <l>Beschikket na den wille sijn</l>
 <l>Hi dede also die maget fijn</l>
@@ -16290,8 +16271,8 @@
 <l>Verlijen plach. do int conuent</l>
 <l>Die vrogemesse was begonnen</l>
 <l>Die men topgange van der sonnen</l>
-<l>Began te singene ommedatDat</l>
-<l>men des likes na te bat</l>
+<l>Began te singene ommedat</l>
+<l>Dat men des likes na te bat</l>
 <l>Met goeden staden wilde plegen</l>
 <l>Ende in die kerke was gedregen</l>
 <l>Dat lijc dat daer in baren stoet</l>
@@ -16340,9 +16321,9 @@
 <l>Daer hi sal danken ende louen</l>
 <l>Met allen santen ewelike</l>
 <l>Den coninc van den hemelrike</l>
-<l>Vandindat se bruder iordaen noch quam</l>
-<l>visiteeren ende seide hare dat si hem cortelinghe</l>
-<l>volgen soude.</l>
+<l parse="ignore">Vandindat se bruder iordaen noch quam</l>
+<l parse="ignore">visiteeren ende seide hare dat si hem cortelinghe</l>
+<l parse="ignore">volgen soude.</l>
 <l>.vij. Int selue ijaer op enen dach.</l>
 <l>Daer die kersauont op gelach.</l>
 <l>So was ter kerken wert gekregen</l>
@@ -16350,7 +16331,7 @@
 <l>Van eenechheiden. wart dats hare</l>
 <l>Die godes gracie onstech ware</l>
 <l>Nv hoert hoe sijs beginnen sal</l>
-<l>lees tgelage</l>
+<l parse="ignore">lees tgelage</l>
 <l>Doe dat conuent versament al</l>
 <l>Was in den koer te uespertide</l>
 <l>Daer ongespart ende sonder mide</l>
@@ -16467,13 +16448,13 @@
 <l>Ende alle sante ende oc santinnen</l>
 <l>.V. beide prisen ende minnen</l>
 <l>Wis mogdi wesen dan veruert?</l>
-<l>Sentdat v heuet got so wert</l>
+<l>sent dat v heuet got so wert</l>
 <l>Dat hi v heft so menech goet</l>
 <l>Gedaen. ende alle dage doet</l>
 <l>Ende oc sal don voertane altoes</l>
 <l>Waendi dan wesen vrindeloes</l>
 <l>Neen ghi lutgart. dis siit gewes</l>
-<l>Want sentdat v got onstech es</l>
+<l>Want sent dat v got onstech es</l>
 <l>Beide alles goeds ende alre vromen</l>
 <l>So moet v wesen oc becomen</l>
 <l>Din godes vrinden sonder waen</l>
@@ -16504,8 +16485,8 @@
 <l>Doch bleef te rasten ende in hogen</l>
 <l>Ende al verclart van haren rowe</l>
 <l>Sent emmermeer lutgart die vrowe.</l>
-<l>Vandindat hare uertogt wart dat die tatren in dit</l>
-<l>land nit comen en souden</l>
+<l parse="ignore">Vandindat hare uertogt wart dat die tatren in dit</l>
+<l parse="ignore">land nit comen en souden</l>
 <l>.viij. Tin seluen tide int ander ijaer.</l>
 <l>Dat naest was comende alse ons daer.</l>
 <l>Die vite segt. ende alse v somen</l>
@@ -16563,8 +16544,8 @@
 <l>Bedachten hen. si lieten al</l>
 <l>Ende ouer berch ende ouer dal</l>
 <l>Ende ouer bosch ende ouer heide</l>
-<l>lees volc</l>
-<l>lees verbieden</l>
+<l parse="ignore">lees volc</l>
+<l parse="ignore">lees verbieden</l>
 <l>Ontflowen . want die lange beide</l>
 <l>Den genen sette in auenturen</l>
 <l>Die daer sijn leuen wilde ontfuren</l>
@@ -16605,8 +16586,8 @@
 <l>En godes vrint. en predekare</l>
 <l>Din oc sijn herte was in vare</l>
 <l>Van derre wraken ongehir</l>
-<l>Ontflowen met door hand H ? bovengeschreven u: Ontflouwen</l>
-<l>nimen met door hand H bovengeschreven e: niemen</l>
+<l parse="ignore">Ontflowen met door hand H ? bovengeschreven u: Ontflouwen</l>
+<l parse="ignore">nimen met door hand H bovengeschreven e: niemen</l>
 <l>Dis pauss penitentijr</l>
 <l>Die bruder was ende hit bernart</l>
 <l>Die goede man was so veruart</l>
@@ -16691,7 +16672,7 @@
 <l>Got in die werelt met gedoege</l>
 <l>Mar warumme ic v dit betoege</l>
 <l>Salic v seggen vrie maget</l>
-<l>scande met door hand C ? bovengeschreven h: schande</l>
+<l parse="ignore">scande met door hand C ? bovengeschreven h: schande</l>
 <l>Want gi die gracie hebt beijaget</l>
 <l>Dat got die ewelike vader</l>
 <l>Volgt vwer herten wille algader</l>
@@ -16712,7 +16693,7 @@
 <l>Verlisen. eist dat si volcomen</l>
 <l>Dit hebdi selue wel vernomen</l>
 <l>Bi horen seggene alsic wane</l>
-<l>Nochtandat ic v des vermane</l>
+<l>Nochtan dat ic v des vermane</l>
 <l>En mach nit schaden. want ic weet</l>
 <l>Al si di vrowe altoes gereet</l>
 <l>Te vorderne alle goede saken</l>
@@ -16789,8 +16770,8 @@
 <l>Die ons verwarf met harre trowen</l>
 <l>Dat wi ontkommert sijn van desen</l>
 <l>Gebenedijt so mot si wesen.</l>
-<l>Vandindat hare uertogt wart hare bouduins doet</l>
-<l>van barbenchon.</l>
+<l parse="ignore">Vandindat hare uertogt wart hare bouduins doet</l>
+<l parse="ignore">van barbenchon.</l>
 <l>.jx. Op enen tijt en stukkelkijn.</l>
 <l>Teuoren eer die maget fijn.</l>
 <l>Lutgart tes liues inde quam</l>
@@ -16857,8 +16838,8 @@
 <l>Geuestt. dat hi van sire baten</l>
 <l>Jt onderschit dat meeste goet</l>
 <l>Doe hi te hoge sinen moet</l>
-<l>Hem lit verheffen ommedatDat</l>
-<l>hi dat meesterschap besat</l>
+<l>Hem lit verheffen ommedat</l>
+<l>Dat hi dat meesterschap besat</l>
 <l>Gelijcdat men van selken lieden</l>
 <l>Mach merken. die hen so genieden</l>
 <l>Der eeren diese in haren dagen</l>
@@ -16947,8 +16928,8 @@
 <l>Onddekde iegen haren rowe</l>
 <l>Want si daerna in corten stonden</l>
 <l>Die dinc ter waerheit onderuonden</l>
-<l>Vandindat si ontdekte enen haren vrint</l>
-<l>hoegedaen si plach te beschowene gods anschin.</l>
+<l parse="ignore">Vandindat si ontdekte enen haren vrint</l>
+<l parse="ignore">hoegedaen si plach te beschowene gods anschin.</l>
 <l>.x. Hebdi vernomen hoe lutgart.</l>
 <l>Jn herte binnen was uerclart.</l>
 <l>Dat si die dinge die geschiden</l>
@@ -16981,7 +16962,7 @@
 <l>Want een die hem dis pinen wovde</l>
 <l>Al hadde hi alre tongen tale</l>
 <l>Nochtan en soude hi v nit wale</l>
-<l>mi is interlineair toegevoegd, hand C</l>
+<l parse="ignore">mi is interlineair toegevoegd, hand C</l>
 <l>Solueeren dis gi mi begrutt</l>
 <l>Mar got hi geue v dat gi moett</l>
 <l>Geraken. daer ghijt eewelike</l>
@@ -17021,9 +17002,9 @@
 <l>Dat irste licht. daerbinnen soeke</l>
 <l>Ende ic denghenen dis ic roeke</l>
 <l>Daer schowen waene; en uindics nit</l>
-<l>lees mijn</l>
-<l>eerste e verbeterd uit i; na de tweede e een e bovengeschreven, hand H: uisenteeren</l>
-<l>eerste n verbeterd uit g, lees benam</l>
+<l parse="ignore">lees mijn</l>
+<l parse="ignore">eerste e verbeterd uit i; na de tweede e een e bovengeschreven, hand H: uisenteeren</l>
+<l parse="ignore">eerste n verbeterd uit g, lees benam</l>
 <l>Dis doegic menech swar verdrit</l>
 <l>Ende ongedout groet utermaten</l>
 <l>Want wilde hi hem beschowen laten</l>
@@ -17142,7 +17123,7 @@
 <l>Opdat ghijs wilt en argument</l>
 <l>Een din gebrekt experiment</l>
 <l>Jnt herte binnen van kinnessen</l>
-<l>mester met door hand H bovengeschreven e: meester</l>
+<l parse="ignore">mester met door hand H bovengeschreven e: meester</l>
 <l>Hi heft ter gheesteliker lessen</l>
 <l>Die got met suten leerne vestt</l>
 <l>Der silen daer hi binnen restt</l>
@@ -17152,8 +17133,8 @@
 <l>Die kunst van ghesteliken saken</l>
 <l>Wat wondre das? want hets gescreuen</l>
 <l>Die lettre doedt. die gheest doet leuen.</l>
-<l>Vandindat ene stemme wart gesedt dar si lach</l>
-<l>die seide deliciemeeessecumfilijshominumhominum</l>
+<l parse="ignore">Vandindat ene stemme wart gesedt dar si lach</l>
+<l parse="ignore">die seide deliciemeeessecumfilijshominumhominum</l>
 <l>.xi. Hoert noch en bispel van der maget.</l>
 <l>Die godes minne int herte draget.</l>
 <l>Hoert wat ic v noch sal bedieden</l>
@@ -17180,10 +17161,10 @@
 <l>Mar so was meerre die mesquame</l>
 <l>Daermet gebonden was har leuen</l>
 <l>So meer die gheest was opgeheuen</l>
-<l>lees gesendt</l>
-<l>ouderdoelne waarin l uitgekrabd, lees ouderdoeme</l>
-<l>it door jongere hand gewijzigd in ec: Oec</l>
-<l>lees verminkt</l>
+<l parse="ignore">lees gesendt</l>
+<l parse="ignore">ouderdoelne waarin l uitgekrabd, lees ouderdoeme</l>
+<l parse="ignore">it door jongere hand gewijzigd in ec: Oec</l>
+<l parse="ignore">lees verminkt</l>
 <l>Tin schonen paradise wert</l>
 <l>Ende so was meer dat lijf vertert</l>
 <l>Van ouderdoeme ende onderbrachtt</l>
@@ -17287,7 +17268,7 @@
 <l>Hem seluen. ende ons allen mede</l>
 <l>Want die teuoren socht no rede</l>
 <l>Noch quale en dogde noch verdrit</l>
-<l>Sentdat hi hem geraden lit</l>
+<l>sent dat hi hem geraden lit</l>
 <l>Dat hi din appel biten wovde</l>
 <l>Heft hi gedogt hitte ende coude</l>
 <l>So doet hi honger ende dorst</l>
@@ -17348,7 +17329,7 @@
 <l>Oc sprekt si uoert hoe salechlike</l>
 <l>Hi leefde drieendedertech ijaer</l>
 <l>Sijn ongemac lanc ende suuar</l>
-<l>s verbeterd uit w; na soude nogmaals soude toegevoegd, hand P</l>
+<l parse="ignore">s verbeterd uit w; na soude nogmaals soude toegevoegd, hand P</l>
 <l>Dat hi verdroch dor onsen wille</l>
 <l>Beide oppenbarlike ende stille</l>
 <l>Jn sinen liue. aldaerteneuen</l>
@@ -17389,7 +17370,7 @@
 <l>Met corten warden die hi sprac</l>
 <l>Was scheppere alre creaturen</l>
 <l>Dat hi so sere hem lit tesuren</l>
-<l>prouic met door hand H bovengeschreven e: proeuic</l>
+<l parse="ignore">prouic met door hand H bovengeschreven e: proeuic</l>
 <l>Dat loessen werden van ons menschen</l>
 <l>Dat was litteeken dat sijn wenschen</l>
 <l>Ende sijn dedut. es hem genieden</l>
@@ -17422,14 +17403,14 @@
 <l>Dat igewelc van ons gebide</l>
 <l>Dat hi die gracie sonder inde</l>
 <l>Met gode in sinen rike vinde.</l>
-<l>Vandindat onse here te hare quam ende hare</l>
-<l>beual dat si dat si besech ware met drin dingen.</l>
+<l parse="ignore">Vandindat onse here te hare quam ende hare</l>
+<l parse="ignore">beual dat si dat si besech ware met drin dingen.</l>
 <l>.xij. Nv gawi voert ende ons gereeden.</l>
 <l>Die magt ten inde wert geleeden.</l>
 <l>Want si den inde nakende es</l>
 <l>Nv gawi dan ons pinen des</l>
 <l>Dat wise met gerechten loue</l>
-<l>hier beual gee"xpungeerd en doorgestreept, het volgende dat si overtollig</l>
+<l parse="ignore">hier beual gee"xpungeerd en doorgestreept, het volgende dat si overtollig</l>
 <l>Geleeden totes konings houe</l>
 <l>Darwert daer si nv henenvart</l>
 <l>Want ouereen wel es lutgart</l>
@@ -17566,8 +17547,8 @@
 <l>Aldos began der doet genaken</l>
 <l>Ende es ten inde wert gecregen</l>
 <l>Lutgar die maget welgedegen.</l>
-<l>Vandindat onse here. ende onse urowe te hare</l>
-<l>quamen. ende sise trosteden.</l>
+<l parse="ignore">Vandindat onse here. ende onse urowe te hare</l>
+<l parse="ignore">quamen. ende sise trosteden.</l>
 <l>.xiij. Int selue ijaer op enen tijt.</l>
 <l>So lach die magt gebenedijt.</l>
 <l>Ende een gebet beginnen soude</l>
@@ -17597,7 +17578,7 @@
 <l>Die si van beiden hadde ontfangen</l>
 <l>Ende oc en lit si dat verlangen</l>
 <l>Dat si verdroch nit ongeclaget</l>
-<l>lees Lutgart</l>
+<l parse="ignore">lees Lutgart</l>
 <l>Mar eer die welgerakde maget</l>
 <l>Ten inde quam van harre beden</l>
 <l>Her ihesus kerst die uan geneden</l>
@@ -17666,7 +17647,7 @@
 <l>Jc saelt v seggen. groten danc</l>
 <l>Gaf sijs hen beiden sonder want</l>
 <l>Met vrien wille ende sonder sparen</l>
-<l>Sentdat si denen sijn geuaren</l>
+<l>sent dat si denen sijn geuaren</l>
 <l>Daer si ne letten lange nit</l>
 <l>Maer watter sent es na geschit</l>
 <l>Dat segt die bruder die bescreef</l>
@@ -17679,8 +17660,8 @@
 <l>Uan haren dingen die secreten</l>
 <l>Dat was sybilie die ijonfrowe</l>
 <l>Want sise vant altoes getrowe.</l>
-<l>lees tide</l>
-<l>lees wanc</l>
+<l parse="ignore">lees tide</l>
+<l parse="ignore">lees wanc</l>
 <l>Verholenlike ende oppenbare</l>
 <l>Daeromme lit sijt weten hare.</l>
 <l>Ende ander menech goet bispel</l>
@@ -17693,8 +17674,8 @@
 <l>Ende oc plach si bi haren rade</l>
 <l>Te werkene alse in dat latijn</l>
 <l>Ons doet verstaen die jacobijn</l>
-<l>Vandindat onse urowe ende sente ijan baptiste</l>
-<l>quamen visiteren.</l>
+<l parse="ignore">Vandindat onse urowe ende sente ijan baptiste</l>
+<l parse="ignore">quamen visiteren.</l>
 <l>.xiiij. Doe noch die maget welgerakt.</l>
 <l>En lettelkijn bat was genakt.</l>
 <l>Der vren van des liues inde</l>
@@ -17804,7 +17785,7 @@
 <l>Owi hoe blide was die moet.</l>
 <l>Der vrowen doe si dat verstoet</l>
 <l>Wi soud v wel met corter spraken</l>
-<l>lees Staet</l>
+<l parse="ignore">lees Staet</l>
 <l>Di vrowde mogen cont gemaken</l>
 <l>Die si geuulde . sijt gewes</l>
 <l>Dat mi telanc te toegene es</l>
@@ -17845,8 +17826,8 @@
 <l>Dos heft lutgart getermineert</l>
 <l>Die questie; mar die disputeert</l>
 <l>Op die scrifturen ghi nemt ware</l>
-<l>lees disputeerne</l>
-<l>lees hi</l>
+<l parse="ignore">lees disputeerne</l>
+<l parse="ignore">lees hi</l>
 <l>Of sise wel ende oppenbare</l>
 <l>Solueerde. ijasi sonder waen</l>
 <l>Want die scrifture ons doet verstaen</l>
@@ -17860,8 +17841,8 @@
 <l>Dat ons die eewelike schijn</l>
 <l>Verclare. ende ons dat lange leuen</l>
 <l>Na dit vergaende si gegeuen</l>
-<l>Vandindat si din nonnen vorseide dat si na hare</l>
-<l>doet geplagt souden siin ende warumme.</l>
+<l parse="ignore">Vandindat si din nonnen vorseide dat si na hare</l>
+<l parse="ignore">doet geplagt souden siin ende warumme.</l>
 <l>.xv. Tijn tiden dat lutgart die vrowe.</l>
 <l>Van allen leede ende allen rowe.</l>
 <l>Jn corden dagen soude wesen.</l>
@@ -17886,9 +17867,9 @@
 <l>Hoert hare hoe nv kastijen sal</l>
 <l>U. die de werelt hebt gelaten</l>
 <l>Ende v den dinst van karitaten</l>
-<l>lees corten</l>
-<l>lees toeuen</l>
-<l>lees vtuerkoren</l>
+<l parse="ignore">lees corten</l>
+<l parse="ignore">lees toeuen</l>
+<l parse="ignore">lees vtuerkoren</l>
 <l>Onssinken laett. ende v uerwegen</l>
 <l>Lutgart die maget welgedegen</l>
 <l>Gi vrowen sprac die fine maget</l>
@@ -17917,8 +17898,8 @@
 <l>Des geldens. die nochtan genieten</l>
 <l>Der karitaten van hirbinnen</l>
 <l>Selke andre laten hen verwinnen</l>
-<l>Met treger ufeningen soDat</l>
-<l>si din uiant maken vro</l>
+<l>Met treger ufeningen so</l>
+<l>Dat si din uiant maken vro</l>
 <l>Met haren gheldene ende blide</l>
 <l>Want roekelose in allen tide</l>
 <l>So ghelden si dat gods gelage</l>
@@ -17929,9 +17910,9 @@
 <l>Dat wi onss selues altemale</l>
 <l>Vertijen. ende ons binden daer</l>
 <l>Met allen din si licht si suar</l>
-<l>lees Uerdregen</l>
-<l>lees onlost</l>
-<l>werscap met door hand C ? bovengeschreven h: werschap</l>
+<l parse="ignore">lees Uerdregen</l>
+<l parse="ignore">lees onlost</l>
+<l parse="ignore">werscap met door hand C ? bovengeschreven h: werschap</l>
 <l>Dat in die regele es gescreuen</l>
 <l>Die dan in clostre hen begeuen</l>
 <l>Om dat ghewin van harre baten</l>
@@ -17973,7 +17954,7 @@
 <l>Uan derre abdijen. dat so swar</l>
 <l>Sal wesen. dat ghijs alle vaer</l>
 <l>Selt hebben beide ijonge ende oude</l>
-<l>vader met door hand H bovengeschreven e: vaeder</l>
+<l parse="ignore">vader met door hand H bovengeschreven e: vaeder</l>
 <l>Want vwer alre es die schoude</l>
 <l>Uan derre wraken. mar gotdanc</l>
 <l>Dit blijft in uersten euen lanc</l>
@@ -18014,9 +17995,9 @@
 <l>Din godes dinst en hadden nit</l>
 <l>Uergouden. ende alse ons beghit</l>
 <l>Der vrowen vite. in corten dagen</l>
-<l>lees radic</l>
-<l>lees biddic</l>
-<l>si ten onrechte gee"xpungeerd en in de marge vervangen door sijnt , hand F</l>
+<l parse="ignore">lees radic</l>
+<l parse="ignore">lees biddic</l>
+<l parse="ignore">si ten onrechte gee"xpungeerd en in de marge vervangen door sijnt , hand F</l>
 <l>So storuen uan der seluer plagen</l>
 <l>Der vrowen .xii. ende meer</l>
 <l>Dis doegden ijammer ende seer</l>
@@ -18066,8 +18047,8 @@
 <l>Was uan din vrowen ende wale</l>
 <l>Gekorrigeert die suare exces</l>
 <l>Daer noch af geseget es</l>
-<l>Vandindat si enen haren vrint verdingde met</l>
-<l>beden iegen gode.</l>
+<l parse="ignore">Vandindat si enen haren vrint verdingde met</l>
+<l parse="ignore">beden iegen gode.</l>
 <l>.xvj. Nu si wi bi den inde comen.</l>
 <l>Uan derre viten daer v somen.</l>
 <l>Masschin na langet. mar nochtan</l>
@@ -18098,8 +18079,8 @@
 <l>Uan hem dat sider es geschit</l>
 <l>Dat was dat hi bi gods gedoege</l>
 <l>Hem werpen sovde in selken poege</l>
-<l>Warbidat hi der gods genaden</l>
-<l>dats waarin s uitgekrabd en interlineair vervangen door es, andere gelijktijdige hand</l>
+<l>War bi dat hi der gods genaden</l>
+<l parse="ignore">dats waarin s uitgekrabd en interlineair vervangen door es, andere gelijktijdige hand</l>
 <l>Verboeren soude. ende hem verladen</l>
 <l>Met sonden meer dan int geuoech</l>
 <l>Des heuet hem teuoren gnoch</l>
@@ -18269,7 +18250,7 @@
 <l>Van sire ontfarmeliker schaden</l>
 <l>Hi heft lutgarden hirteneuen</l>
 <l>Din spoet van biddene echt ontgeuen</l>
-<l>hi in de marge ter vervanging van uitgekrabd si , hand C</l>
+<l parse="ignore">hi in de marge ter vervanging van uitgekrabd si , hand C</l>
 <l>Want noch deuotie groet no clene</l>
 <l>Noch en verclarde har herte rene</l>
 <l>Noch troest en gaf noch toeuerlaet</l>
@@ -18282,7 +18263,7 @@
 <l>Die ouerdaet. mar des began</l>
 <l>Meshagen vtermaten sere</l>
 <l>Lutgarden. want si noit ere</l>
-<l>Sentdat si je geboren wart</l>
+<l>sent dat si je geboren wart</l>
 <l>So ongenadech noch so hart</l>
 <l>Din hogsten iuge en hadde vonden</l>
 <l>Dos bleef die mensche noch gebonden</l>
@@ -18309,9 +18290,9 @@
 <l>Geweldech got almechtech vader</l>
 <l>Sprac si din wiken moet algader</l>
 <l>Dat leeft. ende dat ontleuende es</l>
-<l>clene met door hand H bovengeschreven e: cleene</l>
-<l>rene met door hand H bovengeschreven e: reene</l>
-<l>lees Wart</l>
+<l parse="ignore">clene met door hand H bovengeschreven e: cleene</l>
+<l parse="ignore">rene met door hand H bovengeschreven e: reene</l>
+<l parse="ignore">lees Wart</l>
 <l>Ende die ne wett engheen gemes</l>
 <l>Jn allen dingen die gi doet</l>
 <l>Want gi sijt mechtech ende vroet</l>
@@ -18413,8 +18394,8 @@
 <l>Van bedene. ende weder al</l>
 <l>Die gracie meerre dan teuoren</l>
 <l>Lange in hem seluen was verloren.</l>
-<l>Vandindat si bleef sic liggende ende dat se dabt</l>
-<l>van haffelghem quam visiteren</l>
+<l parse="ignore">Vandindat si bleef sic liggende ende dat se dabt</l>
+<l parse="ignore">van haffelghem quam visiteren</l>
 <l>.xvij. Nv si wi comen toten tide.</l>
 <l>Dat got lutgarden makde blide</l>
 <l>Daerbouen in sijn paradijs</l>
@@ -18430,8 +18411,8 @@
 <l>En laettijs v verwassen nit</l>
 <l>Hoe si van derre werelt schit</l>
 <l>Mar ic kaitijf hoe salic dorren</l>
-<l>algemene met door hand H bovengeschreven e: algemeene</l>
-<l>voor de regel in de marge die , hand P ?</l>
+<l parse="ignore">algemene met door hand H bovengeschreven e: algemeene</l>
+<l parse="ignore">voor de regel in de marge die , hand P ?</l>
 <l>Met dichtene uppen ende porren</l>
 <l>Dat henenvaren van der maget</l>
 <l>Ellendech man wats mi bedaget</l>
@@ -18598,8 +18579,8 @@
 <l>Daeromme salic soeken doch</l>
 <l>En lettel versten. ende noch</l>
 <l>Ene ander dinc teuoren tellen</l>
-<l>clene met door hand H bovengeschreven e: cleene</l>
-<l>lees verniwen</l>
+<l parse="ignore">clene met door hand H bovengeschreven e: cleene</l>
+<l parse="ignore">lees verniwen</l>
 <l>Eer ic mi seluen ga uerquellen</l>
 <l>Met seggene hoe si henenschit</l>
 <l>En laettijs v verwassen nit</l>
@@ -18641,7 +18622,7 @@
 <l>En danken hebdi wel verdint</l>
 <l>Dat ghi mi hebt gewagen des</l>
 <l>Mar van den here ic ben gewes</l>
-<l>lees haffelghem</l>
+<l parse="ignore">lees haffelghem</l>
 <l>Dis comste ic emmertoe begere</l>
 <l>Dat hi sal margen comen haere</l>
 <l>Ende orlof nemen ane mj</l>
@@ -18683,7 +18664,7 @@
 <l>Taiwires bouen an dat uelt</l>
 <l>Van waure wert al sinen telt</l>
 <l>Die abt. ende al sijn ingesinde</l>
-<l>wgen met door hand C tussen w en g bovengeschreven l, dus ten onrechte gei"nterpreteerd als volgen, cf. onghewge</l>
+<l parse="ignore">wgen met door hand C tussen w en g bovengeschreven l, dus ten onrechte gei"nterpreteerd als volgen, cf. onghewge</l>
 <l>Mar dis hi so van herten minde</l>
 <l>Die maget dat hi gerne quam</l>
 <l>Daer hise vant. din wech hi nam</l>
@@ -18766,8 +18747,8 @@
 <l>Alsic van desen liue scheede</l>
 <l>Darwert te uaerne ic mi gereede</l>
 <l>Mijn sute vrint dat si v cont</l>
-<l>Uerlisen met door hand H bovengeschreven e: Uerliesen</l>
-<l>affligem met door hand H bovengeschreven h: afflighem</l>
+<l parse="ignore">Uerlisen met door hand H bovengeschreven e: Uerliesen</l>
+<l parse="ignore">affligem met door hand H bovengeschreven h: afflighem</l>
 <l>Want nv genaket es die stont</l>
 <l>Dat mi van commere ende seere</l>
 <l>Sal absolueren got die here</l>
@@ -18810,12 +18791,12 @@
 <l>Willic v maken oc gewes</l>
 <l>Dat mensche in erterike en es</l>
 <l>No man no wijf die koule dreget</l>
-<l>Agnesen met door hand H bovengeschreven e: Agneesen</l>
+<l parse="ignore">Agnesen met door hand H bovengeschreven e: Agneesen</l>
 <l>Daer mi dat scheeden af verweget</l>
 <l>Gelijc van v. want sekerlike</l>
 <l>Verstaet dat ic in erterike</l>
 <l>En late lieuer creature</l>
-<l>Dan v. want sentdat gi die cure</l>
+<l>Dan v. want sent dat gi die cure</l>
 <l>Gedregen hebt uan minen liue</l>
 <l>So es wel recht dat ic v bliue</l>
 <l>Te urinder das. noch willic v</l>
@@ -18854,7 +18835,7 @@
 <l>Nochtan magic mijn ongeual</l>
 <l>Met allen rechte wel beclagen</l>
 <l>Dat mi kaitiuen sal bedagen</l>
-<l>lees beghiet</l>
+<l parse="ignore">lees beghiet</l>
 <l>Alsic die iegenwerdechheide</l>
 <l>Van v verliese. opdat die beide</l>
 <l>Jt lange durt die mi van v</l>
@@ -18896,7 +18877,7 @@
 <l>Dat het so lange si verdaget</l>
 <l>Dat si dit louic sprac die maget</l>
 <l>Alse v dit leuen sal ontgaen</l>
-<l>lees visiteren</l>
+<l parse="ignore">lees visiteren</l>
 <l>So salic comen ende ontfaen</l>
 <l>Din gheest van v in mijn geleide</l>
 <l>Ende v sal wren daer wi beide</l>
@@ -18948,8 +18929,8 @@
 <l>Dos es gescheeden uan der vrowen</l>
 <l>Uersuart uan commerliken sere</l>
 <l>Dis dags van haffelghem die here.</l>
-<l>Vandindat si uan erterike schit ende op welken</l>
-<l>tijt.</l>
+<l parse="ignore">Vandindat si uan erterike schit ende op welken</l>
+<l parse="ignore">tijt.</l>
 <l>.xviij. Nv es die abt enwechgeuaren.</l>
 <l>Nv laett ons kiren daer wi waren.</l>
 <l>Eer wi dit dicht uan hem begonnen.</l>
@@ -18982,7 +18963,7 @@
 <l>Si quamen in. si gingen vt</l>
 <l>Al dat lutgarden it te vromen</l>
 <l>Ochte it te baten mochte comen</l>
-<l>lees nv</l>
+<l parse="ignore">lees nv</l>
 <l>Dat was met staden so gedaen</l>
 <l>Dags elke en danken heft ontfaen</l>
 <l>Want elke wassertoe gereet</l>
@@ -19025,7 +19006,7 @@
 <l>Hir sitten. want ic ende ghi</l>
 <l>Saen terre werelt scheeden selen</l>
 <l>Daeromme willic v beuelen</l>
-<l>lees Dats</l>
+<l parse="ignore">lees Dats</l>
 <l>Den hogsten coninc onsen here</l>
 <l>Die met hem seluen emmermere</l>
 <l>Motu uergelden al dat goet</l>
@@ -19068,7 +19049,7 @@
 <l>So sprac die vrowe het es nu gnoch</l>
 <l>Sibilie laett v droeuen staen</l>
 <l>Al motic van v scheeden saen</l>
-<l>lees Daer</l>
+<l parse="ignore">lees Daer</l>
 <l>Ende v begeuen metten liue</l>
 <l>Ochtic v metter silen bliue</l>
 <l>Getrower dan ic was teuoren</l>
@@ -19151,7 +19132,7 @@
 <l>Hars siens no meer no min verloren</l>
 <l>So schit die sile in godes name</l>
 <l>Ende ongestoert. van din lichame</l>
-<l>lees verlijt</l>
+<l parse="ignore">lees verlijt</l>
 <l>Ende es geuaren met geleide</l>
 <l>Der ingle ende der sante beide</l>
 <l>Die daer van godes haluen waren</l>
@@ -19195,7 +19176,7 @@
 <l>Met stemmen clar ende onbeduongen</l>
 <l>Ende alle teenengader songen</l>
 <l>En liet dat pulchrafacie</l>
-<l>Beghint. sedpulchriorfide</l>
+<l>Beghint. sed pulchrior fide</l>
 <l>Dat songen si der vrowen teeren</l>
 <l>Oc quamen voert die werde heeren</l>
 <l>Die gods apostlen al gemeene</l>
@@ -19230,7 +19211,7 @@
 <l>Want hi der maget utuerkoren</l>
 <l>Van willecomen was so riue</l>
 <l>Dat mensche en quam in desen liue</l>
-<l>Sentdat die werelt got geboet</l>
+<l>sent dat die werelt got geboet</l>
 <l>Die al bescriuen mochte hoe groet</l>
 <l>Die feeste was ende dat dedvt</l>
 <l>Daer got lutgarden sire brut</l>
@@ -19254,8 +19235,8 @@
 <l>Dat igewelc van ons gebide</l>
 <l>Dat hi ter eeweliker vromen</l>
 <l>Ten ijoncsten dage mote comen</l>
-<l>Vandindat die lichame slecht ende onbeulect was.</l>
-<l>doe si verscheden was</l>
+<l parse="ignore">Vandindat die lichame slecht ende onbeulect was.</l>
+<l parse="ignore">doe si verscheden was</l>
 <l>.xix. Nv es der silen wel geplogen.</l>
 <l>Want sijs ter rasten wert geulogen.</l>
 <l>Daer si der blischap sonder inde</l>
@@ -19311,7 +19292,7 @@
 <l>Dat hi noch dogde. merken woude</l>
 <l>Groet wonder hem dis hebben soude</l>
 <l>Dat got din doden liue gaf</l>
-<l>Sentdat die gheest verschit daeraf</l>
+<l>sent dat die gheest verschit daeraf</l>
 <l>Dat cume leuende enech man</l>
 <l>Ochte enech wijf behouden can</l>
 <l>Dat was uan ijogden die gedane</l>
@@ -19341,7 +19322,7 @@
 <l>Daer liggen. dochte al oppenbare</l>
 <l>Dat si dis lijfs in inne ware</l>
 <l>Bat dan si wilen was teuoren</l>
-<l>Wat wondre; want sentdat geboren</l>
+<l>Wat wondre; want sent dat geboren</l>
 <l>Die maget wart in erterike</l>
 <l>So darr ic mi wel sekerlike</l>
 <l>Vermeten das dat si nontfinc</l>
@@ -19384,9 +19365,9 @@
 <l>Dat met lutgarden eewelike</l>
 <l>Jnt onuerganghelike leuen</l>
 <l>Ons die possessie si gegeuen</l>
-<l>Vandindat en wijf genas van haren minxle do si</l>
-<l>din lichame halp dvaen.</l>
-<l>.xx. Sentdat ic v van din lichame.</l>
+<l parse="ignore">Vandindat en wijf genas van haren minxle do si</l>
+<l parse="ignore">din lichame halp dvaen.</l>
+<l>.xx. sent dat ic v van din lichame.</l>
 <l>Gewagen hebbe. eist v bequame.</l>
 <l>So salic noch en lettelkijn</l>
 <l>Uertrekken. dis in dat latijn</l>
@@ -19401,7 +19382,7 @@
 <l>Doe si uerschit van desen liue</l>
 <l>Nv hoert uan enen doeden wiue</l>
 <l>Mirakle ende wonder groet</l>
-<l>Tirstdat lutgarden hir die doet</l>
+<l>tirst dat lutgarden hir die doet</l>
 <l>Ontkommert hadde. ende sonder leuen</l>
 <l>Was die lichame allene bleuen</l>
 <l>So quamen brudere ende nonnen</l>
@@ -19519,8 +19500,8 @@
 <l>Daer ghi der eeweliker uromen</l>
 <l>Teuollen plege nu ghesmakt</l>
 <l>Al benic quaet ende ongerakt</l>
-<l>Nochtan so dankic v vandinDat</l>
-<l>ghi so schire ende onuersin</l>
+<l>Nochtan so dankic v vandin</l>
+<l>Dat ghi so schire ende onuersin</l>
 <l>Vwe oueruloedege edelheit</l>
 <l>Ghemeene al metter mogentheit</l>
 <l>Die ghi daerbouen hebt ghewonnen</l>
@@ -19532,7 +19513,7 @@
 <l>Met blider herten sonder wanc</l>
 <l>Lof gauen ende groten danc</l>
 <l>Die dor lutgarden eeren wille</l>
-<l>lees geuouden</l>
+<l parse="ignore">lees geuouden</l>
 <l>Al ongebeden. ende al stille</l>
 <l>Gesuegen. gaf dat si begerde</l>
 <l>Din wiue. ende oc quam die nimerde</l>
@@ -19551,11 +19532,11 @@
 <l>Ter herten alremeest ghereen</l>
 <l>Dit was der irster teekene een</l>
 <l>Daer ons te dichtene aue lit</l>
-<l>Materie. sentdat si verschit</l>
+<l>Materie. sent dat si verschit</l>
 <l>Ende es terasten wert gecregen</l>
 <l>Lutgart die maget welgedegen</l>
-<l>Hoe die lichame ter erden wart gedaen ende waer</l>
-<l>si begrauen legt.</l>
+<l parse="ignore">Hoe die lichame ter erden wart gedaen ende waer</l>
+<l parse="ignore">si begrauen legt.</l>
 <l>.xxi. Nv gawi voert ende ons gereiden.</l>
 <l>Ter sepulturen wert geleiden.</l>
 <l>Dat lijc daer wi nv dichten aue</l>
@@ -19574,7 +19555,7 @@
 <l>Selke in den kerkhof buten. want</l>
 <l>Die clostersede also ghedroech;</l>
 <l>Ende oc met groter eeren gnoch</l>
-<l>gnoch met door hand H bovengeschreven e: gnoech</l>
+<l parse="ignore">gnoch met door hand H bovengeschreven e: gnoech</l>
 <l>Die gauen desen raet hen dochte</l>
 <l>Dat men lutgarden leggen mochte</l>
 <l>Mettin ijonfrowen van daerbinnen</l>
@@ -19617,7 +19598,7 @@
 <l>Dat si verworpenlike lage</l>
 <l>Begrauen alsen ander wijf</l>
 <l>Mar ochte en mensche die sijn lijf</l>
-<l>lees corten</l>
+<l parse="ignore">lees corten</l>
 <l>Jn cranken wesene heft vertert</l>
 <l>Met selken lieden es so wert</l>
 <l>Ochte inpetreert met cleenre hauen</l>
@@ -19699,8 +19680,8 @@
 <l>Daer legt die gods gebenedijde</l>
 <l>Daer legt die magt van hogen name</l>
 <l>Daer restt lutgart die so bequame</l>
-<l>lees genugen</l>
-<l>concorderden met door hand H bovengeschreven e: concordeerden</l>
+<l parse="ignore">lees genugen</l>
+<l parse="ignore">concorderden met door hand H bovengeschreven e: concordeerden</l>
 <l>Din hogsten coninc was ende es</l>
 <l>Dat hijs hen allen doet ghewes</l>
 <l>Die helpe suken noch an hare</l>
@@ -19735,23 +19716,23 @@
 <l>Na dit vergangelike leuen</l>
 <l>Don igewelken die se minde</l>
 <l>Die lange blischap sonder inde.</l>
-<l>Vandindat si bruder damase vorseide welken</l>
-<l>vinger hi behouden soude uan hare</l>
+<l parse="ignore">Vandindat si bruder damase vorseide welken</l>
+<l parse="ignore">vinger hi behouden soude uan hare</l>
 <l>Der vrowen vite hebbic bescreuen.</l>
 <l>Na die materie die gegeuen.</l>
 <l>Mi was uan hare in din latine</l>
 <l>Nv hebdi dire exempelkine</l>
 <l>Van harre uiten gnoch gehoert</l>
-<l>lees wanc</l>
+<l parse="ignore">lees wanc</l>
 <l>Nv gawi dan tracteren uoert</l>
-<l>Uan dingen die geschiden siderDat</l>
-<l>ons der gods gebenedider</l>
+<l>Uan dingen die geschiden sider</l>
+<l>Dat ons der gods gebenedider</l>
 <l>Na desen leuene hir gebrac</l>
 <l>Ende een exempel dat vertrac</l>
 <l>Van hem die wise predekare</l>
 <l>Laett ons volbrengen. hoe uan hare</l>
 <l>En vinger hem tehanden quam</l>
-<l>Sentdat die maget inde nam</l>
+<l>sent dat die maget inde nam</l>
 <l>Want bi miraclen es geschit</l>
 <l>Die dinc. daeromme en willic nit</l>
 <l>Datt onuertrokken achterbliue</l>
@@ -19782,7 +19763,7 @@
 <l>Taiwires wert die godes deghen</l>
 <l>Die gode man die iacobijn</l>
 <l>Daer heft hi van den wille sijn</l>
-<l>godes waarin s uitgekrabd en door hand H een e bovengeschreven: goede</l>
+<l parse="ignore">godes waarin s uitgekrabd en door hand H een e bovengeschreven: goede</l>
 <l>Din raet verholenlike ontdekt</l>
 <l>Ende alse in bichten al vertrekt</l>
 <l>Hen somen die der vrowen waren</l>
@@ -19865,7 +19846,7 @@
 <l>Ende dese antwerde weder brachtt</l>
 <l>Ende seide. nu vernemic wel</l>
 <l>Dat wiues tonghe es alte snel</l>
-<l>lees Mijn</l>
+<l parse="ignore">lees Mijn</l>
 <l>Ende harre spraken alte riue</l>
 <l>Daeromme es sot die enen wiue</l>
 <l>Geloeft te uerre. ende iwent segt</l>
@@ -19907,7 +19888,7 @@
 <l>Wel mindren pant uan mi genugen</l>
 <l>Want v mijn hoft en soude uugen</l>
 <l>Nit wel te dragene achter lande</l>
-<l>vers 4671 achter 4670 op dezelfde regel toegevoegd, hand C, andere inkt</l>
+<l parse="ignore">vers 4671 achter 4670 op dezelfde regel toegevoegd, hand C, andere inkt</l>
 <l>Dis motti v met mindren pande</l>
 <l>Gepaijt houden. dat sal wesen</l>
 <l>Dat minste vingerkijn uan desen</l>
@@ -19993,7 +19974,7 @@
 <l>Nv hoert hoe hijs beginnen sal</l>
 <l>Al mach hijs lichte noch gemessen</l>
 <l>Hi ginc met staden dire abdessen</l>
-<l>tweede e in werd verbeterd uit a en tussen i en g een e bovengeschreven, hand C: iegenwerdech</l>
+<l parse="ignore">tweede e in werd verbeterd uit a en tussen i en g een e bovengeschreven, hand C: iegenwerdech</l>
 <l>Ontdekken hoe lutgart die fine</l>
 <l>Uan haren minsten uingerkine</l>
 <l>Har testament hadde so gemakt</l>
@@ -20079,10 +20060,10 @@
 <l>Verlaten. ende es comen voert</l>
 <l>Daer hi sal wesen bat gehoert</l>
 <l>Masschin dan hi teuoren was</l>
-<l>Want tirstdat hi der vrowen das</l>
+<l>Want tirst dat hi der vrowen das</l>
 <l>Te biddene ochter heft begonnen</l>
-<l>lees biddic</l>
-<l>lees echter</l>
+<l parse="ignore">lees biddic</l>
+<l parse="ignore">lees echter</l>
 <l>Dat si dis vingers hem wilde onnen</l>
 <l>Daer so sijn wille op was veruloten</l>
 <l>Heft hem tehant die vrowe onsloten</l>
@@ -20162,8 +20143,8 @@
 <l>Die vite. nadat hem verlijde</l>
 <l>Hars selues wesen. dire hem gaf</l>
 <l>Materie vrai uan dichtene af.</l>
-<l>Vandindat si ere vrowen oppenbart wart in</l>
-<l>uisione ende ene nonne hare volgen hit</l>
+<l parse="ignore">Vandindat si ere vrowen oppenbart wart in</l>
+<l parse="ignore">uisione ende ene nonne hare volgen hit</l>
 <l>.xxiij. Nv restt die magt van hogen prise</l>
 <l>Daerbouen in din paradise.</l>
 <l>Ende emmermeer regneren sal</l>
@@ -20297,7 +20278,7 @@
 <l>Daer hebbic al dat ic begere</l>
 <l>Daer comc mi toe alsonder were</l>
 <l>Dat hogste goet van allen sinnen</l>
-<l>lees comt</l>
+<l parse="ignore">lees comt</l>
 <l>Den hogsten louen ende minnen</l>
 <l>Met allen santen eewelike</l>
 <l>Dats mijn ambacht in hemelrike</l>
@@ -20322,7 +20303,7 @@
 <l>Ende hare onsalechheit bekarmen</l>
 <l>Began mi hars so sere ontfarmen</l>
 <l>Dat icse sechhende altehant</l>
-<l>Warbidat icker vele ontbant</l>
+<l>War bi dat icker vele ontbant</l>
 <l>Van groter pinen daer se in waren</l>
 <l>Die alle sijn met mi geuaren</l>
 <l>Ter feesten wert van ghinderbouen</l>
@@ -20339,7 +20320,7 @@
 <l>Dos hit die nonne. ende oc was si</l>
 <l>Van ijaren kinsch ende ongedagt</l>
 <l>Die hare volgen hit die magt</l>
-<l>wilen met door hand H bovengeschreven e: wielen</l>
+<l parse="ignore">wilen met door hand H bovengeschreven e: wielen</l>
 <l>Mar doe ver ysabeel die vrowe</l>
 <l>Dat hoerde. en lettelkijn van rowe</l>
 <l>Har herte binnen wart besuart</l>
@@ -20381,7 +20362,7 @@
 <l>Al in din drome. ende eer die danc</l>
 <l>Was al volcomen. so onspranc</l>
 <l>Ver ysaeel . ende oc lutgart</l>
-<l>lees ysabeel</l>
+<l parse="ignore">lees ysabeel</l>
 <l>Vor weder op te hemele wart</l>
 <l>Dos es dat vision volcomen</l>
 <l>Mar hoe men sider heft vernomen</l>
@@ -20394,7 +20375,7 @@
 <l>Die in din closter wart begeuen</l>
 <l>Tin tide. ende ochtic hirteneuen</l>
 <l>.V. segge waer so volgeds mi</l>
-<l>Sentdat lutgart die maget vri</l>
+<l>sent dat lutgart die maget vri</l>
 <l>Die ijonge nonne hit uolgen hare</l>
 <l>So segt die vite al oppenbare</l>
 <l>Ende ons die vrowen noch uerlijen</l>
@@ -20419,13 +20400,13 @@
 <l>Met uolre blischap sonder seer</l>
 <l>Soude eeren. werden. ende louen</l>
 <l>Den hogsten coninc ginderbouen</l>
-<l>Van der wraken dar si af hadde geprofeteert ende</l>
-<l>hoe si gestilt wart.</l>
+<l parse="ignore">Van der wraken dar si af hadde geprofeteert ende</l>
+<l parse="ignore">hoe si gestilt wart.</l>
 <l>.xxiiij. Tintidendat lutgart die urowe.</l>
 <l>Hadde ouerleden allen rowe.</l>
 <l>Ende si ter eeweliker vromen</l>
-<l>lees geuolget</l>
-<l>in de marge, hand N: Soude eeren an</l>
+<l parse="ignore">lees geuolget</l>
+<l parse="ignore">in de marge, hand N: Soude eeren an</l>
 <l>Was met volmakder eeren comen</l>
 <l>Daer si na pogde manech ijaer</l>
 <l>So wart die profecije waer</l>
@@ -20466,7 +20447,7 @@
 <l>Die oc der wraken hadde ontfaen</l>
 <l>En migel deel. dat sonder waen</l>
 <l>Lutgarden bede soude wesen</l>
-<l>lees gegheecelt</l>
+<l parse="ignore">lees gegheecelt</l>
 <l>Warbi dis ongeuals genesen</l>
 <l>Die closter soude in corten tide</l>
 <l>Ende dat die gods gebenedide</l>
@@ -20509,8 +20490,8 @@
 <l>Helpt mi lutgart vt derre noet</l>
 <l>En doedijs nit ic bliue hir doet</l>
 <l>Doe dese clage was gedaen</l>
-<l>lees nacht</l>
-<l>katiue met door hand C ? bovengeschreven i: kaitiue</l>
+<l parse="ignore">lees nacht</l>
+<l parse="ignore">katiue met door hand C ? bovengeschreven i: kaitiue</l>
 <l>So sach si voert dat quam gegaen</l>
 <l>Lutgart die vrouue ut haren graue</l>
 <l>Wel gewarneert met enen staue</l>
@@ -20541,7 +20522,7 @@
 <l>Die dat gheruchte maken daer</l>
 <l>Die wrake horribel ende suaer</l>
 <l>Bedidde wel terechte. want</l>
-<l>Sentdat lutgart hare onderwant</l>
+<l>sent dat lutgart hare onderwant</l>
 <l>Dat wreede uolc met haren staue</l>
 <l>Te ijagenevt. daer wi nv aue</l>
 <l>Din droem bedieden. so ne was</l>
@@ -20552,13 +20533,13 @@
 <l>Die daerteuoren so teblowen</l>
 <l>Geweset hadden. weder alle</l>
 <l>Genasen van din ongeualle.</l>
-<l>Vandindat beatrijs van rauia genas bi harre cracht</l>
-<l>van enen gesuelle.</l>
+<l parse="ignore">Vandindat beatrijs van rauia genas bi harre cracht</l>
+<l parse="ignore">van enen gesuelle.</l>
 <l>.xxv. Eer wi dit dichten nederleggen.</l>
 <l>Willic met corten warden seggen.</l>
 <l>Hoe vrindelike in staden stoet</l>
 <l>Die maget edel ende goet</l>
-<l>Sentdat si schit van erterike</l>
+<l>sent dat si schit van erterike</l>
 <l>Hen allen die getrowelike</l>
 <l>Hare helpe sochten. ende op hare</l>
 <l>Kraijrden stille ochte oppenbare</l>
@@ -20599,7 +20580,7 @@
 <l>Der nonnen dire ic doe gewach</l>
 <l>En groet gesuel uerheuen lach</l>
 <l>Omtrent den hals op enen tijt</l>
-<l>Sentdat die magt gebenedijt</l>
+<l>sent dat die magt gebenedijt</l>
 <l>Gescheeden was van desen liue</l>
 <l>Nv hoert eer ic v voert bescriue</l>
 <l>Van din exemple din proces</l>
@@ -20637,8 +20618,8 @@
 <l>Der groter vreesen die gelach</l>
 <l>An dat gesuel dat men ne mach</l>
 <l>Met cirurgijen nit verijagen</l>
-<l>lees wokert</l>
-<l>lees ilanc</l>
+<l parse="ignore">lees wokert</l>
+<l parse="ignore">lees ilanc</l>
 <l>Began si karmen ende clagen</l>
 <l>Ende driuen ijammer harde groet</l>
 <l>Want sireaf waende bliuen doet</l>
@@ -20657,7 +20638,7 @@
 <l>Lutgart die vrowe. in corter stont</l>
 <l>Genesen sijn ende al gesont</l>
 <l>Nv hoert miracle ende wonder</l>
-<l>Tirstdat si din antraes hadde onder</l>
+<l>tirst dat si din antraes hadde onder</l>
 <l>Din wijl bedekt . ende hi genakt</l>
 <l>Was din gesuelle; alse ons wel makt</l>
 <l>Die vite cont. ende ons uerkinnen</l>
@@ -20722,8 +20703,8 @@
 <l>Sodats in sinen prise was</l>
 <l>Wel vaste isent in allen tide</l>
 <l>Lutgart die gods gebenedijde.</l>
-<l>Vandindat ere nonnen die hoftsuere wart gesachtt</l>
-<l>ende hoe si uan ere quetchingen genas</l>
+<l parse="ignore">Vandindat ere nonnen die hoftsuere wart gesachtt</l>
+<l parse="ignore">ende hoe si uan ere quetchingen genas</l>
 <l>.xxvj. Noch van ere andre es gescreuen.</l>
 <l>Die oc daerbinnen was begeuen.</l>
 <l>Ende oc ver ode was genamt</l>
@@ -20795,7 +20776,7 @@
 <l>Jn demsternessen bi den graue</l>
 <l>Mar doe si dis was comenaue</l>
 <l>Ende si dat beden laten woude</l>
-<l>Tirstdat si hare oprechten soude</l>
+<l>tirst dat si hare oprechten soude</l>
 <l>Ontfinc si daer en migel doegen</l>
 <l>Want si ontmoette metter oegen</l>
 <l>Dat ort van enen kandelere</l>
@@ -20836,8 +20817,8 @@
 <l>Dos heft te baten wert gekirt</l>
 <l>Lutgart die vrowe in allen stonden</l>
 <l>Al dis si hare heft onderwonden</l>
-<l>Vandindat marie van andene genas van enen</l>
-<l>griweliken houetsuere</l>
+<l parse="ignore">Vandindat marie van andene genas van enen</l>
+<l parse="ignore">griweliken houetsuere</l>
 <l>.xxvij. Noch was ene andre in dabdie.</l>
 <l>Die van andene uer marie.</l>
 <l>Jn dat latijn ons es genamt</l>
@@ -20883,7 +20864,7 @@
 <l>Mirakle ende wonder groet</l>
 <l>Dat got die alle dinc geboet</l>
 <l>Aldaer lutgarden teeren dede</l>
-<l>Tirstdat der vrowen hoeft darmede</l>
+<l>tirst dat der vrowen hoeft darmede</l>
 <l>Verbonden was alsic vertrac</l>
 <l>So voerenwech dat ongemac</l>
 <l>Ende op ter seluer vren stont</l>
@@ -20940,7 +20921,7 @@
 <l>Dos voer die bode weder henen</l>
 <l>Ende opgeleuert heft der vrowen</l>
 <l>Die noch alteenen lach teblowen</l>
-<l>fisicine met door hand H bovengeschreven e: fisiciene</l>
+<l parse="ignore">fisicine met door hand H bovengeschreven e: fisiciene</l>
 <l>Van groten leede in din lichame</l>
 <l>Dat gordelkijn daer so bequame</l>
 <l>Af was der vrowen dat prosent</l>
@@ -20958,7 +20939,7 @@
 <l>Alhirteneuen ons beghit</l>
 <l>En latic achterbliuen nit</l>
 <l>Want recht es dat ict v bescriue</l>
-<l>Tirstdat din ongesonden wiue</l>
+<l>tirst dat din ongesonden wiue</l>
 <l>Lutgarden gordel was genakt</l>
 <l>So wart die gods genade ontwakt</l>
 <l>Te hare wert. ende si gelach</l>
@@ -20970,8 +20951,8 @@
 <l>Beide in din closter ende buten</l>
 <l>Mar nv es tijt dat wi besluten</l>
 <l>Der vrowen vite. ende ons onttin</l>
-<l>Dis dichtens. want vanallendinDat</l>
-<l>ic vinde in latijn bescreuen</l>
+<l>Dis dichtens. want vanallendin</l>
+<l>Dat ic vinde in latijn bescreuen</l>
 <l>Hebdi volhoert der vrowen leuen</l>
 <l>Dis willic v gode onsen here</l>
 <l>Beuelen. mar ic biddv sere</l>
@@ -20993,7 +20974,7 @@
 <l>Ende allegader die hir sijt</l>
 <l>Versament tesen inde nv</l>
 <l>Bidt ouer mi dis biddic v.</l>
-<l>Dit es de conclusie van desen boeken.</l>
+<l parse="ignore">Dit es de conclusie van desen boeken.</l>
 <l>Nv es dit boec ten inde comen.</l>
 <l>Got gheue dat het mote vromen.</l>
 <l>Hen allegadren die dat lesen</l>
@@ -21069,8 +21050,8 @@
 <l>Altoes met mi in din gebede</l>
 <l>Ende dat deghene oc plechten mede</l>
 <l>Ende alre vromen met genieten</l>
-<l>lees brosche</l>
-<l>lees dese</l>
+<l parse="ignore">lees brosche</l>
+<l parse="ignore">lees dese</l>
 <l>Die hen en laten nit verdrieten</l>
 <l>Daer si die uite lesen horen</l>
 <l>Also dartoe tegheuene oren</l>
@@ -21086,8 +21067,8 @@
 <l>Daer alle sante gode louen</l>
 <l>Daer mote wi comen altesamen</l>
 <l>Nv segget allegader Amen.</l>
-<l>[Obiit] lutgardis .xvi. kalendas Julii. Et sunt elapsi anni</l>
-<l>.xxviii.</l>
+<l parse="ignore">[Obiit] lutgardis .xvi. kalendas Julii. Et sunt elapsi anni</l>
+<l parse="ignore">.xxviii.</l>
 </text>
 <!--</ENTRY>
 --></TEI.2>

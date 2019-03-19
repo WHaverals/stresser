@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split as split
 def main():
     parser = argparse.ArgumentParser(description='Splits available data in train-dev-test')
     parser.add_argument('--input_file', type=str,
-                        default='data/stresses.json',
+                        default='data/middle_dutch_stresses.json',
                         help='location of the full data file')
     parser.add_argument('--split_dir', type=str,
                         default='data/splits',
@@ -18,7 +18,7 @@ def main():
                         default=.8,
                         help='Proportion of training items (dev and test are equal-size)')
     parser.add_argument('--seed', type=int,
-                        default=43438,
+                        default=13591359,  #474747
                         help='Random seed')
     args = parser.parse_args()
     print(args)
