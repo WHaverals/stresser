@@ -55,8 +55,8 @@ def main():
     parser.add_argument('--model_dir', type=str, default='model_s')
     parser.add_argument('--no_crf', default=False, action='store_true',
                         help='Exclude the CRF from the model')
-    parser.add_argument('--infile', type=str, default='data/xml_mnl/Lutgard_K.xml')
-    parser.add_argument('--outfile', type=str, default='Lutgart_poly.json')
+    parser.add_argument('--infile', type=str, default='data/xml_mnl/Lutgard_K_fragment.xml')
+    parser.add_argument('--outfile', type=str, default='data/Lutgart_polysyllab_verses.json')
     args = parser.parse_args()
     m_path = os.sep.join((args.model_dir, 'syllab.model'))
 
